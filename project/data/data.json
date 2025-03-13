@@ -1,0 +1,6248 @@
+[
+    {
+        "Name": "Toyota",
+        "Logo": "../images/Toyota.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 17903
+                    },
+                    "Februar": {
+                        "VZ": 19374
+                    },
+                    "März": {
+                        "VZ": 18961
+                    },
+                    "April": {
+                        "VZ": 20771
+                    },
+                    "Mai": {
+                        "VZ": 23389
+                    },
+                    "Juni": {
+                        "VZ": 20903
+                    },
+                    "Juli": {
+                        "VZ": 22705
+                    },
+                    "August": {
+                        "VZ": 21490
+                    },
+                    "September": {
+                        "VZ": 18110
+                    },
+                    "Oktober": {
+                        "VZ": 18471
+                    },
+                    "November": {
+                        "VZ": 20562
+                    },
+                    "Dezember": {
+                        "VZ": 18657
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1632
+                    },
+                    "Februar": {
+                        "VZ": 1127
+                    },
+                    "März": {
+                        "VZ": 1584
+                    },
+                    "April": {
+                        "VZ": 1663
+                    },
+                    "Mai": {
+                        "VZ": 1384
+                    },
+                    "Juni": {
+                        "VZ": 1203
+                    },
+                    "Juli": {
+                        "VZ": 980
+                    },
+                    "August": {
+                        "VZ": 1249
+                    },
+                    "September": {
+                        "VZ": 2238
+                    },
+                    "Oktober": {
+                        "VZ": 2420
+                    },
+                    "November": {
+                        "VZ": 3404
+                    },
+                    "Dezember": {
+                        "VZ": 1849
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 121
+                    },
+                    "Februar": {
+                        "VZ": 69
+                    },
+                    "März": {
+                        "VZ": 96
+                    },
+                    "April": {
+                        "VZ": 113
+                    },
+                    "Mai": {
+                        "VZ": 15
+                    },
+                    "Juni": {
+                        "VZ": 189
+                    },
+                    "Juli": {
+                        "VZ": 25
+                    },
+                    "August": {
+                        "VZ": 28
+                    },
+                    "September": {
+                        "VZ": 33
+                    },
+                    "Oktober": {
+                        "VZ": 48
+                    },
+                    "November": {
+                        "VZ": 67
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1000
+                    },
+                    "Februar": {
+                        "VZ": 1000
+                    },
+                    "März": {
+                        "VZ": 1000
+                    },
+                    "April": {
+                        "VZ": 1000
+                    },
+                    "Mai": {
+                        "VZ": 1000
+                    },
+                    "Juni": {
+                        "VZ": 1000
+                    },
+                    "Juli": {
+                        "VZ": 1000
+                    },
+                    "August": {
+                        "VZ": 1000
+                    },
+                    "September": {
+                        "VZ": 1000
+                    },
+                    "Oktober": {
+                        "VZ": 1000
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Mazda",
+        "Logo": "../images/Mazda.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 8165
+                    },
+                    "Februar": {
+                        "VZ": 7350
+                    },
+                    "März": {
+                        "VZ": 8246
+                    },
+                    "April": {
+                        "VZ": 7301
+                    },
+                    "Mai": {
+                        "VZ": 8002
+                    },
+                    "Juni": {
+                        "VZ": 9483
+                    },
+                    "Juli": {
+                        "VZ": 8476
+                    },
+                    "August": {
+                        "VZ": 8263
+                    },
+                    "September": {
+                        "VZ": 8201
+                    },
+                    "Oktober": {
+                        "VZ": 7656
+                    },
+                    "November": {
+                        "VZ": 7588
+                    },
+                    "Dezember": {
+                        "VZ": 7256
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 318
+                    },
+                    "Februar": {
+                        "VZ": 290
+                    },
+                    "März": {
+                        "VZ": 269
+                    },
+                    "April": {
+                        "VZ": 182
+                    },
+                    "Mai": {
+                        "VZ": 349
+                    },
+                    "Juni": {
+                        "VZ": 258
+                    },
+                    "Juli": {
+                        "VZ": 333
+                    },
+                    "August": {
+                        "VZ": 315
+                    },
+                    "September": {
+                        "VZ": 333
+                    },
+                    "Oktober": {
+                        "VZ": 486
+                    },
+                    "November": {
+                        "VZ": 426
+                    },
+                    "Dezember": {
+                        "VZ": 173
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 2
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Ford",
+        "Logo": "../images/Ford.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6624
+                    },
+                    "Februar": {
+                        "VZ": 7275
+                    },
+                    "März": {
+                        "VZ": 8776
+                    },
+                    "April": {
+                        "VZ": 8648
+                    },
+                    "Mai": {
+                        "VZ": 8806
+                    },
+                    "Juni": {
+                        "VZ": 9493
+                    },
+                    "Juli": {
+                        "VZ": 7749
+                    },
+                    "August": {
+                        "VZ": 8890
+                    },
+                    "September": {
+                        "VZ": 8303
+                    },
+                    "Oktober": {
+                        "VZ": 8581
+                    },
+                    "November": {
+                        "VZ": 8720
+                    },
+                    "Dezember": {
+                        "VZ": 8305
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 443
+                    },
+                    "Februar": {
+                        "VZ": 375
+                    },
+                    "März": {
+                        "VZ": 276
+                    },
+                    "April": {
+                        "VZ": 321
+                    },
+                    "Mai": {
+                        "VZ": 218
+                    },
+                    "Juni": {
+                        "VZ": 274
+                    },
+                    "Juli": {
+                        "VZ": 210
+                    },
+                    "August": {
+                        "VZ": 256
+                    },
+                    "September": {
+                        "VZ": 604
+                    },
+                    "Oktober": {
+                        "VZ": 678
+                    },
+                    "November": {
+                        "VZ": 711
+                    },
+                    "Dezember": {
+                        "VZ": 298
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 30
+                    },
+                    "Februar": {
+                        "VZ": 29
+                    },
+                    "März": {
+                        "VZ": 41
+                    },
+                    "April": {
+                        "VZ": 22
+                    },
+                    "Mai": {
+                        "VZ": 6
+                    },
+                    "Juni": {
+                        "VZ": 11
+                    },
+                    "Juli": {
+                        "VZ": 12
+                    },
+                    "August": {
+                        "VZ": 15
+                    },
+                    "September": {
+                        "VZ": 16
+                    },
+                    "Oktober": {
+                        "VZ": 23
+                    },
+                    "November": {
+                        "VZ": 19
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Hyundai",
+        "Logo": "../images/Hyundai.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6162
+                    },
+                    "Februar": {
+                        "VZ": 5703
+                    },
+                    "März": {
+                        "VZ": 5985
+                    },
+                    "April": {
+                        "VZ": 5185
+                    },
+                    "Mai": {
+                        "VZ": 6495
+                    },
+                    "Juni": {
+                        "VZ": 6552
+                    },
+                    "Juli": {
+                        "VZ": 6021
+                    },
+                    "August": {
+                        "VZ": 6211
+                    },
+                    "September": {
+                        "VZ": 5633
+                    },
+                    "Oktober": {
+                        "VZ": 7086
+                    },
+                    "November": {
+                        "VZ": 5606
+                    },
+                    "Dezember": {
+                        "VZ": 5025
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 292
+                    },
+                    "Februar": {
+                        "VZ": 207
+                    },
+                    "März": {
+                        "VZ": 319
+                    },
+                    "April": {
+                        "VZ": 219
+                    },
+                    "Mai": {
+                        "VZ": 333
+                    },
+                    "Juni": {
+                        "VZ": 488
+                    },
+                    "Juli": {
+                        "VZ": 266
+                    },
+                    "August": {
+                        "VZ": 320
+                    },
+                    "September": {
+                        "VZ": 335
+                    },
+                    "Oktober": {
+                        "VZ": 347
+                    },
+                    "November": {
+                        "VZ": 334
+                    },
+                    "Dezember": {
+                        "VZ": 183
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 59
+                    },
+                    "Februar": {
+                        "VZ": 25
+                    },
+                    "März": {
+                        "VZ": 27
+                    },
+                    "April": {
+                        "VZ": 36
+                    },
+                    "Mai": {
+                        "VZ": 7
+                    },
+                    "Juni": {
+                        "VZ": 6
+                    },
+                    "Juli": {
+                        "VZ": 8
+                    },
+                    "August": {
+                        "VZ": 3
+                    },
+                    "September": {
+                        "VZ": 8
+                    },
+                    "Oktober": {
+                        "VZ": 22
+                    },
+                    "November": {
+                        "VZ": 11
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Mitsubishi",
+        "Logo": "../images/Mitsubishi.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5911
+                    },
+                    "Februar": {
+                        "VZ": 6411
+                    },
+                    "März": {
+                        "VZ": 7866
+                    },
+                    "April": {
+                        "VZ": 5314
+                    },
+                    "Mai": {
+                        "VZ": 6409
+                    },
+                    "Juni": {
+                        "VZ": 7723
+                    },
+                    "Juli": {
+                        "VZ": 5718
+                    },
+                    "August": {
+                        "VZ": 5516
+                    },
+                    "September": {
+                        "VZ": 6130
+                    },
+                    "Oktober": {
+                        "VZ": 5590
+                    },
+                    "November": {
+                        "VZ": 6205
+                    },
+                    "Dezember": {
+                        "VZ": 5754
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1142
+                    },
+                    "Februar": {
+                        "VZ": 580
+                    },
+                    "März": {
+                        "VZ": 808
+                    },
+                    "April": {
+                        "VZ": 542
+                    },
+                    "Mai": {
+                        "VZ": 660
+                    },
+                    "Juni": {
+                        "VZ": 680
+                    },
+                    "Juli": {
+                        "VZ": 755
+                    },
+                    "August": {
+                        "VZ": 714
+                    },
+                    "September": {
+                        "VZ": 1112
+                    },
+                    "Oktober": {
+                        "VZ": 1174
+                    },
+                    "November": {
+                        "VZ": 757
+                    },
+                    "Dezember": {
+                        "VZ": 996
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6
+                    },
+                    "Februar": {
+                        "VZ": 13
+                    },
+                    "März": {
+                        "VZ": 20
+                    },
+                    "April": {
+                        "VZ": 14
+                    },
+                    "Mai": {
+                        "VZ": 6
+                    },
+                    "Juni": {
+                        "VZ": 8
+                    },
+                    "Juli": {
+                        "VZ": 8
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 5
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Kia",
+        "Logo": "../images/Kia.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5707
+                    },
+                    "Februar": {
+                        "VZ": 6141
+                    },
+                    "März": {
+                        "VZ": 7070
+                    },
+                    "April": {
+                        "VZ": 6653
+                    },
+                    "Mai": {
+                        "VZ": 7504
+                    },
+                    "Juni": {
+                        "VZ": 8225
+                    },
+                    "Juli": {
+                        "VZ": 6620
+                    },
+                    "August": {
+                        "VZ": 6903
+                    },
+                    "September": {
+                        "VZ": 7650
+                    },
+                    "Oktober": {
+                        "VZ": 6602
+                    },
+                    "November": {
+                        "VZ": 6410
+                    },
+                    "Dezember": {
+                        "VZ": 6302
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 826
+                    },
+                    "Februar": {
+                        "VZ": 423
+                    },
+                    "März": {
+                        "VZ": 968
+                    },
+                    "April": {
+                        "VZ": 595
+                    },
+                    "Mai": {
+                        "VZ": 680
+                    },
+                    "Juni": {
+                        "VZ": 582
+                    },
+                    "Juli": {
+                        "VZ": 732
+                    },
+                    "August": {
+                        "VZ": 844
+                    },
+                    "September": {
+                        "VZ": 813
+                    },
+                    "Oktober": {
+                        "VZ": 1298
+                    },
+                    "November": {
+                        "VZ": 338
+                    },
+                    "Dezember": {
+                        "VZ": 587
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 34
+                    },
+                    "Februar": {
+                        "VZ": 23
+                    },
+                    "März": {
+                        "VZ": 17
+                    },
+                    "April": {
+                        "VZ": 23
+                    },
+                    "Mai": {
+                        "VZ": 3
+                    },
+                    "Juni": {
+                        "VZ": 24
+                    },
+                    "Juli": {
+                        "VZ": 5
+                    },
+                    "August": {
+                        "VZ": 7
+                    },
+                    "September": {
+                        "VZ": 9
+                    },
+                    "Oktober": {
+                        "VZ": 7
+                    },
+                    "November": {
+                        "VZ": 5
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "MG",
+        "Logo": "../images/MG.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 4006
+                    },
+                    "Februar": {
+                        "VZ": 4474
+                    },
+                    "März": {
+                        "VZ": 3949
+                    },
+                    "April": {
+                        "VZ": 3781
+                    },
+                    "Mai": {
+                        "VZ": 4159
+                    },
+                    "Juni": {
+                        "VZ": 4224
+                    },
+                    "Juli": {
+                        "VZ": 4101
+                    },
+                    "August": {
+                        "VZ": 3561
+                    },
+                    "September": {
+                        "VZ": 3841
+                    },
+                    "Oktober": {
+                        "VZ": 5206
+                    },
+                    "November": {
+                        "VZ": 5072
+                    },
+                    "Dezember": {
+                        "VZ": 4218
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 196
+                    },
+                    "Februar": {
+                        "VZ": 223
+                    },
+                    "März": {
+                        "VZ": 307
+                    },
+                    "April": {
+                        "VZ": 208
+                    },
+                    "Mai": {
+                        "VZ": 258
+                    },
+                    "Juni": {
+                        "VZ": 162
+                    },
+                    "Juli": {
+                        "VZ": 223
+                    },
+                    "August": {
+                        "VZ": 298
+                    },
+                    "September": {
+                        "VZ": 337
+                    },
+                    "Oktober": {
+                        "VZ": 313
+                    },
+                    "November": {
+                        "VZ": 291
+                    },
+                    "Dezember": {
+                        "VZ": 256
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 10
+                    },
+                    "Februar": {
+                        "VZ": 10
+                    },
+                    "März": {
+                        "VZ": 14
+                    },
+                    "April": {
+                        "VZ": 15
+                    },
+                    "Mai": {
+                        "VZ": 3
+                    },
+                    "Juni": {
+                        "VZ": 9
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 3
+                    },
+                    "November": {
+                        "VZ": 3
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Isuzu",
+        "Logo": "../images/Isuzu.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3758
+                    },
+                    "Februar": {
+                        "VZ": 4692
+                    },
+                    "März": {
+                        "VZ": 4351
+                    },
+                    "April": {
+                        "VZ": 4256
+                    },
+                    "Mai": {
+                        "VZ": 4401
+                    },
+                    "Juni": {
+                        "VZ": 4445
+                    },
+                    "Juli": {
+                        "VZ": 3821
+                    },
+                    "August": {
+                        "VZ": 3924
+                    },
+                    "September": {
+                        "VZ": 3929
+                    },
+                    "Oktober": {
+                        "VZ": 3651
+                    },
+                    "November": {
+                        "VZ": 3386
+                    },
+                    "Dezember": {
+                        "VZ": 3558
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 25
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 8
+                    },
+                    "Mai": {
+                        "VZ": 43
+                    },
+                    "Juni": {
+                        "VZ": 28
+                    },
+                    "Juli": {
+                        "VZ": 15
+                    },
+                    "August": {
+                        "VZ": 19
+                    },
+                    "September": {
+                        "VZ": 27
+                    },
+                    "Oktober": {
+                        "VZ": 17
+                    },
+                    "November": {
+                        "VZ": 16
+                    },
+                    "Dezember": {
+                        "VZ": 15
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 15
+                    },
+                    "März": {
+                        "VZ": 17
+                    },
+                    "April": {
+                        "VZ": 11
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 6
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 4
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "GWM",
+        "Logo": "../images/GWM.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3124
+                    },
+                    "Februar": {
+                        "VZ": 3458
+                    },
+                    "März": {
+                        "VZ": 3619
+                    },
+                    "April": {
+                        "VZ": 3330
+                    },
+                    "Mai": {
+                        "VZ": 3820
+                    },
+                    "Juni": {
+                        "VZ": 4173
+                    },
+                    "Juli": {
+                        "VZ": 3319
+                    },
+                    "August": {
+                        "VZ": 3148
+                    },
+                    "September": {
+                        "VZ": 3802
+                    },
+                    "Oktober": {
+                        "VZ": 3350
+                    },
+                    "November": {
+                        "VZ": 3566
+                    },
+                    "Dezember": {
+                        "VZ": 4073
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 297
+                    },
+                    "Februar": {
+                        "VZ": 199
+                    },
+                    "März": {
+                        "VZ": 283
+                    },
+                    "April": {
+                        "VZ": 248
+                    },
+                    "Mai": {
+                        "VZ": 221
+                    },
+                    "Juni": {
+                        "VZ": 175
+                    },
+                    "Juli": {
+                        "VZ": 209
+                    },
+                    "August": {
+                        "VZ": 204
+                    },
+                    "September": {
+                        "VZ": 200
+                    },
+                    "Oktober": {
+                        "VZ": 196
+                    },
+                    "November": {
+                        "VZ": 169
+                    },
+                    "Dezember": {
+                        "VZ": 237
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Subaru",
+        "Logo": "../images/Subaru.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3068
+                    },
+                    "Februar": {
+                        "VZ": 3802
+                    },
+                    "März": {
+                        "VZ": 3766
+                    },
+                    "April": {
+                        "VZ": 3246
+                    },
+                    "Mai": {
+                        "VZ": 3401
+                    },
+                    "Juni": {
+                        "VZ": 4460
+                    },
+                    "Juli": {
+                        "VZ": 3601
+                    },
+                    "August": {
+                        "VZ": 3004
+                    },
+                    "September": {
+                        "VZ": 3169
+                    },
+                    "Oktober": {
+                        "VZ": 3116
+                    },
+                    "November": {
+                        "VZ": 3002
+                    },
+                    "Dezember": {
+                        "VZ": 2969
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 219
+                    },
+                    "Februar": {
+                        "VZ": 126
+                    },
+                    "März": {
+                        "VZ": 147
+                    },
+                    "April": {
+                        "VZ": 127
+                    },
+                    "Mai": {
+                        "VZ": 165
+                    },
+                    "Juni": {
+                        "VZ": 197
+                    },
+                    "Juli": {
+                        "VZ": 142
+                    },
+                    "August": {
+                        "VZ": 133
+                    },
+                    "September": {
+                        "VZ": 154
+                    },
+                    "Oktober": {
+                        "VZ": 158
+                    },
+                    "November": {
+                        "VZ": 147
+                    },
+                    "Dezember": {
+                        "VZ": 286
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 12
+                    },
+                    "Februar": {
+                        "VZ": 22
+                    },
+                    "März": {
+                        "VZ": 8
+                    },
+                    "April": {
+                        "VZ": 17
+                    },
+                    "Mai": {
+                        "VZ": 6
+                    },
+                    "Juni": {
+                        "VZ": 5
+                    },
+                    "Juli": {
+                        "VZ": 2
+                    },
+                    "August": {
+                        "VZ": 3
+                    },
+                    "September": {
+                        "VZ": 5
+                    },
+                    "Oktober": {
+                        "VZ": 7
+                    },
+                    "November": {
+                        "VZ": 8
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Volkswagen",
+        "Logo": "../images/VW.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2717
+                    },
+                    "Februar": {
+                        "VZ": 3169
+                    },
+                    "März": {
+                        "VZ": 3026
+                    },
+                    "April": {
+                        "VZ": 2838
+                    },
+                    "Mai": {
+                        "VZ": 3362
+                    },
+                    "Juni": {
+                        "VZ": 3758
+                    },
+                    "Juli": {
+                        "VZ": 2537
+                    },
+                    "August": {
+                        "VZ": 2790
+                    },
+                    "September": {
+                        "VZ": 3071
+                    },
+                    "Oktober": {
+                        "VZ": 3279
+                    },
+                    "November": {
+                        "VZ": 3214
+                    },
+                    "Dezember": {
+                        "VZ": 2719
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 207
+                    },
+                    "Februar": {
+                        "VZ": 169
+                    },
+                    "März": {
+                        "VZ": 156
+                    },
+                    "April": {
+                        "VZ": 155
+                    },
+                    "Mai": {
+                        "VZ": 157
+                    },
+                    "Juni": {
+                        "VZ": 126
+                    },
+                    "Juli": {
+                        "VZ": 210
+                    },
+                    "August": {
+                        "VZ": 216
+                    },
+                    "September": {
+                        "VZ": 210
+                    },
+                    "Oktober": {
+                        "VZ": 217
+                    },
+                    "November": {
+                        "VZ": 234
+                    },
+                    "Dezember": {
+                        "VZ": 132
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 1
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Nissan",
+        "Logo": "../images/Nissan.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2700
+                    },
+                    "Februar": {
+                        "VZ": 6617
+                    },
+                    "März": {
+                        "VZ": 4976
+                    },
+                    "April": {
+                        "VZ": 2905
+                    },
+                    "Mai": {
+                        "VZ": 3401
+                    },
+                    "Juni": {
+                        "VZ": 4293
+                    },
+                    "Juli": {
+                        "VZ": 3301
+                    },
+                    "August": {
+                        "VZ": 3376
+                    },
+                    "September": {
+                        "VZ": 3067
+                    },
+                    "Oktober": {
+                        "VZ": 3050
+                    },
+                    "November": {
+                        "VZ": 3350
+                    },
+                    "Dezember": {
+                        "VZ": 4224
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 368
+                    },
+                    "Februar": {
+                        "VZ": 222
+                    },
+                    "März": {
+                        "VZ": 264
+                    },
+                    "April": {
+                        "VZ": 214
+                    },
+                    "Mai": {
+                        "VZ": 146
+                    },
+                    "Juni": {
+                        "VZ": 99
+                    },
+                    "Juli": {
+                        "VZ": 161
+                    },
+                    "August": {
+                        "VZ": 187
+                    },
+                    "September": {
+                        "VZ": 317
+                    },
+                    "Oktober": {
+                        "VZ": 233
+                    },
+                    "November": {
+                        "VZ": 130
+                    },
+                    "Dezember": {
+                        "VZ": 103
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 20
+                    },
+                    "Februar": {
+                        "VZ": 12
+                    },
+                    "März": {
+                        "VZ": 18
+                    },
+                    "April": {
+                        "VZ": 16
+                    },
+                    "Mai": {
+                        "VZ": 7
+                    },
+                    "Juni": {
+                        "VZ": 4
+                    },
+                    "Juli": {
+                        "VZ": 6
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 5
+                    },
+                    "November": {
+                        "VZ": 13
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "LDV",
+        "Logo": "../images/LDV.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1812
+                    },
+                    "Februar": {
+                        "VZ": 1387
+                    },
+                    "März": {
+                        "VZ": 1346
+                    },
+                    "April": {
+                        "VZ": 1178
+                    },
+                    "Mai": {
+                        "VZ": 1416
+                    },
+                    "Juni": {
+                        "VZ": 1657
+                    },
+                    "Juli": {
+                        "VZ": 1390
+                    },
+                    "August": {
+                        "VZ": 1209
+                    },
+                    "September": {
+                        "VZ": 1104
+                    },
+                    "Oktober": {
+                        "VZ": 1216
+                    },
+                    "November": {
+                        "VZ": 1220
+                    },
+                    "Dezember": {
+                        "VZ": 1087
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6
+                    },
+                    "Februar": {
+                        "VZ": 10
+                    },
+                    "März": {
+                        "VZ": 8
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 1
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 4
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "BMW",
+        "Logo": "../images/BMW.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1602
+                    },
+                    "Februar": {
+                        "VZ": 1710
+                    },
+                    "März": {
+                        "VZ": 2532
+                    },
+                    "April": {
+                        "VZ": 2074
+                    },
+                    "Mai": {
+                        "VZ": 2577
+                    },
+                    "Juni": {
+                        "VZ": 3146
+                    },
+                    "Juli": {
+                        "VZ": 2130
+                    },
+                    "August": {
+                        "VZ": 1533
+                    },
+                    "September": {
+                        "VZ": 2340
+                    },
+                    "Oktober": {
+                        "VZ": 2017
+                    },
+                    "November": {
+                        "VZ": 2215
+                    },
+                    "Dezember": {
+                        "VZ": 2465
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 160
+                    },
+                    "Februar": {
+                        "VZ": 98
+                    },
+                    "März": {
+                        "VZ": 194
+                    },
+                    "April": {
+                        "VZ": 73
+                    },
+                    "Mai": {
+                        "VZ": 115
+                    },
+                    "Juni": {
+                        "VZ": 122
+                    },
+                    "Juli": {
+                        "VZ": 123
+                    },
+                    "August": {
+                        "VZ": 82
+                    },
+                    "September": {
+                        "VZ": 171
+                    },
+                    "Oktober": {
+                        "VZ": 112
+                    },
+                    "November": {
+                        "VZ": 77
+                    },
+                    "Dezember": {
+                        "VZ": 159
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 6
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 4
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 4
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 3
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Suzuki",
+        "Logo": "../images/Suzuki.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1527
+                    },
+                    "Februar": {
+                        "VZ": 1742
+                    },
+                    "März": {
+                        "VZ": 2023
+                    },
+                    "April": {
+                        "VZ": 1622
+                    },
+                    "Mai": {
+                        "VZ": 1802
+                    },
+                    "Juni": {
+                        "VZ": 1770
+                    },
+                    "Juli": {
+                        "VZ": 1734
+                    },
+                    "August": {
+                        "VZ": 1975
+                    },
+                    "September": {
+                        "VZ": 1723
+                    },
+                    "Oktober": {
+                        "VZ": 1752
+                    },
+                    "November": {
+                        "VZ": 2253
+                    },
+                    "Dezember": {
+                        "VZ": 1355
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 538
+                    },
+                    "Februar": {
+                        "VZ": 476
+                    },
+                    "März": {
+                        "VZ": 376
+                    },
+                    "April": {
+                        "VZ": 488
+                    },
+                    "Mai": {
+                        "VZ": 505
+                    },
+                    "Juni": {
+                        "VZ": 399
+                    },
+                    "Juli": {
+                        "VZ": 480
+                    },
+                    "August": {
+                        "VZ": 444
+                    },
+                    "September": {
+                        "VZ": 359
+                    },
+                    "Oktober": {
+                        "VZ": 400
+                    },
+                    "November": {
+                        "VZ": 457
+                    },
+                    "Dezember": {
+                        "VZ": 297
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 44
+                    },
+                    "Februar": {
+                        "VZ": 67
+                    },
+                    "März": {
+                        "VZ": 37
+                    },
+                    "April": {
+                        "VZ": 55
+                    },
+                    "Mai": {
+                        "VZ": 7
+                    },
+                    "Juni": {
+                        "VZ": 18
+                    },
+                    "Juli": {
+                        "VZ": 7
+                    },
+                    "August": {
+                        "VZ": 11
+                    },
+                    "September": {
+                        "VZ": 18
+                    },
+                    "Oktober": {
+                        "VZ": 25
+                    },
+                    "November": {
+                        "VZ": 17
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Mercedes-Benz",
+        "Logo": "../images/Mercedes.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1365
+                    },
+                    "Februar": {
+                        "VZ": 1645
+                    },
+                    "März": {
+                        "VZ": 1903
+                    },
+                    "April": {
+                        "VZ": 2057
+                    },
+                    "Mai": {
+                        "VZ": 2576
+                    },
+                    "Juni": {
+                        "VZ": 2412
+                    },
+                    "Juli": {
+                        "VZ": 1948
+                    },
+                    "August": {
+                        "VZ": 2518
+                    },
+                    "September": {
+                        "VZ": 2035
+                    },
+                    "Oktober": {
+                        "VZ": 2237
+                    },
+                    "November": {
+                        "VZ": 1979
+                    },
+                    "Dezember": {
+                        "VZ": 2156
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 118
+                    },
+                    "Februar": {
+                        "VZ": 123
+                    },
+                    "März": {
+                        "VZ": 134
+                    },
+                    "April": {
+                        "VZ": 93
+                    },
+                    "Mai": {
+                        "VZ": 98
+                    },
+                    "Juni": {
+                        "VZ": 116
+                    },
+                    "Juli": {
+                        "VZ": 142
+                    },
+                    "August": {
+                        "VZ": 139
+                    },
+                    "September": {
+                        "VZ": 72
+                    },
+                    "Oktober": {
+                        "VZ": 84
+                    },
+                    "November": {
+                        "VZ": 118
+                    },
+                    "Dezember": {
+                        "VZ": 123
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 13
+                    },
+                    "Februar": {
+                        "VZ": 6
+                    },
+                    "März": {
+                        "VZ": 8
+                    },
+                    "April": {
+                        "VZ": 6
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 8
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 5
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 9
+                    },
+                    "November": {
+                        "VZ": 5
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Honda",
+        "Logo": "../images/Honda.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1346
+                    },
+                    "Februar": {
+                        "VZ": 1709
+                    },
+                    "März": {
+                        "VZ": 1628
+                    },
+                    "April": {
+                        "VZ": 1191
+                    },
+                    "Mai": {
+                        "VZ": 1333
+                    },
+                    "Juni": {
+                        "VZ": 1498
+                    },
+                    "Juli": {
+                        "VZ": 1152
+                    },
+                    "August": {
+                        "VZ": 846
+                    },
+                    "September": {
+                        "VZ": 903
+                    },
+                    "Oktober": {
+                        "VZ": 854
+                    },
+                    "November": {
+                        "VZ": 547
+                    },
+                    "Dezember": {
+                        "VZ": 1085
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 348
+                    },
+                    "Februar": {
+                        "VZ": 310
+                    },
+                    "März": {
+                        "VZ": 318
+                    },
+                    "April": {
+                        "VZ": 171
+                    },
+                    "Mai": {
+                        "VZ": 189
+                    },
+                    "Juni": {
+                        "VZ": 147
+                    },
+                    "Juli": {
+                        "VZ": 233
+                    },
+                    "August": {
+                        "VZ": 282
+                    },
+                    "September": {
+                        "VZ": 186
+                    },
+                    "Oktober": {
+                        "VZ": 318
+                    },
+                    "November": {
+                        "VZ": 292
+                    },
+                    "Dezember": {
+                        "VZ": 406
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 3
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "BYD",
+        "Logo": "../images/BYD.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1310
+                    },
+                    "Februar": {
+                        "VZ": 1549
+                    },
+                    "März": {
+                        "VZ": 1622
+                    },
+                    "April": {
+                        "VZ": 1410
+                    },
+                    "Mai": {
+                        "VZ": 1914
+                    },
+                    "Juni": {
+                        "VZ": 1743
+                    },
+                    "Juli": {
+                        "VZ": 1786
+                    },
+                    "August": {
+                        "VZ": 2021
+                    },
+                    "September": {
+                        "VZ": 1826
+                    },
+                    "Oktober": {
+                        "VZ": 1732
+                    },
+                    "November": {
+                        "VZ": 1552
+                    },
+                    "Dezember": {
+                        "VZ": 1993
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 40
+                    },
+                    "Februar": {
+                        "VZ": 37
+                    },
+                    "März": {
+                        "VZ": 49
+                    },
+                    "April": {
+                        "VZ": 28
+                    },
+                    "Mai": {
+                        "VZ": 53
+                    },
+                    "Juni": {
+                        "VZ": 100
+                    },
+                    "Juli": {
+                        "VZ": 117
+                    },
+                    "August": {
+                        "VZ": 108
+                    },
+                    "September": {
+                        "VZ": 84
+                    },
+                    "Oktober": {
+                        "VZ": 103
+                    },
+                    "November": {
+                        "VZ": 78
+                    },
+                    "Dezember": {
+                        "VZ": 112
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 6
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 6
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 9
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 5
+                    },
+                    "September": {
+                        "VZ": 5
+                    },
+                    "Oktober": {
+                        "VZ": 6
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Tesla",
+        "Logo": "../images/Tesla.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1107
+                    },
+                    "Februar": {
+                        "VZ": 5665
+                    },
+                    "März": {
+                        "VZ": 6017
+                    },
+                    "April": {
+                        "VZ": 2077
+                    },
+                    "Mai": {
+                        "VZ": 3567
+                    },
+                    "Juni": {
+                        "VZ": 4683
+                    },
+                    "Juli": {
+                        "VZ": 2592
+                    },
+                    "August": {
+                        "VZ": 2393
+                    },
+                    "September": {
+                        "VZ": 2649
+                    },
+                    "Oktober": {
+                        "VZ": 1464
+                    },
+                    "November": {
+                        "VZ": 2540
+                    },
+                    "Dezember": {
+                        "VZ": 3593
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 27
+                    },
+                    "Februar": {
+                        "VZ": 152
+                    },
+                    "März": {
+                        "VZ": 199
+                    },
+                    "April": {
+                        "VZ": 67
+                    },
+                    "Mai": {
+                        "VZ": 76
+                    },
+                    "Juni": {
+                        "VZ": 107
+                    },
+                    "Juli": {
+                        "VZ": 98
+                    },
+                    "August": {
+                        "VZ": 133
+                    },
+                    "September": {
+                        "VZ": 100
+                    },
+                    "Oktober": {
+                        "VZ": 57
+                    },
+                    "November": {
+                        "VZ": 21
+                    },
+                    "Dezember": {
+                        "VZ": 250
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Audi",
+        "Logo": "../images/Audi.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1009
+                    },
+                    "Februar": {
+                        "VZ": 1219
+                    },
+                    "März": {
+                        "VZ": 1290
+                    },
+                    "April": {
+                        "VZ": 1411
+                    },
+                    "Mai": {
+                        "VZ": 1586
+                    },
+                    "Juni": {
+                        "VZ": 1668
+                    },
+                    "Juli": {
+                        "VZ": 1070
+                    },
+                    "August": {
+                        "VZ": 975
+                    },
+                    "September": {
+                        "VZ": 928
+                    },
+                    "Oktober": {
+                        "VZ": 1208
+                    },
+                    "November": {
+                        "VZ": 1418
+                    },
+                    "Dezember": {
+                        "VZ": 1551
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 118
+                    },
+                    "Februar": {
+                        "VZ": 96
+                    },
+                    "März": {
+                        "VZ": 121
+                    },
+                    "April": {
+                        "VZ": 78
+                    },
+                    "Mai": {
+                        "VZ": 100
+                    },
+                    "Juni": {
+                        "VZ": 72
+                    },
+                    "Juli": {
+                        "VZ": 83
+                    },
+                    "August": {
+                        "VZ": 85
+                    },
+                    "September": {
+                        "VZ": 91
+                    },
+                    "Oktober": {
+                        "VZ": 103
+                    },
+                    "November": {
+                        "VZ": 84
+                    },
+                    "Dezember": {
+                        "VZ": 72
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Lexus",
+        "Logo": "../images/Lexus.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 873
+                    },
+                    "Februar": {
+                        "VZ": 1009
+                    },
+                    "März": {
+                        "VZ": 1106
+                    },
+                    "April": {
+                        "VZ": 1069
+                    },
+                    "Mai": {
+                        "VZ": 1020
+                    },
+                    "Juni": {
+                        "VZ": 1209
+                    },
+                    "Juli": {
+                        "VZ": 1266
+                    },
+                    "August": {
+                        "VZ": 1110
+                    },
+                    "September": {
+                        "VZ": 1098
+                    },
+                    "Oktober": {
+                        "VZ": 1374
+                    },
+                    "November": {
+                        "VZ": 1235
+                    },
+                    "Dezember": {
+                        "VZ": 1273
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 111
+                    },
+                    "Februar": {
+                        "VZ": 117
+                    },
+                    "März": {
+                        "VZ": 131
+                    },
+                    "April": {
+                        "VZ": 104
+                    },
+                    "Mai": {
+                        "VZ": 96
+                    },
+                    "Juni": {
+                        "VZ": 102
+                    },
+                    "Juli": {
+                        "VZ": 106
+                    },
+                    "August": {
+                        "VZ": 86
+                    },
+                    "September": {
+                        "VZ": 89
+                    },
+                    "Oktober": {
+                        "VZ": 123
+                    },
+                    "November": {
+                        "VZ": 125
+                    },
+                    "Dezember": {
+                        "VZ": 139
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Chery",
+        "Logo": "../images/Chery.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 729
+                    },
+                    "Februar": {
+                        "VZ": 629
+                    },
+                    "März": {
+                        "VZ": 555
+                    },
+                    "April": {
+                        "VZ": 585
+                    },
+                    "Mai": {
+                        "VZ": 718
+                    },
+                    "Juni": {
+                        "VZ": 1079
+                    },
+                    "Juli": {
+                        "VZ": 857
+                    },
+                    "August": {
+                        "VZ": 1088
+                    },
+                    "September": {
+                        "VZ": 1268
+                    },
+                    "Oktober": {
+                        "VZ": 1448
+                    },
+                    "November": {
+                        "VZ": 1762
+                    },
+                    "Dezember": {
+                        "VZ": 1885
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Volvo",
+        "Logo": "../images/Volvo.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 644
+                    },
+                    "Februar": {
+                        "VZ": 604
+                    },
+                    "März": {
+                        "VZ": 641
+                    },
+                    "April": {
+                        "VZ": 728
+                    },
+                    "Mai": {
+                        "VZ": 1042
+                    },
+                    "Juni": {
+                        "VZ": 1082
+                    },
+                    "Juli": {
+                        "VZ": 785
+                    },
+                    "August": {
+                        "VZ": 820
+                    },
+                    "September": {
+                        "VZ": 628
+                    },
+                    "Oktober": {
+                        "VZ": 686
+                    },
+                    "November": {
+                        "VZ": 622
+                    },
+                    "Dezember": {
+                        "VZ": 616
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 33
+                    },
+                    "Februar": {
+                        "VZ": 25
+                    },
+                    "März": {
+                        "VZ": 36
+                    },
+                    "April": {
+                        "VZ": 41
+                    },
+                    "Mai": {
+                        "VZ": 40
+                    },
+                    "Juni": {
+                        "VZ": 39
+                    },
+                    "Juli": {
+                        "VZ": 28
+                    },
+                    "August": {
+                        "VZ": 33
+                    },
+                    "September": {
+                        "VZ": 39
+                    },
+                    "Oktober": {
+                        "VZ": 42
+                    },
+                    "November": {
+                        "VZ": 16
+                    },
+                    "Dezember": {
+                        "VZ": 9
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Land Rover",
+        "Logo": "../images/Land Rover.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 522
+                    },
+                    "Februar": {
+                        "VZ": 520
+                    },
+                    "März": {
+                        "VZ": 693
+                    },
+                    "April": {
+                        "VZ": 601
+                    },
+                    "Mai": {
+                        "VZ": 687
+                    },
+                    "Juni": {
+                        "VZ": 995
+                    },
+                    "Juli": {
+                        "VZ": 789
+                    },
+                    "August": {
+                        "VZ": 683
+                    },
+                    "September": {
+                        "VZ": 623
+                    },
+                    "Oktober": {
+                        "VZ": 576
+                    },
+                    "November": {
+                        "VZ": 663
+                    },
+                    "Dezember": {
+                        "VZ": 558
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 107
+                    },
+                    "Februar": {
+                        "VZ": 111
+                    },
+                    "März": {
+                        "VZ": 145
+                    },
+                    "April": {
+                        "VZ": 81
+                    },
+                    "Mai": {
+                        "VZ": 80
+                    },
+                    "Juni": {
+                        "VZ": 99
+                    },
+                    "Juli": {
+                        "VZ": 86
+                    },
+                    "August": {
+                        "VZ": 78
+                    },
+                    "September": {
+                        "VZ": 93
+                    },
+                    "Oktober": {
+                        "VZ": 32
+                    },
+                    "November": {
+                        "VZ": 90
+                    },
+                    "Dezember": {
+                        "VZ": 61
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 7
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 9
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Porsche",
+        "Logo": "../images/Porsche.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 496
+                    },
+                    "Februar": {
+                        "VZ": 717
+                    },
+                    "März": {
+                        "VZ": 647
+                    },
+                    "April": {
+                        "VZ": 369
+                    },
+                    "Mai": {
+                        "VZ": 488
+                    },
+                    "Juni": {
+                        "VZ": 683
+                    },
+                    "Juli": {
+                        "VZ": 466
+                    },
+                    "August": {
+                        "VZ": 589
+                    },
+                    "September": {
+                        "VZ": 749
+                    },
+                    "Oktober": {
+                        "VZ": 673
+                    },
+                    "November": {
+                        "VZ": 550
+                    },
+                    "Dezember": {
+                        "VZ": 602
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 95
+                    },
+                    "Februar": {
+                        "VZ": 47
+                    },
+                    "März": {
+                        "VZ": 34
+                    },
+                    "April": {
+                        "VZ": 23
+                    },
+                    "Mai": {
+                        "VZ": 38
+                    },
+                    "Juni": {
+                        "VZ": 38
+                    },
+                    "Juli": {
+                        "VZ": 49
+                    },
+                    "August": {
+                        "VZ": 36
+                    },
+                    "September": {
+                        "VZ": 55
+                    },
+                    "Oktober": {
+                        "VZ": 20
+                    },
+                    "November": {
+                        "VZ": 39
+                    },
+                    "Dezember": {
+                        "VZ": 6
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 4
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Skoda",
+        "Logo": "../images/Skoda.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 485
+                    },
+                    "Februar": {
+                        "VZ": 533
+                    },
+                    "März": {
+                        "VZ": 535
+                    },
+                    "April": {
+                        "VZ": 475
+                    },
+                    "Mai": {
+                        "VZ": 472
+                    },
+                    "Juni": {
+                        "VZ": 446
+                    },
+                    "Juli": {
+                        "VZ": 462
+                    },
+                    "August": {
+                        "VZ": 328
+                    },
+                    "September": {
+                        "VZ": 307
+                    },
+                    "Oktober": {
+                        "VZ": 336
+                    },
+                    "November": {
+                        "VZ": 378
+                    },
+                    "Dezember": {
+                        "VZ": 258
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 77
+                    },
+                    "Februar": {
+                        "VZ": 111
+                    },
+                    "März": {
+                        "VZ": 113
+                    },
+                    "April": {
+                        "VZ": 94
+                    },
+                    "Mai": {
+                        "VZ": 71
+                    },
+                    "Juni": {
+                        "VZ": 61
+                    },
+                    "Juli": {
+                        "VZ": 85
+                    },
+                    "August": {
+                        "VZ": 137
+                    },
+                    "September": {
+                        "VZ": 112
+                    },
+                    "Oktober": {
+                        "VZ": 147
+                    },
+                    "November": {
+                        "VZ": 143
+                    },
+                    "Dezember": {
+                        "VZ": 90
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "SsangYong",
+        "Logo": "../images/SsangYong.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 468
+                    },
+                    "Februar": {
+                        "VZ": 422
+                    },
+                    "März": {
+                        "VZ": 478
+                    },
+                    "April": {
+                        "VZ": 461
+                    },
+                    "Mai": {
+                        "VZ": 624
+                    },
+                    "Juni": {
+                        "VZ": 746
+                    },
+                    "Juli": {
+                        "VZ": 364
+                    },
+                    "August": {
+                        "VZ": 312
+                    },
+                    "September": {
+                        "VZ": 441
+                    },
+                    "Oktober": {
+                        "VZ": 428
+                    },
+                    "November": {
+                        "VZ": 358
+                    },
+                    "Dezember": {
+                        "VZ": 291
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 38
+                    },
+                    "Februar": {
+                        "VZ": 14
+                    },
+                    "März": {
+                        "VZ": 9
+                    },
+                    "April": {
+                        "VZ": 7
+                    },
+                    "Mai": {
+                        "VZ": 11
+                    },
+                    "Juni": {
+                        "VZ": 28
+                    },
+                    "Juli": {
+                        "VZ": 38
+                    },
+                    "August": {
+                        "VZ": 26
+                    },
+                    "September": {
+                        "VZ": 7
+                    },
+                    "Oktober": {
+                        "VZ": 6
+                    },
+                    "November": {
+                        "VZ": 2
+                    },
+                    "Dezember": {
+                        "VZ": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Renault",
+        "Logo": "../images/Renault.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 411
+                    },
+                    "Februar": {
+                        "VZ": 514
+                    },
+                    "März": {
+                        "VZ": 533
+                    },
+                    "April": {
+                        "VZ": 403
+                    },
+                    "Mai": {
+                        "VZ": 458
+                    },
+                    "Juni": {
+                        "VZ": 650
+                    },
+                    "Juli": {
+                        "VZ": 403
+                    },
+                    "August": {
+                        "VZ": 411
+                    },
+                    "September": {
+                        "VZ": 414
+                    },
+                    "Oktober": {
+                        "VZ": 467
+                    },
+                    "November": {
+                        "VZ": 474
+                    },
+                    "Dezember": {
+                        "VZ": 418
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 11
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 5
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 1
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 44
+                    },
+                    "Februar": {
+                        "VZ": 44
+                    },
+                    "März": {
+                        "VZ": 56
+                    },
+                    "April": {
+                        "VZ": 36
+                    },
+                    "Mai": {
+                        "VZ": 6
+                    },
+                    "Juni": {
+                        "VZ": 28
+                    },
+                    "Juli": {
+                        "VZ": 30
+                    },
+                    "August": {
+                        "VZ": 34
+                    },
+                    "September": {
+                        "VZ": 16
+                    },
+                    "Oktober": {
+                        "VZ": 25
+                    },
+                    "November": {
+                        "VZ": 20
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Ram",
+        "Logo": "../images/Ram.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 340
+                    },
+                    "Februar": {
+                        "VZ": 325
+                    },
+                    "März": {
+                        "VZ": 375
+                    },
+                    "April": {
+                        "VZ": 324
+                    },
+                    "Mai": {
+                        "VZ": 273
+                    },
+                    "Juni": {
+                        "VZ": 407
+                    },
+                    "Juli": {
+                        "VZ": 303
+                    },
+                    "August": {
+                        "VZ": 286
+                    },
+                    "September": {
+                        "VZ": 276
+                    },
+                    "Oktober": {
+                        "VZ": 308
+                    },
+                    "November": {
+                        "VZ": 315
+                    },
+                    "Dezember": {
+                        "VZ": 320
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Chevrolet",
+        "Logo": "../images/Chevrolet.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 286
+                    },
+                    "Februar": {
+                        "VZ": 287
+                    },
+                    "März": {
+                        "VZ": 320
+                    },
+                    "April": {
+                        "VZ": 362
+                    },
+                    "Mai": {
+                        "VZ": 380
+                    },
+                    "Juni": {
+                        "VZ": 383
+                    },
+                    "Juli": {
+                        "VZ": 343
+                    },
+                    "August": {
+                        "VZ": 359
+                    },
+                    "September": {
+                        "VZ": 377
+                    },
+                    "Oktober": {
+                        "VZ": 381
+                    },
+                    "November": {
+                        "VZ": 400
+                    },
+                    "Dezember": {
+                        "VZ": 425
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 9
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 2
+                    },
+                    "September": {
+                        "VZ": 7
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 3
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Jeep",
+        "Logo": "../images/Jeep.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 276
+                    },
+                    "Februar": {
+                        "VZ": 219
+                    },
+                    "März": {
+                        "VZ": 235
+                    },
+                    "April": {
+                        "VZ": 210
+                    },
+                    "Mai": {
+                        "VZ": 168
+                    },
+                    "Juni": {
+                        "VZ": 174
+                    },
+                    "Juli": {
+                        "VZ": 157
+                    },
+                    "August": {
+                        "VZ": 223
+                    },
+                    "September": {
+                        "VZ": 221
+                    },
+                    "Oktober": {
+                        "VZ": 227
+                    },
+                    "November": {
+                        "VZ": 182
+                    },
+                    "Dezember": {
+                        "VZ": 164
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 17
+                    },
+                    "Februar": {
+                        "VZ": 15
+                    },
+                    "März": {
+                        "VZ": 14
+                    },
+                    "April": {
+                        "VZ": 10
+                    },
+                    "Mai": {
+                        "VZ": 11
+                    },
+                    "Juni": {
+                        "VZ": 27
+                    },
+                    "Juli": {
+                        "VZ": 33
+                    },
+                    "August": {
+                        "VZ": 20
+                    },
+                    "September": {
+                        "VZ": 11
+                    },
+                    "Oktober": {
+                        "VZ": 12
+                    },
+                    "November": {
+                        "VZ": 18
+                    },
+                    "Dezember": {
+                        "VZ": 12
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Mini",
+        "Logo": "../images/Mini.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 217
+                    },
+                    "Februar": {
+                        "VZ": 286
+                    },
+                    "März": {
+                        "VZ": 320
+                    },
+                    "April": {
+                        "VZ": 234
+                    },
+                    "Mai": {
+                        "VZ": 215
+                    },
+                    "Juni": {
+                        "VZ": 304
+                    },
+                    "Juli": {
+                        "VZ": 434
+                    },
+                    "August": {
+                        "VZ": 151
+                    },
+                    "September": {
+                        "VZ": 497
+                    },
+                    "Oktober": {
+                        "VZ": 670
+                    },
+                    "November": {
+                        "VZ": 348
+                    },
+                    "Dezember": {
+                        "VZ": 306
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 53
+                    },
+                    "Februar": {
+                        "VZ": 45
+                    },
+                    "März": {
+                        "VZ": 89
+                    },
+                    "April": {
+                        "VZ": 55
+                    },
+                    "Mai": {
+                        "VZ": 49
+                    },
+                    "Juni": {
+                        "VZ": 73
+                    },
+                    "Juli": {
+                        "VZ": 120
+                    },
+                    "August": {
+                        "VZ": 40
+                    },
+                    "September": {
+                        "VZ": 90
+                    },
+                    "Oktober": {
+                        "VZ": 101
+                    },
+                    "November": {
+                        "VZ": 75
+                    },
+                    "Dezember": {
+                        "VZ": 93
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 5
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Polestar",
+        "Logo": "../images/Polestar.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 151
+                    },
+                    "Februar": {
+                        "VZ": 113
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 103
+                    },
+                    "August": {
+                        "VZ": 65
+                    },
+                    "September": {
+                        "VZ": 212
+                    },
+                    "Oktober": {
+                        "VZ": 130
+                    },
+                    "November": {
+                        "VZ": 76
+                    },
+                    "Dezember": {
+                        "VZ": 178
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 8
+                    },
+                    "März": {
+                        "VZ": 7
+                    },
+                    "April": {
+                        "VZ": 11
+                    },
+                    "Mai": {
+                        "VZ": 9
+                    },
+                    "Juni": {
+                        "VZ": 11
+                    },
+                    "Juli": {
+                        "VZ": 9
+                    },
+                    "August": {
+                        "VZ": 23
+                    },
+                    "September": {
+                        "VZ": 38
+                    },
+                    "Oktober": {
+                        "VZ": 29
+                    },
+                    "November": {
+                        "VZ": 68
+                    },
+                    "Dezember": {
+                        "VZ": 17
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Cupra",
+        "Logo": "../images/Cupra.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 147
+                    },
+                    "Februar": {
+                        "VZ": 219
+                    },
+                    "März": {
+                        "VZ": 213
+                    },
+                    "April": {
+                        "VZ": 170
+                    },
+                    "Mai": {
+                        "VZ": 250
+                    },
+                    "Juni": {
+                        "VZ": 151
+                    },
+                    "Juli": {
+                        "VZ": 123
+                    },
+                    "August": {
+                        "VZ": 132
+                    },
+                    "September": {
+                        "VZ": 207
+                    },
+                    "Oktober": {
+                        "VZ": 193
+                    },
+                    "November": {
+                        "VZ": 211
+                    },
+                    "Dezember": {
+                        "VZ": 323
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 40
+                    },
+                    "Februar": {
+                        "VZ": 29
+                    },
+                    "März": {
+                        "VZ": 25
+                    },
+                    "April": {
+                        "VZ": 12
+                    },
+                    "Mai": {
+                        "VZ": 22
+                    },
+                    "Juni": {
+                        "VZ": 27
+                    },
+                    "Juli": {
+                        "VZ": 23
+                    },
+                    "August": {
+                        "VZ": 27
+                    },
+                    "September": {
+                        "VZ": 65
+                    },
+                    "Oktober": {
+                        "VZ": 35
+                    },
+                    "November": {
+                        "VZ": 28
+                    },
+                    "Dezember": {
+                        "VZ": 28
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Peugeot",
+        "Logo": "../images/Peugeot.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 147
+                    },
+                    "Februar": {
+                        "VZ": 206
+                    },
+                    "März": {
+                        "VZ": 141
+                    },
+                    "April": {
+                        "VZ": 175
+                    },
+                    "Mai": {
+                        "VZ": 266
+                    },
+                    "Juni": {
+                        "VZ": 255
+                    },
+                    "Juli": {
+                        "VZ": 151
+                    },
+                    "August": {
+                        "VZ": 156
+                    },
+                    "September": {
+                        "VZ": 108
+                    },
+                    "Oktober": {
+                        "VZ": 93
+                    },
+                    "November": {
+                        "VZ": 90
+                    },
+                    "Dezember": {
+                        "VZ": 108
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 56
+                    },
+                    "Februar": {
+                        "VZ": 48
+                    },
+                    "März": {
+                        "VZ": 42
+                    },
+                    "April": {
+                        "VZ": 16
+                    },
+                    "Mai": {
+                        "VZ": 18
+                    },
+                    "Juni": {
+                        "VZ": 28
+                    },
+                    "Juli": {
+                        "VZ": 66
+                    },
+                    "August": {
+                        "VZ": 49
+                    },
+                    "September": {
+                        "VZ": 45
+                    },
+                    "Oktober": {
+                        "VZ": 33
+                    },
+                    "November": {
+                        "VZ": 30
+                    },
+                    "Dezember": {
+                        "VZ": 30
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 18
+                    },
+                    "Februar": {
+                        "VZ": 33
+                    },
+                    "März": {
+                        "VZ": 30
+                    },
+                    "April": {
+                        "VZ": 56
+                    },
+                    "Mai": {
+                        "VZ": 10
+                    },
+                    "Juni": {
+                        "VZ": 24
+                    },
+                    "Juli": {
+                        "VZ": 18
+                    },
+                    "August": {
+                        "VZ": 9
+                    },
+                    "September": {
+                        "VZ": 12
+                    },
+                    "Oktober": {
+                        "VZ": 24
+                    },
+                    "November": {
+                        "VZ": 17
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Fiat",
+        "Logo": "../images/Fiat.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 138
+                    },
+                    "Februar": {
+                        "VZ": 104
+                    },
+                    "März": {
+                        "VZ": 94
+                    },
+                    "April": {
+                        "VZ": 178
+                    },
+                    "Mai": {
+                        "VZ": 160
+                    },
+                    "Juni": {
+                        "VZ": 149
+                    },
+                    "Juli": {
+                        "VZ": 170
+                    },
+                    "August": {
+                        "VZ": 217
+                    },
+                    "September": {
+                        "VZ": 406
+                    },
+                    "Oktober": {
+                        "VZ": 222
+                    },
+                    "November": {
+                        "VZ": 127
+                    },
+                    "Dezember": {
+                        "VZ": 43
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 2
+                    },
+                    "April": {
+                        "VZ": 5
+                    },
+                    "Mai": {
+                        "VZ": 4
+                    },
+                    "Juni": {
+                        "VZ": 8
+                    },
+                    "Juli": {
+                        "VZ": 8
+                    },
+                    "August": {
+                        "VZ": 15
+                    },
+                    "September": {
+                        "VZ": 14
+                    },
+                    "Oktober": {
+                        "VZ": 9
+                    },
+                    "November": {
+                        "VZ": 6
+                    },
+                    "Dezember": {
+                        "VZ": 6
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 7
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 2
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Genesis",
+        "Logo": "../images/Genesis.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 130
+                    },
+                    "Februar": {
+                        "VZ": 75
+                    },
+                    "März": {
+                        "VZ": 130
+                    },
+                    "April": {
+                        "VZ": 135
+                    },
+                    "Mai": {
+                        "VZ": 105
+                    },
+                    "Juni": {
+                        "VZ": 135
+                    },
+                    "Juli": {
+                        "VZ": 120
+                    },
+                    "August": {
+                        "VZ": 121
+                    },
+                    "September": {
+                        "VZ": 131
+                    },
+                    "Oktober": {
+                        "VZ": 70
+                    },
+                    "November": {
+                        "VZ": 135
+                    },
+                    "Dezember": {
+                        "VZ": 113
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Alfa Romeo",
+        "Logo": "../images/Alfa Romeo.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 94
+                    },
+                    "Februar": {
+                        "VZ": 64
+                    },
+                    "März": {
+                        "VZ": 50
+                    },
+                    "April": {
+                        "VZ": 57
+                    },
+                    "Mai": {
+                        "VZ": 42
+                    },
+                    "Juni": {
+                        "VZ": 64
+                    },
+                    "Juli": {
+                        "VZ": 35
+                    },
+                    "August": {
+                        "VZ": 42
+                    },
+                    "September": {
+                        "VZ": 34
+                    },
+                    "Oktober": {
+                        "VZ": 28
+                    },
+                    "November": {
+                        "VZ": 28
+                    },
+                    "Dezember": {
+                        "VZ": 23
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 4
+                    },
+                    "März": {
+                        "VZ": 4
+                    },
+                    "April": {
+                        "VZ": 26
+                    },
+                    "Mai": {
+                        "VZ": 10
+                    },
+                    "Juni": {
+                        "VZ": 3
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 4
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 3
+                    },
+                    "November": {
+                        "VZ": 4
+                    },
+                    "Dezember": {
+                        "VZ": 3
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Jaguar",
+        "Logo": "../images/Jaguar.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 63
+                    },
+                    "Februar": {
+                        "VZ": 43
+                    },
+                    "März": {
+                        "VZ": 91
+                    },
+                    "April": {
+                        "VZ": 57
+                    },
+                    "Mai": {
+                        "VZ": 58
+                    },
+                    "Juni": {
+                        "VZ": 91
+                    },
+                    "Juli": {
+                        "VZ": 53
+                    },
+                    "August": {
+                        "VZ": 83
+                    },
+                    "September": {
+                        "VZ": 81
+                    },
+                    "Oktober": {
+                        "VZ": 36
+                    },
+                    "November": {
+                        "VZ": 47
+                    },
+                    "Dezember": {
+                        "VZ": 40
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 15
+                    },
+                    "Februar": {
+                        "VZ": 20
+                    },
+                    "März": {
+                        "VZ": 28
+                    },
+                    "April": {
+                        "VZ": 10
+                    },
+                    "Mai": {
+                        "VZ": 13
+                    },
+                    "Juni": {
+                        "VZ": 35
+                    },
+                    "Juli": {
+                        "VZ": 7
+                    },
+                    "August": {
+                        "VZ": 10
+                    },
+                    "September": {
+                        "VZ": 37
+                    },
+                    "Oktober": {
+                        "VZ": 10
+                    },
+                    "November": {
+                        "VZ": 11
+                    },
+                    "Dezember": {
+                        "VZ": 7
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Maserati",
+        "Logo": "../images/Maserati.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 24
+                    },
+                    "Februar": {
+                        "VZ": 34
+                    },
+                    "März": {
+                        "VZ": 43
+                    },
+                    "April": {
+                        "VZ": 29
+                    },
+                    "Mai": {
+                        "VZ": 31
+                    },
+                    "Juni": {
+                        "VZ": 39
+                    },
+                    "Juli": {
+                        "VZ": 42
+                    },
+                    "August": {
+                        "VZ": 35
+                    },
+                    "September": {
+                        "VZ": 24
+                    },
+                    "Oktober": {
+                        "VZ": 28
+                    },
+                    "November": {
+                        "VZ": 26
+                    },
+                    "Dezember": {
+                        "VZ": 22
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 9
+                    },
+                    "Februar": {
+                        "VZ": 4
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 2
+                    },
+                    "Juli": {
+                        "VZ": 4
+                    },
+                    "August": {
+                        "VZ": 2
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 2
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Bentley",
+        "Logo": "../images/Bentley.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 19
+                    },
+                    "Februar": {
+                        "VZ": 11
+                    },
+                    "März": {
+                        "VZ": 16
+                    },
+                    "April": {
+                        "VZ": 12
+                    },
+                    "Mai": {
+                        "VZ": 20
+                    },
+                    "Juni": {
+                        "VZ": 24
+                    },
+                    "Juli": {
+                        "VZ": 21
+                    },
+                    "August": {
+                        "VZ": 8
+                    },
+                    "September": {
+                        "VZ": 8
+                    },
+                    "Oktober": {
+                        "VZ": 12
+                    },
+                    "November": {
+                        "VZ": 12
+                    },
+                    "Dezember": {
+                        "VZ": 20
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 4
+                    },
+                    "Februar": {
+                        "VZ": 3
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 5
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 6
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 3
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Ferrari",
+        "Logo": "../images/Ferrari.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 14
+                    },
+                    "Februar": {
+                        "VZ": 13
+                    },
+                    "März": {
+                        "VZ": 27
+                    },
+                    "April": {
+                        "VZ": 9
+                    },
+                    "Mai": {
+                        "VZ": 22
+                    },
+                    "Juni": {
+                        "VZ": 28
+                    },
+                    "Juli": {
+                        "VZ": 25
+                    },
+                    "August": {
+                        "VZ": 20
+                    },
+                    "September": {
+                        "VZ": 24
+                    },
+                    "Oktober": {
+                        "VZ": 31
+                    },
+                    "November": {
+                        "VZ": 22
+                    },
+                    "Dezember": {
+                        "VZ": 11
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 4
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 4
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 3
+                    },
+                    "Juni": {
+                        "VZ": 8
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 2
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 3
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Lamborghini",
+        "Logo": "../images/Lamborghini.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 9
+                    },
+                    "Februar": {
+                        "VZ": 18
+                    },
+                    "März": {
+                        "VZ": 19
+                    },
+                    "April": {
+                        "VZ": 15
+                    },
+                    "Mai": {
+                        "VZ": 34
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 31
+                    },
+                    "August": {
+                        "VZ": 23
+                    },
+                    "September": {
+                        "VZ": 30
+                    },
+                    "Oktober": {
+                        "VZ": 30
+                    },
+                    "November": {
+                        "VZ": 10
+                    },
+                    "Dezember": {
+                        "VZ": 19
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 7
+                    },
+                    "Juli": {
+                        "VZ": 5
+                    },
+                    "August": {
+                        "VZ": 4
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 8
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Lotus",
+        "Logo": "../images/Lotus.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 9
+                    },
+                    "Februar": {
+                        "VZ": 17
+                    },
+                    "März": {
+                        "VZ": 33
+                    },
+                    "April": {
+                        "VZ": 15
+                    },
+                    "Mai": {
+                        "VZ": 10
+                    },
+                    "Juni": {
+                        "VZ": 18
+                    },
+                    "Juli": {
+                        "VZ": 17
+                    },
+                    "August": {
+                        "VZ": 10
+                    },
+                    "September": {
+                        "VZ": 5
+                    },
+                    "Oktober": {
+                        "VZ": 7
+                    },
+                    "November": {
+                        "VZ": 9
+                    },
+                    "Dezember": {
+                        "VZ": 5
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 3
+                    },
+                    "Juni": {
+                        "VZ": 3
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 3
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Aston Martin",
+        "Logo": "../images/Aston Martin.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 8
+                    },
+                    "Februar": {
+                        "VZ": 9
+                    },
+                    "März": {
+                        "VZ": 24
+                    },
+                    "April": {
+                        "VZ": 9
+                    },
+                    "Mai": {
+                        "VZ": 12
+                    },
+                    "Juni": {
+                        "VZ": 24
+                    },
+                    "Juli": {
+                        "VZ": 10
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 22
+                    },
+                    "Oktober": {
+                        "VZ": 8
+                    },
+                    "November": {
+                        "VZ": 12
+                    },
+                    "Dezember": {
+                        "VZ": 15
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 5
+                    },
+                    "März": {
+                        "VZ": 8
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 4
+                    },
+                    "Juni": {
+                        "VZ": 2
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 4
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Citroen",
+        "Logo": "../images/Citroen.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 7
+                    },
+                    "Februar": {
+                        "VZ": 13
+                    },
+                    "März": {
+                        "VZ": 9
+                    },
+                    "April": {
+                        "VZ": 9
+                    },
+                    "Mai": {
+                        "VZ": 15
+                    },
+                    "Juni": {
+                        "VZ": 21
+                    },
+                    "Juli": {
+                        "VZ": 13
+                    },
+                    "August": {
+                        "VZ": 16
+                    },
+                    "September": {
+                        "VZ": 12
+                    },
+                    "Oktober": {
+                        "VZ": 22
+                    },
+                    "November": {
+                        "VZ": 7
+                    },
+                    "Dezember": {
+                        "VZ": 3
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 11
+                    },
+                    "Februar": {
+                        "VZ": 6
+                    },
+                    "März": {
+                        "VZ": 5
+                    },
+                    "April": {
+                        "VZ": 7
+                    },
+                    "Mai": {
+                        "VZ": 5
+                    },
+                    "Juni": {
+                        "VZ": 2
+                    },
+                    "Juli": {
+                        "VZ": 4
+                    },
+                    "August": {
+                        "VZ": 3
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 2
+                    },
+                    "November": {
+                        "VZ": 7
+                    },
+                    "Dezember": {
+                        "VZ": 1
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 32
+                    },
+                    "Februar": {
+                        "VZ": 25
+                    },
+                    "März": {
+                        "VZ": 39
+                    },
+                    "April": {
+                        "VZ": 49
+                    },
+                    "Mai": {
+                        "VZ": 7
+                    },
+                    "Juni": {
+                        "VZ": 11
+                    },
+                    "Juli": {
+                        "VZ": 8
+                    },
+                    "August": {
+                        "VZ": 14
+                    },
+                    "September": {
+                        "VZ": 20
+                    },
+                    "Oktober": {
+                        "VZ": 14
+                    },
+                    "November": {
+                        "VZ": 24
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Dodge",
+        "Logo": "../images/Dodge.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "McLaren",
+        "Logo": "../images/McLaren.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 5
+                    },
+                    "April": {
+                        "VZ": 11
+                    },
+                    "Mai": {
+                        "VZ": 6
+                    },
+                    "Juni": {
+                        "VZ": 14
+                    },
+                    "Juli": {
+                        "VZ": 3
+                    },
+                    "August": {
+                        "VZ": 11
+                    },
+                    "September": {
+                        "VZ": 8
+                    },
+                    "Oktober": {
+                        "VZ": 8
+                    },
+                    "November": {
+                        "VZ": 11
+                    },
+                    "Dezember": {
+                        "VZ": 13
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 1
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 2
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 4
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Rolls-Royce",
+        "Logo": "../images/Rolls-Royce.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 4
+                    },
+                    "März": {
+                        "VZ": 2
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 7
+                    },
+                    "Juni": {
+                        "VZ": 6
+                    },
+                    "Juli": {
+                        "VZ": 11
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 4
+                    },
+                    "November": {
+                        "VZ": 7
+                    },
+                    "Dezember": {
+                        "VZ": 5
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 2
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Leapmotor",
+        "Logo": "../images/Leapmotor.png",
+        "Countries": [
+            {
+                "CountryName": "Australien",
+                "CountryCode": "AU",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 64
+                    }
+                }
+            },
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 4
+                    },
+                    "Dezember": {
+                        "VZ": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Haval",
+        "Logo": "../images/Haval.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 12
+                    },
+                    "Februar": {
+                        "VZ": 10
+                    },
+                    "März": {
+                        "VZ": 12
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 8
+                    },
+                    "Juni": {
+                        "VZ": 7
+                    },
+                    "Juli": {
+                        "VZ": 7
+                    },
+                    "August": {
+                        "VZ": 2
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "INEOS",
+        "Logo": "../images/INEOS.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 9
+                    },
+                    "Februar": {
+                        "VZ": 7
+                    },
+                    "März": {
+                        "VZ": 8
+                    },
+                    "April": {
+                        "VZ": 5
+                    },
+                    "Mai": {
+                        "VZ": 3
+                    },
+                    "Juni": {
+                        "VZ": 6
+                    },
+                    "Juli": {
+                        "VZ": 4
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 7
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Mahindra",
+        "Logo": "../images/Mahindra.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 48
+                    },
+                    "Februar": {
+                        "VZ": 52
+                    },
+                    "März": {
+                        "VZ": 19
+                    },
+                    "April": {
+                        "VZ": 14
+                    },
+                    "Mai": {
+                        "VZ": 20
+                    },
+                    "Juni": {
+                        "VZ": 17
+                    },
+                    "Juli": {
+                        "VZ": 24
+                    },
+                    "August": {
+                        "VZ": 24
+                    },
+                    "September": {
+                        "VZ": 14
+                    },
+                    "Oktober": {
+                        "VZ": 20
+                    },
+                    "November": {
+                        "VZ": 18
+                    },
+                    "Dezember": {
+                        "VZ": 16
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Chrysler",
+        "Logo": "../images/Chrysler.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Opel",
+        "Logo": "../images/Opel.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 7
+                    },
+                    "April": {
+                        "VZ": 8
+                    },
+                    "Mai": {
+                        "VZ": 13
+                    },
+                    "Juni": {
+                        "VZ": 3
+                    },
+                    "Juli": {
+                        "VZ": 12
+                    },
+                    "August": {
+                        "VZ": 6
+                    },
+                    "September": {
+                        "VZ": 5
+                    },
+                    "Oktober": {
+                        "VZ": 8
+                    },
+                    "November": {
+                        "VZ": 9
+                    },
+                    "Dezember": {
+                        "VZ": 6
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 6
+                    },
+                    "Februar": {
+                        "VZ": 7
+                    },
+                    "März": {
+                        "VZ": 6
+                    },
+                    "April": {
+                        "VZ": 5
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 1
+                    },
+                    "Juli": {
+                        "VZ": 2
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 7
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Jaecoo",
+        "Logo": "../images/Jaecoo.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 11
+                    },
+                    "Juli": {
+                        "VZ": 38
+                    },
+                    "August": {
+                        "VZ": 24
+                    },
+                    "September": {
+                        "VZ": 23
+                    },
+                    "Oktober": {
+                        "VZ": 61
+                    },
+                    "November": {
+                        "VZ": 54
+                    },
+                    "Dezember": {
+                        "VZ": 27
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Morgan",
+        "Logo": "../images/Morgan.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 1
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Omoda",
+        "Logo": "../images/Omoda.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 59
+                    },
+                    "Mai": {
+                        "VZ": 58
+                    },
+                    "Juni": {
+                        "VZ": 58
+                    },
+                    "Juli": {
+                        "VZ": 43
+                    },
+                    "August": {
+                        "VZ": 37
+                    },
+                    "September": {
+                        "VZ": 42
+                    },
+                    "Oktober": {
+                        "VZ": 50
+                    },
+                    "November": {
+                        "VZ": 56
+                    },
+                    "Dezember": {
+                        "VZ": 63
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Skyworth",
+        "Logo": "../images/Skyworth.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 0
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Xpeng",
+        "Logo": "../images/Xpeng.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 1
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 1
+                    },
+                    "November": {
+                        "VZ": 0
+                    },
+                    "Dezember": {
+                        "VZ": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "KGM",
+        "Logo": "../images/KGM.png",
+        "Countries": [
+            {
+                "CountryName": "Neuseeland",
+                "CountryCode": "NZ",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 21
+                    },
+                    "April": {
+                        "VZ": 8
+                    },
+                    "Mai": {
+                        "VZ": 10
+                    },
+                    "Juni": {
+                        "VZ": 11
+                    },
+                    "Juli": {
+                        "VZ": 13
+                    },
+                    "August": {
+                        "VZ": 26
+                    },
+                    "September": {
+                        "VZ": 17
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    }
+]
