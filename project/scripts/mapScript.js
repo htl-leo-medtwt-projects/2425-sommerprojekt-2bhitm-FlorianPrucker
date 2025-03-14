@@ -1,5 +1,5 @@
 var map = new jsVectorMap({
-    map: 'world', // 'canada', ...
+    map: 'world',
     selector: '#map', 
     regionsSelectable: true,
     regionsSelectableOne: true

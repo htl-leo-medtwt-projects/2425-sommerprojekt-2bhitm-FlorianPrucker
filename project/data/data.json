@@ -125,7 +125,7 @@
                         "VZ": 67
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 46
                     }
                 }
             },
@@ -296,10 +296,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -431,7 +431,7 @@
                         "VZ": 19
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 17
                     }
                 }
             }
@@ -563,7 +563,7 @@
                         "VZ": 11
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 20
                     }
                 }
             }
@@ -692,10 +692,10 @@
                         "VZ": 5
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 2
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 7
                     }
                 }
             }
@@ -827,7 +827,7 @@
                         "VZ": 5
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 24
                     }
                 }
             }
@@ -959,7 +959,7 @@
                         "VZ": 3
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 17
                     }
                 }
             }
@@ -1088,10 +1088,10 @@
                         "VZ": 4
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 5
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 5
                     }
                 }
             }
@@ -1182,6 +1182,48 @@
                     },
                     "Dezember": {
                         "VZ": 237
+                    }
+                }
+            },
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 5
+                    },
+                    "April": {
+                        "VZ": 1
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 5
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 2
+                    },
+                    "November": {
+                        "VZ": 1000
+                    },
+                    "Dezember": {
+                        "VZ": 1000
                     }
                 }
             }
@@ -1313,7 +1355,7 @@
                         "VZ": 8
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 18
                     }
                 }
             }
@@ -1442,10 +1484,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -1577,7 +1619,7 @@
                         "VZ": 13
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 6
                     }
                 }
             }
@@ -1796,10 +1838,10 @@
                         "VZ": 3
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 3
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 3
                     }
                 }
             }
@@ -1931,7 +1973,7 @@
                         "VZ": 17
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 20
                     }
                 }
             }
@@ -2063,7 +2105,7 @@
                         "VZ": 5
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 2
                     }
                 }
             }
@@ -2192,10 +2234,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 6
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 4
                     }
                 }
             }
@@ -2324,10 +2366,10 @@
                         "VZ": 6
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 2
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 6
                     }
                 }
             }
@@ -2546,10 +2588,10 @@
                         "VZ": 1
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 1
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 1
                     }
                 }
             }
@@ -2816,10 +2858,10 @@
                         "VZ": 1
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -2948,10 +2990,10 @@
                         "VZ": 1
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 2
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -3080,10 +3122,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 4
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 2
                     }
                 }
             }
@@ -3395,7 +3437,7 @@
                         "VZ": 20
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 27
                     }
                 }
             }
@@ -3572,10 +3614,10 @@
                         "VZ": 1
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 2
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -3704,10 +3746,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 1
                     }
                 }
             }
@@ -3836,10 +3878,10 @@
                         "VZ": 5
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -4151,7 +4193,7 @@
                         "VZ": 17
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 16
                     }
                 }
             }
@@ -4280,10 +4322,10 @@
                         "VZ": 2
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 5
                     }
                 }
             }
@@ -4460,10 +4502,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 1
                     }
                 }
             }
@@ -4592,10 +4634,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 0
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -5267,7 +5309,7 @@
                         "VZ": 24
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 23
                     }
                 }
             }
@@ -5396,10 +5438,10 @@
                         "VZ": 0
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 1
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 0
                     }
                 }
             }
@@ -5948,10 +5990,10 @@
                         "VZ": 7
                     },
                     "November": {
-                        "VZ": 1000
+                        "VZ": 3
                     },
                     "Dezember": {
-                        "VZ": 1000
+                        "VZ": 3
                     }
                 }
             }
@@ -6231,6 +6273,582 @@
                     },
                     "September": {
                         "VZ": 17
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Changan",
+        "Logo": "../images/changan.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 7
+                    },
+                    "Februar": {
+                        "VZ": 6
+                    },
+                    "März": {
+                        "VZ": 15
+                    },
+                    "April": {
+                        "VZ": 7
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 3
+                    },
+                    "Juli": {
+                        "VZ": 5
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 3
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "FAW",
+        "Logo": "../images/faw.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5
+                    },
+                    "Februar": {
+                        "VZ": 4
+                    },
+                    "März": {
+                        "VZ": 11
+                    },
+                    "April": {
+                        "VZ": 6
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Geely",
+        "Logo": "../images/geely.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5
+                    },
+                    "Februar": {
+                        "VZ": 13
+                    },
+                    "März": {
+                        "VZ": 6
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 1
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 2
+                    },
+                    "September": {
+                        "VZ": 1
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Joyear",
+        "Logo": "../images/joyear.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 5
+                    },
+                    "Februar": {
+                        "VZ": 4
+                    },
+                    "März": {
+                        "VZ": 2
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 2
+                    },
+                    "Juni": {
+                        "VZ": 2
+                    },
+                    "Juli": {
+                        "VZ": 4
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Dfsk",
+        "Logo": "../images/dfsk.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 3
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 3
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 4
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "BAIC",
+        "Logo": "../images/baic.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 6
+                    },
+                    "Juli": {
+                        "VZ": 8
+                    },
+                    "August": {
+                        "VZ": 6
+                    },
+                    "September": {
+                        "VZ": 16
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Dacia",
+        "Logo": "../images/dacia.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 30
+                    },
+                    "Februar": {
+                        "VZ": 34
+                    },
+                    "März": {
+                        "VZ": 59
+                    },
+                    "April": {
+                        "VZ": 37
+                    },
+                    "Mai": {
+                        "VZ": 11
+                    },
+                    "Juni": {
+                        "VZ": 2
+                    },
+                    "Juli": {
+                        "VZ": 16
+                    },
+                    "August": {
+                        "VZ": 18
+                    },
+                    "September": {
+                        "VZ": 16
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "DS",
+        "Logo": "../images/ds.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 2
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 3
+                    },
+                    "April": {
+                        "VZ": 4
+                    },
+                    "Mai": {
+                        "VZ": 1
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Tianye",
+        "Logo": "../images/tianye.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 1
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 2
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 2
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Aipao",
+        "Logo": "../images/aipao.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Alpine",
+        "Logo": "../images/alpine.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 1
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 0
+                    },
+                    "September": {
+                        "VZ": 0
+                    },
+                    "Oktober": {
+                        "VZ": 11
+                    },
+                    "November": {
+                        "VZ": 57
+                    },
+                    "Dezember": {
+                        "VZ": 46
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "Name": "Seres",
+        "Logo": "../images/seres.png",
+        "Countries": [
+            {
+                "CountryName": "Neukaledonien",
+                "CountryCode": "NC",
+                "Verkaufszahlen": {
+                    "Jänner": {
+                        "VZ": 0
+                    },
+                    "Februar": {
+                        "VZ": 0
+                    },
+                    "März": {
+                        "VZ": 0
+                    },
+                    "April": {
+                        "VZ": 0
+                    },
+                    "Mai": {
+                        "VZ": 0
+                    },
+                    "Juni": {
+                        "VZ": 0
+                    },
+                    "Juli": {
+                        "VZ": 0
+                    },
+                    "August": {
+                        "VZ": 1
+                    },
+                    "September": {
+                        "VZ": 0
                     },
                     "Oktober": {
                         "VZ": 11
