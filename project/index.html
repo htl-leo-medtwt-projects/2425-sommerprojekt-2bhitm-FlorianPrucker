@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
+    <title>Startseite</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap/dist/css/jsvectormap.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap/dist/jsvectormap.css" />
     <script src="https://cdn.jsdelivr.net/npm/jsvectormap"></script>
@@ -11,9 +11,17 @@
     <script src="https://cdn.jsdelivr.net/npm/jsvectormap/dist/maps/world.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jsvectormap/dist/maps/world-merc.js"></script>
     <script src="./scripts/mapScript.js" defer></script>
+    <script src="./scripts/scriptMain.js" defer></script>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
     <div id="map"></div>
+    <div id="sidebar">
+        <h3 onclick="window.location.href='./.html'">Info</h3>
+        <h3 onclick="window.location.href='./allgemein.html'">Allgemein</h3>
+        <h3 onclick="window.location.href='./marken.html'">Marken</h3>
+        <h3 onclick="window.location.href='./proJahr.html'">pro Jahr</h3>
+        <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
+    </div>
 </body>
 </html>
