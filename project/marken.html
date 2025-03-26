@@ -1,32 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marken</title>
-    <script src="./data/data.js" defer></script>
-    <script src="./scripts/scriptMarken.js" defer></script>
-    <link rel="stylesheet" href="./css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marken</title>
+  <script src="./data/data.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+  <script src="https://cdn.anychart.com/geodata/2.2.0/custom/world/world.js"></script>
+  <script src="./scripts/scriptMarken.js" defer></script>
+  <script src="./scripts/scriptMain.js" defer></script>
+  <link rel="stylesheet" href="./css/style.css">
 </head>
+
 <body>
-    <div id="sidebar">
-        <h3 onclick="window.location.href='./index.html'">Startseite</h3>
-        <h3 onclick="window.location.href='./.html'">Info</h3>
-        <h3 onclick="window.location.href='./allgemein.html'">Allgemein</h3>
-        <h3 onclick="window.location.href='./proJahr.html'">pro Jahr</h3>
-        <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
-    </div>
-    <div id="sliderSelect"></div>
-    <div id="grid">
-        <div id="element"><h3>Toyota</h3><img src="./images/toyota.png"></div>
-        <div id="element"><h3>Ford</h3><img src="./images/ford.png"></div>
-        <div id="element"><h3>Hyundai</h3><img src="./images/hyundai.png"></div>
-        <div id="element"><h3>Mitsubishi</h3><img src="./images/mitsubishi.png"></div>
-        <div id="element"><h3>Mazda</h3><img src="./images/mazda.png"></div>
-        <div id="element"><h3>Isuzu</h3><img src="./images/isuzu.png"></div>
-        <div id="element"><h3>MG</h3><img src="./images/mg.png"></div>
-        <div id="element"><h3>GWM</h3><img src="./images/gwm.png"></div>
-        <div id="element"><h3>Kia</h3><img src="./images/kia.png"></div>
-    </div>
+  <div id="sidebar">
+    <h3 onclick="window.location.href='./index.html'">Startseite</h3>
+    <h3 onclick="window.location.href='./.html'">Info</h3>
+    <h3 onclick="window.location.href='./allgemein.html'">Allgemein</h3>
+    <h3 onclick="window.location.href='./proJahr.html'">pro Jahr</h3>
+    <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
+  </div>
+  <div id="sliderSelect">
+    <label>Layout</label>
+      <label for="boxes">Boxes</label>
+      <input type="radio" name="choose" id="boxes" checked="checked">
+      <label for="search">Search</label>
+      <input type="radio" name="choose" id="search">
+  </div>
+  <div id="container"></div>
+  <div id="grid"></div>
 </body>
+
 </html>

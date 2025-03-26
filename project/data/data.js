@@ -1,4 +1,5 @@
-let data = [
+let data = [{}]
+window.data = [
     {
         "Name": "Toyota",
         "Logo": "../images/Toyota.png",
@@ -1597,7 +1598,7 @@ let data = [
     },
     {
         "Name": "Land Rover",
-        "Logo": "../images/Land Rover.png",
+        "Logo": "../images/land rover.png",
         "Countries": [
             {
                 "CountryName": "Australien",
@@ -2329,7 +2330,7 @@ let data = [
     },
     {
         "Name": "Alfa Romeo",
-        "Logo": "../images/Alfa Romeo.png",
+        "Logo": "../images/alfaromeo.png",
         "Countries": [
             {
                 "CountryName": "Australien",
@@ -2659,7 +2660,7 @@ let data = [
     },
     {
         "Name": "Aston Martin",
-        "Logo": "../images/Aston Martin.png",
+        "Logo": "../images/astonmartin.png",
         "Countries": [
             {
                 "CountryName": "Australien",
@@ -2881,7 +2882,7 @@ let data = [
     },
     {
         "Name": "Rolls-Royce",
-        "Logo": "../images/Rolls-Royce.png",
+        "Logo": "../images/rolls-royce.png",
         "Countries": [
             {
                 "CountryName": "Australien",

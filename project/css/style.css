@@ -1,6 +1,11 @@
 body{
     margin: 0;
     height: 200vh;
+    font-family: Designer;
+}
+@font-face {
+    font-family: Designer;
+    src: url('../font/Designer.otf');
 }
 #map{
     height: 100vh;
@@ -19,13 +24,24 @@ body{
     color: white;
     text-align: center;
     transform: translateX(-138px);
+    z-index: 12;
 }
 #sidebar > h3{
     width: 80%;
     cursor: pointer;
+    position: relative;
+    z-index: 12;
 }
 #element > img{
-    width: 5vw;
+    width: 8vw;
+    position: relative;
+    left: 37%;
+    bottom: 5%;
+}
+#element > h3{
+    position: relative;
+    text-align: center;
+
 }
 #sIN{
     animation: sidebarGoesIn .5s ease-in-out 1;
@@ -41,13 +57,36 @@ body{
     height: 8vh;
     transform: rotateY(180deg);
     cursor: pointer;
+    z-index: 12;
 }
 #grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    width: 100vw;
+    height: 100vh;
+    z-index: 5;
+    position: relative;
+    justify-items: center;
 }
 #element{
     position: relative;
+    font-size: 24px;
+    align-self: center;
+    z-index: 5;
+    border: 1px black solid;
+    padding: 1%;
+    width: 90%;
+    height: 90%;
+    cursor: pointer;
+}
+#container{
+    position: fixed;
+    display: none;
+    left: 10%;
+    top: 15%;
+    width: 80vw;
+    height: 70vh;
+    z-index: 100;
 }
 @keyframes sidebarGoesIn {
     0%{
