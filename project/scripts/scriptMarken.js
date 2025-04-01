@@ -6,6 +6,21 @@ let changedData = [{}]
 window.changedData = JSON.parse(JSON.stringify(window.data));
 let container = document.getElementById('container')
 let toggle = 0
+document.addEventListener('click', (ev)=>{
+  const container = document.getElementById("container");
+  if(ev.target.id !== 'container' && ev.target.id !== 'sidebar' && ev.target.id !== 'sidebarButton' && ev.target.id !== 'boxes' && ev.target.id !== 'search'){
+    if (ev.target.id === 'element' || ev.target.id === 'inh3' || ev.target.id === 'inimg') {
+      toggle++
+    }
+    if(toggle % 2 != 0){
+      container.style.display = 'block'
+      toggle++
+    }
+    else {
+      container.style.display = 'none'
+    }
+  }
+})
 drawGrid()
 function drawGrid() {
   let Baustein = ""
@@ -23,7 +38,7 @@ function drawGrid() {
     previousSum = 0
   }
   for (let i = 0; i < window.data.length; i++) {
-    Baustein += `<div id="element" onclick="showHeatMap('${window.changedData[i].Name}')"><h3>${window.changedData[i].Name}</h3><img src="./images/${window.changedData[i].Name.toLowerCase()}.png"></div>`
+    Baustein += `<div id="element" onclick="showHeatMap('${window.changedData[i].Name}')"><h3 id="inh3">${window.changedData[i].Name}</h3><img id="inimg" src="./images/${window.changedData[i].Name.toLowerCase()}.png"></div>`
   }
   grid.innerHTML += Baustein
 }
@@ -230,7 +245,6 @@ function showHeatMap(search) {
             }
             dataSet.pc[j].value = sum
             let warning = false
-            console.log(restrictedValues)
             for (let n = 0; n < dataSet.pc.length; n++) {
               for (let m = 0; m < restrictedValues.length; m++) {
                 if(dataSet.pc[n].id == restrictedValues[m]){
@@ -251,13 +265,6 @@ function showHeatMap(search) {
       restrictedValues = []
     }
   }
-  console.log(dataSet)
-  if (toggle % 2 == 0) {
-    container.style.display = 'block'
-  } else {
-    container.style.display = 'none'
-  }
-  toggle++
   series = map.choropleth(dataSet);
   series.geoIdField('id');
   series.colorScale(anychart.scales.linearColor('#deebf7', '#adead5', '#90db7f', '#ccca55', '#bc4631'));

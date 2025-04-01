@@ -3,6 +3,13 @@ body{
     height: 200vh;
     font-family: Designer;
 }
+:root{
+    --color1: #b8a68a;
+    --color2: #7D766A;
+    --color3: #E3BC7D;
+    --color4: #4A4030;
+    --color5: #332817;
+}
 @font-face {
     font-family: Designer;
     src: url('../font/Designer.otf');
@@ -87,6 +94,68 @@ body{
     width: 80vw;
     height: 70vh;
     z-index: 100;
+}
+#setCountry, #setMonth{
+    padding: 1%;
+    cursor: pointer;
+    user-select: none;
+    background-color: black;
+    color: white;
+    text-shadow:
+    0 0 14px var(--color5),
+    0 0 13px var(--color5),
+    0 0 11px var(--color4),
+    0 0 10px var(--color4),
+    0 0 8px var(--color2),
+    0 0 7px var(--color2),
+    0 0 5px var(--color1),
+    0 0 4px var(--color1),
+    0 0 2px var(--color3),
+    0 0 1px var(--color3);
+    border: 0.2em rgb(40, 40, 40) solid;
+    border-radius: 0.5em;
+    width: 12vw;
+    height: 7.5vh;
+}
+#setCountry{
+    position: relative;
+    right: 3%;
+}
+#sec{
+    width: 19vw;
+}
+#fir{
+    width: 13vw;
+}
+#setCountry:focus,
+#setCountry:focus-within {
+    cursor: pointer; 
+}
+#incredient:checked{
+    opacity: 0.8;
+}
+#incredient{
+    padding: 1%;
+    cursor: pointer;
+}
+#flex{
+    display: flex;
+    justify-content: space-around;
+    height: 7vh;
+}
+#content{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+#fir, #sec{
+    color: black;
+    width: 19vw;
+    height: 5vh;
+    margin-bottom: 2%;
+}
+#result{
+    width: 80vw;
 }
 @keyframes sidebarGoesIn {
     0%{
