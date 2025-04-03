@@ -80,6 +80,24 @@ window.data = [
                 "CountryName": "Österreich",
                 "CountryCode": "AT",
                 "Verkaufszahlen": [
+                    818, 
+                    876, 
+                    1141, 
+                    1076, 
+                    842, 
+                    1025, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
                     1000, 
                     1000, 
                     1000, 
@@ -171,6 +189,24 @@ window.data = [
                     364, 
                     266
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    388, 
+                    661, 
+                    715, 
+                    834, 
+                    537, 
+                    755, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -248,6 +284,24 @@ window.data = [
                     72, 
                     80, 
                     17
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    458, 
+                    515, 
+                    627, 
+                    496, 
+                    489, 
+                    657, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -327,6 +381,24 @@ window.data = [
                     1653, 
                     1833
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    259, 
+                    518, 
+                    718, 
+                    740, 
+                    620, 
+                    2039, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -404,6 +476,24 @@ window.data = [
                     7900, 
                     8344, 
                     9407
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    331, 
+                    361, 
+                    837, 
+                    352, 
+                    323, 
+                    1296, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -483,6 +573,24 @@ window.data = [
                     20, 
                     18
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    579, 
+                    491, 
+                    799, 
+                    586, 
+                    504, 
+                    912, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -560,6 +668,24 @@ window.data = [
                     227, 
                     176, 
                     128
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    166, 
+                    314, 
+                    509, 
+                    349, 
+                    483, 
+                    551, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -777,6 +903,24 @@ window.data = [
                     36, 
                     46
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    17, 
+                    13, 
+                    21, 
+                    20, 
+                    34, 
+                    37, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -855,6 +999,24 @@ window.data = [
                     0,
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    2355, 
+                    3074, 
+                    3403, 
+                    3393, 
+                    3566, 
+                    5118, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -932,6 +1094,24 @@ window.data = [
                     125, 
                     134, 
                     233
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    197, 
+                    331, 
+                    482, 
+                    160, 
+                    108, 
+                    236, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1053,6 +1233,24 @@ window.data = [
                     531, 
                     552
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1561, 
+                    1406, 
+                    1660, 
+                    1696, 
+                    1484, 
+                    1594, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1130,6 +1328,24 @@ window.data = [
                     5491, 
                     5605, 
                     6722
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    540, 
+                    756, 
+                    1029, 
+                    300, 
+                    452, 
+                    906, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1209,6 +1425,24 @@ window.data = [
                     246, 
                     386
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    786, 
+                    959, 
+                    1508, 
+                    1091, 
+                    985, 
+                    1181, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1286,6 +1520,24 @@ window.data = [
                     8633, 
                     8397, 
                     8392
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    54, 
+                    121, 
+                    126, 
+                    120, 
+                    99, 
+                    110, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1365,6 +1617,24 @@ window.data = [
                     2842, 
                     1563
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    157, 
+                    224, 
+                    301, 
+                    252, 
+                    284, 
+                    616, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1406,6 +1676,24 @@ window.data = [
                     57, 
                     21, 
                     250
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    391, 
+                    876, 
+                    1239, 
+                    387, 
+                    499, 
+                    1050, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1467,6 +1755,24 @@ window.data = [
                     1, 
                     1
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1452, 
+                    962, 
+                    1494, 
+                    1210, 
+                    1336, 
+                    1675, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1526,6 +1832,24 @@ window.data = [
                     181, 
                     199, 
                     156
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    33, 
+                    25, 
+                    40, 
+                    36, 
+                    28, 
+                    50, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1647,6 +1971,24 @@ window.data = [
                     12, 
                     6
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    311, 
+                    335, 
+                    390, 
+                    452, 
+                    453, 
+                    495, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1706,6 +2048,24 @@ window.data = [
                     1, 
                     2, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    113, 
+                    104, 
+                    119, 
+                    134, 
+                    128, 
+                    132, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1767,6 +2127,24 @@ window.data = [
                     4, 
                     2
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    93, 
+                    145, 
+                    222, 
+                    189, 
+                    158, 
+                    124, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1809,6 +2187,24 @@ window.data = [
                     143, 
                     90
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    2056, 
+                    1768, 
+                    2299, 
+                    2301, 
+                    1510, 
+                    2139, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1850,6 +2246,24 @@ window.data = [
                     6, 
                     2, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    4, 
+                    11, 
+                    16, 
+                    16, 
+                    14, 
+                    24, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1910,6 +2324,24 @@ window.data = [
                     25, 
                     20, 
                     27
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    334, 
+                    495, 
+                    777, 
+                    482, 
+                    482, 
+                    889, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1995,6 +2427,24 @@ window.data = [
                     2, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    1, 
+                    3, 
+                    0, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2054,6 +2504,24 @@ window.data = [
                     0, 
                     0, 
                     1
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    94, 
+                    85, 
+                    93, 
+                    108, 
+                    64, 
+                    81, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2133,6 +2601,24 @@ window.data = [
                     51, 
                     100
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    155, 
+                    132, 
+                    123, 
+                    137, 
+                    118, 
+                    135, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2175,6 +2661,24 @@ window.data = [
                     68, 
                     17
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    29, 
+                    28, 
+                    43, 
+                    40, 
+                    42, 
+                    60, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2216,6 +2720,24 @@ window.data = [
                     35, 
                     28, 
                     28
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    484, 
+                    306, 
+                    576, 
+                    454, 
+                    596, 
+                    995, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2295,6 +2817,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    382, 
+                    657, 
+                    383, 
+                    499, 
+                    510, 
+                    667, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2354,6 +2894,24 @@ window.data = [
                     2, 
                     0, 
                     5
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    235, 
+                    260, 
+                    226, 
+                    205, 
+                    239, 
+                    993, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2439,6 +2997,24 @@ window.data = [
                     0, 
                     1
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    65, 
+                    76, 
+                    115, 
+                    113, 
+                    111, 
+                    135, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2499,6 +3075,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    8, 
+                    10, 
+                    40, 
+                    17, 
+                    11, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2540,6 +3134,24 @@ window.data = [
                     2, 
                     0, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    3, 
+                    3, 
+                    1, 
+                    3, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2583,6 +3195,24 @@ window.data = [
                     3, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    2, 
+                    2, 
+                    1, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2624,6 +3254,24 @@ window.data = [
                     3, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    3, 
+                    10, 
+                    10, 
+                    10, 
+                    13, 
+                    12, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2667,6 +3315,24 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    2, 
+                    1, 
+                    6, 
+                    3, 
+                    2, 
+                    3, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2709,6 +3375,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    2, 
+                    0, 
+                    1, 
+                    2, 
+                    1, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2750,6 +3434,24 @@ window.data = [
                     0, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    3, 
+                    5, 
+                    2, 
+                    4, 
+                    2, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2828,6 +3530,24 @@ window.data = [
                     116, 
                     126, 
                     120
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    210, 
+                    362, 
+                    260, 
+                    326, 
+                    377, 
+                    605, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2931,6 +3651,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    2, 
+                    1, 
+                    7, 
+                    5, 
+                    3, 
+                    5, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2972,6 +3710,24 @@ window.data = [
                     1, 
                     0, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    2, 
+                    1, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3081,6 +3837,24 @@ window.data = [
                     1, 
                     2
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    3, 
+                    1, 
+                    2, 
+                    1, 
+                    9, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3129,6 +3903,24 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    3, 
+                    1, 
+                    1, 
+                    1, 
+                    2, 
+                    5, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3170,6 +3962,24 @@ window.data = [
                     7, 
                     3, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    293, 
+                    322, 
+                    368, 
+                    352, 
+                    407, 
+                    930, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3471,6 +4281,24 @@ window.data = [
                     79, 
                     17
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3513,6 +4341,24 @@ window.data = [
                     0, 
                     30
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    2, 
+                    0, 
+                    0, 
+                    1, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3537,6 +4383,24 @@ window.data = [
                     9, 
                     29
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    918, 
+                    1001, 
+                    1130, 
+                    1067, 
+                    814, 
+                    986, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3560,6 +4424,24 @@ window.data = [
                     2, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    27, 
+                    18, 
+                    11, 
+                    26, 
+                    28, 
+                    27, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3633,6 +4515,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    3, 
+                    2, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3674,6 +4574,24 @@ window.data = [
                     0, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3794,6 +4712,222 @@ window.data = [
                     153, 
                     37, 
                     89
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Fisker",
+        "Logo": "../images/fisker.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    44, 
+                    17, 
+                    16, 
+                    29, 
+                    22, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Forthing",
+        "Logo": "../images/forthing.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    3, 
+                    3, 
+                    0, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Skywell",
+        "Logo": "../images/skywell.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    6, 
+                    3, 
+                    7, 
+                    4, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Seat",
+        "Logo": "../images/seat.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    1069, 
+                    1329, 
+                    1744, 
+                    1200, 
+                    976, 
+                    1370, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Smart",
+        "Logo": "../images/smart.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    58, 
+                    36, 
+                    47, 
+                    46, 
+                    35, 
+                    30, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Cadillac",
+        "Logo": "../images/cadillac.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Caterham",
+        "Logo": "../images/caterham.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "KTM",
+        "Logo": "../images/ktm.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    1, 
+                    1, 
+                    1, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Nio",
+        "Logo": "../images/nio.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    2, 
+                    1, 
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]

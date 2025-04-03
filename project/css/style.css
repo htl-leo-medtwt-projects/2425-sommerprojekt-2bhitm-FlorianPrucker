@@ -157,6 +157,9 @@ body{
 #result{
     width: 80vw;
 }
+.anychart-credits-text, .anychart-credits-logo{
+    display: none;
+}
 @keyframes sidebarGoesIn {
     0%{
         transform: translateX(-138px);

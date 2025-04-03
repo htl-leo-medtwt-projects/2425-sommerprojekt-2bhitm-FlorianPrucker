@@ -57,7 +57,7 @@ Baustein += `<select id="setMonth">
 content.innerHTML += Baustein
 let allValues = []
 let allNames = []
-document.addEventListener('keypress', (ev) =>{
+document.addEventListener('keypress', (ev) => {
     setCountry = document.getElementById('setCountry');
     setMonth = document.getElementById('setMonth');
     if (ev.key == 'Enter') {
@@ -68,9 +68,9 @@ document.addEventListener('keypress', (ev) =>{
 function getCountryMonth(country, month) {
     for (let i = 0; i < window.data.length; i++) {
         for (let j = 0; j < window.data[i].Countries.length; j++) {
-            if(window.data[i].Countries[j].CountryName == country) {
+            if (window.data[i].Countries[j].CountryName == country) {
                 for (let z = 0; z < window.data[i].Countries[j].Verkaufszahlen.length; z++) {
-                    if(z == month) {
+                    if (z == month) {
                         allValues.push(window.data[i].Countries[j].Verkaufszahlen[z])
                         allNames.push(window.data[i].Name)
                     }
@@ -82,77 +82,85 @@ function getCountryMonth(country, month) {
     drawContent(country, month)
 }
 function drawContent(country, month) {
-  let Baustein = ""
-  for (let i = 0; i < allValues.length; i++) {
-    for (let j = 0; j < allValues.length; j++) {
-      if (allValues[i] > allValues[j]) {
-        let interchange = allValues[i]
-        let interchange2 = allNames[i]
-        allValues[i] = allValues[j]
-        allNames[i] = allNames[j]
-        allValues[j] = interchange
-        allNames[j] = interchange2
-      }
+    let Baustein = ""
+    for (let i = 0; i < allValues.length; i++) {
+        for (let j = 0; j < allValues.length; j++) {
+            if (allValues[i] > allValues[j]) {
+                let interchange = allValues[i]
+                let interchange2 = allNames[i]
+                allValues[i] = allValues[j]
+                allNames[i] = allNames[j]
+                allValues[j] = interchange
+                allNames[j] = interchange2
+            }
+        }
     }
-  }
-  Baustein += `<table>
+    Baustein += `<table>
                 <label for="table">Best-selling car brand in ${country}, ${month}</label>
                     <tr>
                         <th>Name</th>
                         <td>Sales figures</td>
                     </tr>
                 </table>`
-  for (let i = 0; i < allValues.length; i++) {
-    Baustein += `<table>
+    for (let i = 0; i < allValues.length; i++) {
+        Baustein += `<table>
                     <tr>
                         <td>${allNames[i]}</td>
                         <td>${allValues[i]}</td>
                     </tr>
                 </table>`
-  }
-  result.innerHTML += Baustein
-  buildGraph(country)
+    }
+    result.innerHTML += Baustein
+    buildGraph(country)
 }
 let test = 'Österreich'
 buildGraph(test)
-function buildGraph(country){
+function buildGraph(country) {
+    console.log(country)
     var chart = anychart.area();
 
-  chart.title("Number of Sold Cars per Month");
-
-  chart.area([
-    ["January" , 10000],
-    ["February" , 12000],
-    ["March" , 10000],
-    ["April" , 11000],
-    ["May" , 19000]
-  ]);
-
-  var yScale = chart.yScale();
-  yScale.minimum(8000);
-  yScale.maximum(20000);
-  var yTicks = chart.yScale().ticks();
-  yTicks.interval(2000);
-  var yLabels = chart.yAxis(0).labels();
-  yLabels.format("${%value}{groupsSeparator: }");
-  var yAxis = chart.yAxis(0);
-  yAxis.title("Revenue in US Dollars");
-  var yAxsi1 = chart.yAxis(1);
-  yAxsi1.orientation("right");
-  yAxsi1.title("Sold Cars");
-  var yLabels1 = chart.yAxis(1).labels();
-  yLabels1.format(function() {
-    var value = this.value;
-    value = Math.round(value*0.7094716);
-    return "\u20ac" + value;
-  });
-  var xAxis = chart.xAxis();
-  xAxis.title("Month");
-  chart.xAxis().labels().format(function() {
-    var value = this.value;
-    value = value.substr(0, 3);
-    return value
-  });
-  chart.container("container");
-  chart.draw();
+    chart.title("Number of Sold Cars per Month");
+    let sum = 0
+    let arrayOfMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    let newData = [];
+    let setMax = 0
+    let setMin = 0
+    for (let z = 0; z < window.data[0].Countries[0].Verkaufszahlen.length; z++) {
+        for (let i = 0; i < window.data.length; i++) {
+            for (let j = 0; j < window.data[i].Countries.length; j++) {
+                if (window.data[i].Countries[j].CountryName == country) {
+                    sum += (window.data[i].Countries[j].Verkaufszahlen[z])
+                }
+            }
+        }
+        newData.push([arrayOfMonths[z], sum])
+        if (sum > setMax) {
+            setMax = sum
+        }
+        if (z == 0) {
+            setMin = sum
+        } else if (sum < setMin) {
+            setMin = sum
+        }
+        sum = 0
+    }
+    chart.area(newData)
+    var yScale = chart.yScale();
+    yScale.minimum(setMin);
+    yScale.maximum(setMax);
+    var yTicks = chart.yScale().ticks();
+    yTicks.interval(2000);
+    var yLabels = chart.yAxis().labels();
+    yLabels.format("{%value}{groupsSeparator: }");
+    var yAxis = chart.yAxis();
+    yAxis.title("Sold Cars");
+    var xAxis = chart.xAxis();
+    xAxis.title("Month");
+    chart.xAxis().labels().format(function () {
+        var value = this.value;
+        value = value.substr(0, 3);
+        return value
+    });
+    chart.container("container");
+    chart.draw();
 }

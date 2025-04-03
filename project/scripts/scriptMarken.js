@@ -24,19 +24,28 @@ document.addEventListener('click', (ev)=>{
 drawGrid()
 function drawGrid() {
   let Baustein = ""
+  let allSums = []
+  for (let i = 0; i < window.data.length; i++) {
+    getCarSum(i)
+    allSums.push(sum)
+    sum = 0
+  }
   for (let i = 0; i < window.data.length - 1; i++) {
-    for (let j = 0; j < window.data.length; j++) {
-      getCarSum(j)
-      if (sum > previousSum && previousSum != 0) {
-        let interchange = window.data[j - 1]
-        window.changedData[j - 1] = window.data[j]
+    for (let j = 1; j < window.data.length; j++) {
+      if (allSums[j] > allSums[j - 1]) {
+        let interchange = window.changedData[j - 1]
+        window.changedData[j - 1] = window.changedData[j]
         window.changedData[j] = interchange
+        let interchange2 = allSums[j - 1]
+        allSums[j - 1] = allSums[j]
+        allSums[j] = interchange2
       }
       previousSum = sum
       sum = 0
     }
     previousSum = 0
   }
+  console.log(window.changedData, window.data)
   for (let i = 0; i < window.data.length; i++) {
     Baustein += `<div id="element" onclick="showHeatMap('${window.changedData[i].Name}')"><h3 id="inh3">${window.changedData[i].Name}</h3><img id="inimg" src="./images/${window.changedData[i].Name.toLowerCase()}.png"></div>`
   }
@@ -265,6 +274,7 @@ function showHeatMap(search) {
       restrictedValues = []
     }
   }
+  console.log(dataSet)
   series = map.choropleth(dataSet);
   series.geoIdField('id');
   series.colorScale(anychart.scales.linearColor('#deebf7', '#adead5', '#90db7f', '#ccca55', '#bc4631'));
