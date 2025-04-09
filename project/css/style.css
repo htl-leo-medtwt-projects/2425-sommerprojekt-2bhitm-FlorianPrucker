@@ -3,6 +3,10 @@ body{
     height: 200vh;
     font-family: Designer;
 }
+#bodyJ{
+    height: fit-content;
+    scroll-behavior: smooth;
+}
 :root{
     --color1: #b8a68a;
     --color2: #7D766A;
@@ -39,13 +43,13 @@ body{
     position: relative;
     z-index: 12;
 }
-#element > img{
+.element > img{
     width: 8vw;
     position: relative;
     left: 37%;
     bottom: 5%;
 }
-#element > h3{
+.element > h3{
     position: relative;
     text-align: center;
 
@@ -75,7 +79,7 @@ body{
     position: relative;
     justify-items: center;
 }
-#element{
+.element{
     position: relative;
     font-size: 24px;
     align-self: center;
@@ -155,24 +159,59 @@ body{
     margin-bottom: 2%;
 }
 #result{
-    width: 80vw;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 18px;
+    font-style: oblique;
+}
+table {
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+td, th {
+    width: 50%; 
+    padding: 1%;
+}
+th{
+    text-align: center;
+}
+tr {
+    width: 100%;
+    background-color:indianred;
+    color: rgb(51, 23, 23);
+}
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+#result > label{
+    position: relative;
+    left: 3vw;
 }
 .anychart-credits-text, .anychart-credits-logo{
     display: none;
 }
-@keyframes sidebarGoesIn {
-    0%{
-        transform: translateX(-138px);
-    }
-    100%{
-        transform: translateX(0px);
-    }
+#container2{
+    position: relative;
+    left: 10%;
+    width: 80vw;
+    height: 70vh;
+    z-index: 100;
 }
-@keyframes sidebarGoesOut {
+.animSelected{
+    animation: selectColor 2s linear 0s 5;
+}
+@keyframes selectColor {
     0%{
-        transform: translateX(0px);
+        background-color: white;
     }
     100%{
-        transform: translateX(-138px);
+        background-color: yellow;
     }
 }

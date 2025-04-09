@@ -86,6 +86,24 @@ window.data = [
                     1076, 
                     842, 
                     1025, 
+                    921, 
+                    947, 
+                    744, 
+                    862, 
+                    729, 
+                    1150
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1093, 
+                    1565, 
+                    2333, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -95,8 +113,8 @@ window.data = [
                 ]
             },
             {
-                "CountryName": "Österreich",
-                "CountryCode": "AT",
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
                 "Verkaufszahlen": [
                     1000, 
                     1000, 
@@ -200,6 +218,24 @@ window.data = [
                     834, 
                     537, 
                     755, 
+                    418, 
+                    456, 
+                    334, 
+                    617, 
+                    603, 
+                    658
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    275, 
+                    520, 
+                    851, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -296,6 +332,24 @@ window.data = [
                     496, 
                     489, 
                     657, 
+                    545, 
+                    472, 
+                    556, 
+                    655, 
+                    670, 
+                    516
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    15, 
+                    42, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -392,6 +446,24 @@ window.data = [
                     740, 
                     620, 
                     2039, 
+                    412, 
+                    432, 
+                    970, 
+                    988, 
+                    583, 
+                    3090
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    819, 
+                    1353, 
+                    1919, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -488,6 +560,24 @@ window.data = [
                     352, 
                     323, 
                     1296, 
+                    37, 
+                    57, 
+                    49, 
+                    186, 
+                    172, 
+                    160
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    268, 
+                    416, 
+                    611, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -584,6 +674,24 @@ window.data = [
                     586, 
                     504, 
                     912, 
+                    543, 
+                    521, 
+                    583, 
+                    664, 
+                    432, 
+                    419
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1312, 
+                    1582, 
+                    2287, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -680,6 +788,24 @@ window.data = [
                     349, 
                     483, 
                     551, 
+                    157, 
+                    166, 
+                    303, 
+                    186, 
+                    299, 
+                    526
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    8, 
+                    19, 
+                    45, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -764,6 +890,24 @@ window.data = [
                     2106, 
                     2040, 
                     2157
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -914,6 +1058,24 @@ window.data = [
                     20, 
                     34, 
                     37, 
+                    23, 
+                    17, 
+                    23, 
+                    18, 
+                    21, 
+                    21
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    96, 
+                    168, 
+                    261, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1010,6 +1172,24 @@ window.data = [
                     3393, 
                     3566, 
                     5118, 
+                    2572, 
+                    2541, 
+                    2485, 
+                    2675, 
+                    2637, 
+                    2158
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    343, 
+                    519, 
+                    759, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1106,6 +1286,24 @@ window.data = [
                     160, 
                     108, 
                     236, 
+                    138, 
+                    163, 
+                    169, 
+                    347, 
+                    292, 
+                    181
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    53, 
+                    117, 
+                    147, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1244,6 +1442,24 @@ window.data = [
                     1696, 
                     1484, 
                     1594, 
+                    1658, 
+                    1487, 
+                    1576, 
+                    1791, 
+                    1520, 
+                    1569
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    534, 
+                    891, 
+                    1525, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1340,6 +1556,24 @@ window.data = [
                     300, 
                     452, 
                     906, 
+                    325, 
+                    350, 
+                    396, 
+                    358, 
+                    357, 
+                    326
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    43, 
+                    65, 
+                    86, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1436,6 +1670,24 @@ window.data = [
                     1091, 
                     985, 
                     1181, 
+                    963, 
+                    813, 
+                    866, 
+                    1276, 
+                    929, 
+                    864
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    336, 
+                    529, 
+                    872, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1532,6 +1784,24 @@ window.data = [
                     120, 
                     99, 
                     110, 
+                    105, 
+                    82, 
+                    66, 
+                    94, 
+                    71, 
+                    57
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    107, 
+                    172, 
+                    264, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1628,6 +1898,24 @@ window.data = [
                     252, 
                     284, 
                     616, 
+                    261, 
+                    335, 
+                    373, 
+                    422, 
+                    359, 
+                    362
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    45, 
+                    73, 
+                    137, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1688,6 +1976,24 @@ window.data = [
                     387, 
                     499, 
                     1050, 
+                    245, 
+                    398, 
+                    961, 
+                    273, 
+                    440, 
+                    921
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    46, 
+                    69, 
+                    158, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1766,6 +2072,24 @@ window.data = [
                     1210, 
                     1336, 
                     1675, 
+                    1494, 
+                    947, 
+                    1390, 
+                    1643, 
+                    992, 
+                    649
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    170, 
+                    253, 
+                    406, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1844,6 +2168,24 @@ window.data = [
                     36, 
                     28, 
                     50, 
+                    38, 
+                    35, 
+                    48, 
+                    60, 
+                    41, 
+                    84
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    292, 
+                    449, 
+                    832, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -1892,6 +2234,24 @@ window.data = [
                     699, 
                     853, 
                     1449
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    8943, 
+                    10162, 
+                    13369, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1982,6 +2342,24 @@ window.data = [
                     452, 
                     453, 
                     495, 
+                    328, 
+                    260, 
+                    370, 
+                    394, 
+                    366, 
+                    455
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    20, 
+                    26, 
+                    50, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2060,6 +2438,24 @@ window.data = [
                     134, 
                     128, 
                     132, 
+                    81, 
+                    112, 
+                    75, 
+                    92, 
+                    88, 
+                    89
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    121, 
+                    138, 
+                    265, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2138,6 +2534,24 @@ window.data = [
                     189, 
                     158, 
                     124, 
+                    131, 
+                    120, 
+                    127, 
+                    200, 
+                    170, 
+                    96
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    116, 
+                    160, 
+                    269, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2198,6 +2612,24 @@ window.data = [
                     2301, 
                     1510, 
                     2139, 
+                    2140, 
+                    2061, 
+                    2368, 
+                    2686, 
+                    2150, 
+                    2051
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    197, 
+                    262, 
+                    382, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2258,6 +2690,24 @@ window.data = [
                     16, 
                     14, 
                     24, 
+                    11, 
+                    6, 
+                    25, 
+                    41, 
+                    29, 
+                    37
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    8, 
+                    9, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2336,6 +2786,24 @@ window.data = [
                     482, 
                     482, 
                     889, 
+                    586, 
+                    501, 
+                    789, 
+                    722, 
+                    691, 
+                    766
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    42, 
+                    52, 
+                    38, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2438,6 +2906,24 @@ window.data = [
                     3, 
                     0, 
                     1, 
+                    2, 
+                    0, 
+                    1, 
+                    1, 
+                    0, 
+                    1
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    120, 
+                    278, 
+                    482, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2516,6 +3002,24 @@ window.data = [
                     108, 
                     64, 
                     81, 
+                    147, 
+                    145, 
+                    118, 
+                    112, 
+                    93, 
+                    92
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    36, 
+                    50, 
+                    94, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2612,6 +3116,24 @@ window.data = [
                     137, 
                     118, 
                     135, 
+                    155, 
+                    137, 
+                    266, 
+                    213, 
+                    123, 
+                    105
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    7, 
+                    10, 
+                    18, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2672,12 +3194,12 @@ window.data = [
                     40, 
                     42, 
                     60, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    37, 
+                    60, 
+                    111, 
+                    74, 
+                    77, 
+                    107
                 ]
             }
         ]
@@ -2732,12 +3254,12 @@ window.data = [
                     454, 
                     596, 
                     995, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    433, 
+                    395, 
+                    427, 
+                    680, 
+                    890, 
+                    486
                 ]
             }
         ]
@@ -2828,6 +3350,24 @@ window.data = [
                     499, 
                     510, 
                     667, 
+                    763, 
+                    666, 
+                    757, 
+                    705, 
+                    632, 
+                    1180
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9, 
+                    26, 
+                    23, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2906,6 +3446,24 @@ window.data = [
                     205, 
                     239, 
                     993, 
+                    349, 
+                    106, 
+                    207, 
+                    213, 
+                    123, 
+                    118
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -2936,6 +3494,24 @@ window.data = [
                     70, 
                     135, 
                     113
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    20, 
+                    34, 
+                    30, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3008,6 +3584,24 @@ window.data = [
                     113, 
                     111, 
                     135, 
+                    80, 
+                    62, 
+                    52, 
+                    142, 
+                    118, 
+                    66
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3086,6 +3680,24 @@ window.data = [
                     17, 
                     11, 
                     8, 
+                    9, 
+                    6, 
+                    10, 
+                    7, 
+                    4, 
+                    11
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    3, 
+                    7, 
+                    16, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3146,6 +3758,24 @@ window.data = [
                     1, 
                     3, 
                     2, 
+                    1, 
+                    0, 
+                    0, 
+                    2, 
+                    2, 
+                    7
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    3, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3206,6 +3836,24 @@ window.data = [
                     2, 
                     1, 
                     2, 
+                    6, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    3
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    11, 
+                    10, 
+                    20, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3266,6 +3914,24 @@ window.data = [
                     10, 
                     13, 
                     12, 
+                    5, 
+                    13, 
+                    4, 
+                    6, 
+                    7, 
+                    6
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3326,6 +3992,24 @@ window.data = [
                     3, 
                     2, 
                     3, 
+                    4, 
+                    6, 
+                    2, 
+                    1, 
+                    1, 
+                    2
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    7, 
+                    7, 
+                    22, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3386,6 +4070,24 @@ window.data = [
                     2, 
                     1, 
                     1, 
+                    0, 
+                    2, 
+                    0, 
+                    1, 
+                    0, 
+                    1
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    13, 
+                    42, 
+                    48, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3446,6 +4148,24 @@ window.data = [
                     4, 
                     2, 
                     2, 
+                    1, 
+                    5, 
+                    0, 
+                    1, 
+                    0, 
+                    2
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3542,6 +4262,24 @@ window.data = [
                     326, 
                     377, 
                     605, 
+                    314, 
+                    134, 
+                    131, 
+                    204, 
+                    285, 
+                    290
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    16, 
+                    16, 
+                    21, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3609,6 +4347,42 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9, 
+                    9, 
+                    9, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3662,12 +4436,12 @@ window.data = [
                     5, 
                     3, 
                     5, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    7, 
+                    6, 
+                    1, 
+                    2, 
+                    1, 
+                    0
                 ]
             }
         ]
@@ -3722,6 +4496,24 @@ window.data = [
                     1, 
                     0, 
                     0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    8, 
+                    6, 
+                    21, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3771,6 +4563,24 @@ window.data = [
                     4, 
                     2
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    2, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3813,6 +4623,24 @@ window.data = [
                     33, 
                     7
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9818, 
+                    12236, 
+                    16224, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3848,6 +4676,24 @@ window.data = [
                     1, 
                     9, 
                     1, 
+                    0, 
+                    0, 
+                    5, 
+                    1, 
+                    0, 
+                    2
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -3914,12 +4760,12 @@ window.data = [
                     1, 
                     2, 
                     5, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    1, 
+                    2, 
+                    1, 
+                    0, 
+                    0, 
+                    2
                 ]
             }
         ]
@@ -3974,12 +4820,12 @@ window.data = [
                     352, 
                     407, 
                     930, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    735, 
+                    409, 
+                    440, 
+                    491, 
+                    552, 
+                    609
                 ]
             }
         ]
@@ -4004,6 +4850,24 @@ window.data = [
                     61, 
                     54, 
                     27
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    911, 
+                    1165, 
+                    1953, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -4053,6 +4917,24 @@ window.data = [
                     56, 
                     63
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2719, 
+                    3187, 
+                    4705, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4101,6 +4983,42 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4125,6 +5043,24 @@ window.data = [
                     57, 
                     46
                 ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    6, 
+                    2, 
+                    3, 
+                    1, 
+                    0
+                ]
             }
         ]
     },
@@ -4148,6 +5084,24 @@ window.data = [
                     1, 
                     2, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    4875, 
+                    5994, 
+                    9282, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -4191,6 +5145,24 @@ window.data = [
                     54, 
                     117
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    422, 
+                    546, 
+                    592, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4215,6 +5187,24 @@ window.data = [
                     3, 
                     2
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9239, 
+                    12466, 
+                    15208, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4238,6 +5228,24 @@ window.data = [
                     5, 
                     6, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4292,6 +5300,24 @@ window.data = [
                     0, 
                     0, 
                     0, 
+                    2, 
+                    2, 
+                    3, 
+                    4, 
+                    0, 
+                    1
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    6, 
+                    3, 
+                    12, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4352,6 +5378,24 @@ window.data = [
                     0, 
                     1, 
                     2, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    331, 
+                    479, 
+                    1109, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4394,6 +5438,24 @@ window.data = [
                     1067, 
                     814, 
                     986, 
+                    834, 
+                    813, 
+                    674, 
+                    834, 
+                    875, 
+                    826
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    12, 
+                    3, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4436,12 +5498,12 @@ window.data = [
                     26, 
                     28, 
                     27, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    14, 
+                    10, 
+                    5, 
+                    17, 
+                    12, 
+                    13
                 ]
             }
         ]
@@ -4526,12 +5588,12 @@ window.data = [
                     2, 
                     0, 
                     0, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    2, 
+                    2, 
+                    0, 
+                    1, 
+                    1, 
+                    3
                 ]
             }
         ]
@@ -4586,12 +5648,12 @@ window.data = [
                     0, 
                     0, 
                     0, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4616,6 +5678,24 @@ window.data = [
                     2203, 
                     2550, 
                     3256
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -4689,6 +5769,24 @@ window.data = [
                     10030, 
                     13057
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    5, 
+                    7, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4713,6 +5811,24 @@ window.data = [
                     37, 
                     89
                 ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1758, 
+                    2067, 
+                    2585, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4730,12 +5846,12 @@ window.data = [
                     29, 
                     22, 
                     8, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    0, 
+                    0, 
+                    4, 
+                    14, 
+                    6, 
+                    1
                 ]
             }
         ]
@@ -4754,6 +5870,24 @@ window.data = [
                     3, 
                     0, 
                     2, 
+                    3, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    11, 
+                    13, 
+                    16, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4778,6 +5912,24 @@ window.data = [
                     3, 
                     7, 
                     4, 
+                    4, 
+                    0, 
+                    0, 
+                    3, 
+                    3, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    3, 
+                    8, 
+                    23, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4802,12 +5954,12 @@ window.data = [
                     1200, 
                     976, 
                     1370, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    829, 
+                    789, 
+                    993, 
+                    925, 
+                    614, 
+                    519
                 ]
             }
         ]
@@ -4826,12 +5978,12 @@ window.data = [
                     46, 
                     35, 
                     30, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    22, 
+                    44, 
+                    32, 
+                    72, 
+                    33, 
+                    27
                 ]
             }
         ]
@@ -4850,6 +6002,24 @@ window.data = [
                     1, 
                     0, 
                     0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    27, 
+                    51, 
+                    69, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 
@@ -4874,12 +6044,12 @@ window.data = [
                     0, 
                     1, 
                     0, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    0, 
+                    1, 
+                    0, 
+                    1, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4898,12 +6068,12 @@ window.data = [
                     1, 
                     1, 
                     2, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    1, 
+                    3, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4922,6 +6092,1476 @@ window.data = [
                     1, 
                     0, 
                     0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    6, 
+                    12, 
+                    7, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Kutsenits",
+        "Logo": "../images/kutsenits.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    2, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Lucid",
+        "Logo": "../images/lucid.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "WEY",
+        "Logo": "../images/wey.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    15, 
+                    24, 
+                    53, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SWM",
+        "Logo": "../images/swm.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    35, 
+                    66, 
+                    61, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Aiways",
+        "Logo": "../images/aiways.png",
+        "Countries": [
+            {
+                "CountryName": "Österreich",
+                "CountryCode": "AT",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Lada",
+        "Logo": "../images/lada.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    22704, 
+                    29181, 
+                    40421, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Exeed",
+        "Logo": "../images/exeed.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2821, 
+                    3477, 
+                    4735, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Li Xiang",
+        "Logo": "../images/li-xiang.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1772, 
+                    2731, 
+                    3658, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Moskvich",
+        "Logo": "../images/moskvich.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1221, 
+                    1264, 
+                    2466, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Jetour",
+        "Logo": "../images/jetour.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1039, 
+                    1466, 
+                    2649, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Voyah",
+        "Logo": "../images/voyah.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    749, 
+                    1242, 
+                    1508, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Zeekr",
+        "Logo": "../images/zeekr.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    713, 
+                    985, 
+                    1245, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "UAZ",
+        "Logo": "../images/uaz.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    618, 
+                    754, 
+                    743, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "GAC",
+        "Logo": "../images/gac.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    535, 
+                    1030, 
+                    1819, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Belgee",
+        "Logo": "../images/belgee.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    527, 
+                    1065, 
+                    2752, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Kaiyi",
+        "Logo": "../images/kaiyi.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    416, 
+                    557, 
+                    679, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "JAC",
+        "Logo": "../images/jac.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    360, 
+                    313, 
+                    462, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Jetta",
+        "Logo": "../images/jetta.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    320, 
+                    217, 
+                    356, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Hongqi",
+        "Logo": "../images/hongqi.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    282, 
+                    348, 
+                    438, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Livan",
+        "Logo": "../images/livan.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    221, 
+                    233, 
+                    273, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Evolute",
+        "Logo": "../images/evolute.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    111, 
+                    168, 
+                    138, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Avatr",
+        "Logo": "../images/avatr.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    37, 
+                    67, 
+                    142, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Aeolus",
+        "Logo": "../images/aeolus.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    19, 
+                    32, 
+                    48, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "GMC",
+        "Logo": "../images/gmc.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    17, 
+                    8, 
+                    18, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Lynk and Co",
+        "Logo": "../images/lynkandco.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    17, 
+                    26, 
+                    65, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Huawei",
+        "Logo": "../images/huawei.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    15, 
+                    43, 
+                    85, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Hiphi",
+        "Logo": "../images/hiphi.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9, 
+                    5, 
+                    19, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Ora",
+        "Logo": "../images/ora.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9, 
+                    8, 
+                    14, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Soueast",
+        "Logo": "../images/soueast.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    7, 
+                    8, 
+                    10, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Donfeng",
+        "Logo": "../images/donfeng.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Acura",
+        "Logo": "../images/acura.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    4, 
+                    4, 
+                    5, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Denza",
+        "Logo": "../images/denza.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    4, 
+                    10, 
+                    11, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Kama",
+        "Logo": "../images/kama.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    4, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Lincoln",
+        "Logo": "../images/lincoln.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    4, 
+                    5, 
+                    6, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Yangwang",
+        "Logo": "../images/yangwang.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    3, 
+                    8, 
+                    38, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Baojun",
+        "Logo": "../images/baojun.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "BAW",
+        "Logo": "../images/baw.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Iran Khodro",
+        "Logo": "../images/iran-khodro.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    4, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Oshan",
+        "Logo": "../images/oshan.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    4, 
+                    6, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Zhiji",
+        "Logo": "../images/zhiji.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    2, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Alpina",
+        "Logo": "../images/alpina.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Buick",
+        "Logo": "../images/buick.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    5, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Haima",
+        "Logo": "../images/haima.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    3, 
+                    5, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Maxus",
+        "Logo": "../images/maxus.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Roewe",
+        "Logo": "../images/roewe.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Sokon",
+        "Logo": "../images/sokon.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Trumpchi",
+        "Logo": "../images/trumpchi.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    3, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Venucia",
+        "Logo": "../images/venucia.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Weltmeister",
+        "Logo": "../images/weltmeister.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Infiniti",
+        "Logo": "../images/infiniti.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    9, 
+                    9, 
+                    28, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Dongfeng",
+        "Logo": "../images/dongfeng.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    6, 
+                    26, 
+                    84, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Rox",
+        "Logo": "../images/rox.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    18, 
+                    70, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Hozon",
+        "Logo": "../images/hozon.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    2, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "IM Motors",
+        "Logo": "../images/im-motors.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Samsung",
+        "Logo": "../images/samsung.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SAIC-GM-Wuling",
+        "Logo": "../images/saic-gm-wuling.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    3, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "GAZ",
+        "Logo": "../images/gaz.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Solaris",
+        "Logo": "../images/solaris.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    166, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Amberavto",
+        "Logo": "../images/amberavto.png",
+        "Countries": [
+            {
+                "CountryName": "Russland",
+                "CountryCode": "RU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    8, 
+                    1000, 
+                    1000, 
+                    1000, 
                     1000, 
                     1000, 
                     1000, 

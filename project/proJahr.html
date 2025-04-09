@@ -6,18 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pro Jahr</title>
     <script src="./data/data.js" defer></script>
-    <script
-        src="https://cdn.anychart.com/releases/8.13.0/js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
-    <script
-        src="https://cdn.anychart.com/releases/8.13.0/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
-    <script
-        src="https://cdn.anychart.com/releases/8.13.0/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+    <script src="https://cdn.anychart.com/releases/8.13.0/js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+    <script src="https://cdn.anychart.com/releases/8.13.0/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+    <script src="https://cdn.anychart.com/releases/8.13.0/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
     <script src="./scripts/scriptMain.js" defer></script>
     <script src="./scripts/scriptProjahr.js" defer></script>
     <link rel="stylesheet" href="./css/style.css">
 </head>
 
-<body>
+<body id="bodyJ">
     <div id="sidebar">
         <h3 onclick="window.location.href='./index.html'">Startseite</h3>
         <h3 onclick="window.location.href='./.html'">Info</h3>
@@ -25,7 +22,7 @@
         <h3 onclick="window.location.href='./marken.html'">Marken</h3>
         <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
     </div>
-    <div id="container"></div>
+    <div id="container2"></div>
     <div id="bringItDown">
         <div id="flex">
             <label for="setCountry" id="fir">Enter Country</label>

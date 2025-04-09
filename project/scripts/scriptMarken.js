@@ -6,10 +6,21 @@ let changedData = [{}]
 window.changedData = JSON.parse(JSON.stringify(window.data));
 let container = document.getElementById('container')
 let toggle = 0
+const urlPamrams = (new URLSearchParams(window.location.search))
+const selected = urlPamrams.get('selected')
+if(selected != null){
+  const selectedElement = document.getElementById(`${selected}`)
+  window.location.href = `./marken.html#${selected}`
+  selectedElement.classList.add('animSelected')
+  setTimeout(() => {
+    selectedElement.classList.remove('animSelected')
+  }, 10000);
+}
 document.addEventListener('click', (ev)=>{
   const container = document.getElementById("container");
+  const element = document.getElementsByClassName("element")
   if(ev.target.id !== 'container' && ev.target.id !== 'sidebar' && ev.target.id !== 'sidebarButton' && ev.target.id !== 'boxes' && ev.target.id !== 'search'){
-    if (ev.target.id === 'element' || ev.target.id === 'inh3' || ev.target.id === 'inimg') {
+    if (ev.target.classList.contains(element) ||  ev.target.id === 'inh3' || ev.target.id === 'inimg') {
       toggle++
     }
     if(toggle % 2 != 0){
@@ -47,7 +58,7 @@ function drawGrid() {
   }
   console.log(window.changedData, window.data)
   for (let i = 0; i < window.data.length; i++) {
-    Baustein += `<div id="element" onclick="showHeatMap('${window.changedData[i].Name}')"><h3 id="inh3">${window.changedData[i].Name}</h3><img id="inimg" src="./images/${window.changedData[i].Name.toLowerCase()}.png"></div>`
+    Baustein += `<div id="${window.changedData[i].Name}" class="element" onclick="showHeatMap('${window.changedData[i].Name}')"><h3 id="inh3">${window.changedData[i].Name}</h3><img id="inimg" src="./images/${window.changedData[i].Name.toLowerCase()}.png"></div>`
   }
   grid.innerHTML += Baustein
 }
