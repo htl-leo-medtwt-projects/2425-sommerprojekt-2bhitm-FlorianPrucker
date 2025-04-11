@@ -2,6 +2,7 @@ body{
     margin: 0;
     height: 200vh;
     font-family: Designer;
+    cursor: auto;
 }
 #bodyJ{
     height: fit-content;
@@ -87,7 +88,7 @@ body{
     border: 1px black solid;
     padding: 1%;
     width: 90%;
-    height: 90%;
+    height: 40vh;
     cursor: pointer;
 }
 #container{
@@ -207,9 +208,36 @@ table, tr, td, th{
 .animSelected{
     animation: selectColor 2s linear 0s 5;
 }
+#mode{
+    display: none;
+    margin: 1%;
+    border: none;
+    border-bottom: 1px solid black;
+    cursor: text;
+    font-size: 18px;
+}
+#mode:focus{
+    outline: none;
+    font-style: italic;
+}
+#sliderSelect{
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+}
+#sliderSelect > label{
+    padding: 1%;
+}
+#search, #boxes{
+    padding: 1%;
+    cursor: pointer;
+}
 @keyframes selectColor {
     0%{
         background-color: white;
+    }
+    50%{
+        background-color: #11ff00;
     }
     100%{
         background-color: yellow;

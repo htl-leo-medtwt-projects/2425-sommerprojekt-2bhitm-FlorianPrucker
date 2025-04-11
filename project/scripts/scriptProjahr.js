@@ -72,6 +72,7 @@ function getCountryMonth(country, month) {
                     if (z == month) {
                         allValues.push(window.data[i].Countries[j].Verkaufszahlen[z])
                         allNames.push(window.data[i].Name)
+                        break;
                     }
                 }
             }
@@ -93,6 +94,7 @@ function drawContent(country, month) {
             }
         }
     }
+    console.log("drawContent wurde aufgerufen:", allValues);
     Baustein += `<table>
                 <label for="table">Best-selling car brand in ${country}, ${arrayOfMonths[month]}</label>
                     <tr>
@@ -120,8 +122,10 @@ let chart;
 let series;
 let activePointIndex = null;
 let activeCountry = null;
-buildGraph(test, 0);
+buildGraph(test, 0)
 function buildGraph(country, month) {
+    console.log("series vorhanden?", !!series);
+    console.log("activeCountry === country?", activeCountry === country);
     if (!chart) {
         chart = anychart.area();
         chart.title("Number of Sold Cars per Month");
@@ -131,7 +135,6 @@ function buildGraph(country, month) {
         updateSelectedMonth(month);
         return;
     }
-    activeCountry = country;
     let sum = 0;
     let newData = [];
     let setMax = 0;
@@ -154,7 +157,13 @@ function buildGraph(country, month) {
         series.data(newData);
     } else {
         series = chart.area(newData);
+        series.listen("pointClick", function (event) {
+            let selectedIndex = event.point.getIndex();
+            getCountryMonth(activeCountry, selectedIndex);
+            updateSelectedMonth(selectedIndex);
+        });
     }
+    activeCountry = country;
     let yScale = chart.yScale();
     yScale.minimum(setMin / 2);
     yScale.maximum(setMax * 1.5);
@@ -174,15 +183,9 @@ function buildGraph(country, month) {
     colorScale.colors(["#deebf7", "#adead5", "#90db7f", "#ccca55", "#bc4631"]);
     series.colorScale(colorScale);
     series.stroke("black");
-    series.listen("pointClick", function (event) {
-        let selectedIndex = event.point.getIndex();
-        getCountryMonth(country, selectedIndex);
-        updateSelectedMonth(selectedIndex);
-    });
     chart.draw();
-    updateSelectedMonth(month);
 }
 function updateSelectedMonth(index) {
     activePointIndex = index;
-    console.log("Ausgewählter Monat:", arrayOfMonths[index]); // Zur Kontrolle in der Konsole
+    console.log("Ausgewählter Monat:", arrayOfMonths[index]);
 }
