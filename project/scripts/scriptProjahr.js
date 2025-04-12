@@ -183,6 +183,14 @@ function buildGraph(country, month) {
     colorScale.colors(["#deebf7", "#adead5", "#90db7f", "#ccca55", "#bc4631"]);
     series.colorScale(colorScale);
     series.stroke("black");
+    chart.background().fill("#757787");
+    chart.title().fontColor("#FFF");
+    chart.xAxis().title().fontColor("#fff");
+    chart.yAxis().title().fontColor("#fff");
+    chart.xAxis().labels().fontColor("#fff");
+    chart.yAxis().labels().fontColor("#fff");
+    chart.legend().fontColor("#fff");
+    series.tooltip().fontColor("#fff");
     chart.draw();
 }
 function updateSelectedMonth(index) {
