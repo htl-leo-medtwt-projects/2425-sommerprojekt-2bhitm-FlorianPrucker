@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Startseite</title>
+    <title>Allgemein</title>
+    <script src="./data/data.js" defer></script>
+    <script src="./data/data2.js" defer></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap/dist/css/jsvectormap.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap/dist/jsvectormap.css" />
     <script src="https://cdn.jsdelivr.net/npm/jsvectormap"></script>
@@ -18,10 +20,17 @@
     <div id="map"></div>
     <div id="sidebar">
         <h3 onclick="window.location.href='./info.html'">Info</h3>
-        <h3 onclick="window.location.href='./allgemein.html'">Allgemein</h3>
         <h3 onclick="window.location.href='./marken.html'">Marken</h3>
         <h3 onclick="window.location.href='./proJahr.html'">pro Jahr</h3>
         <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
+    </div>
+    <div id="mapData">
+        <div class="displayItems" id="Europa"onclick="expandContinent(Europa)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Europa</h3></div>
+        <div class="displayItems" id="Asien" onclick="expandContinent(Asien)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Asien</h3></div>
+        <div class="displayItems" id="Südamerika" onclick="expandContinent(Südamerika)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Südamerika</h3></div>
+        <div class="displayItems" id="Nordamerika" onclick="expandContinent(Nordamerika)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Nordamerika</h3></div>
+        <div class="displayItems" id="Afrika" onclick="expandContinent(Afrika)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Afrika</h3></div>
+        <div class="displayItems" id="Ozeanien" onclick="expandContinent(Ozeanien)"><img id="displayItemsImage" src="./images/arrow.png"><h3>Ozeanien</h3></div>
     </div>
 </body>
 </html>

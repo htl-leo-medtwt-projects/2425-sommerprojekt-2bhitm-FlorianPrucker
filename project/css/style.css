@@ -27,9 +27,9 @@ body{
 #sidebar{
     position: fixed;
     float: left;
-    height: 35vh;
+    height: 28vh;
     width: 15vw;
-    top: 30%;
+    top: 35%;
     border: 1px solid solid;
     border-top-right-radius: 0.5em;
     border-bottom-right-radius: 0.5em;
@@ -65,7 +65,7 @@ body{
 #sidebarButton{
     position: relative;
     float: right;
-    bottom: 58%;
+    bottom: 62%;
     width: 3vw;
     height: 8vh;
     transform: rotateY(180deg);
@@ -280,6 +280,7 @@ table, tr, td, th{
 }
 #txte{
     font-size: 14px;
+    word-break: break-word;
 }
 #clos{
     display: none;
@@ -289,6 +290,21 @@ table, tr, td, th{
     opacity: 0.3;
     position: absolute;
     top: 0%;
+}
+#displayItems{
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    background-color: #b8a68a;
+    cursor: pointer;
+    user-select: none;
+}
+#displayItemsImage{
+    width: 4vw;
+    height: 8vh;
+    padding-top: 1%;
 }
 @keyframes selectColor {
     0%{
