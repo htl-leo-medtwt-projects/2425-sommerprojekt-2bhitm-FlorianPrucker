@@ -291,9 +291,10 @@ table, tr, td, th{
     position: absolute;
     top: 0%;
 }
-#displayItems{
+.displayItems{
     display: flex;
     width: 80%;
+    height: 10vh;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1%;
@@ -301,10 +302,36 @@ table, tr, td, th{
     cursor: pointer;
     user-select: none;
 }
+.displayItemsCountry{
+    display: flex;
+    height: 10vh;
+    width: 25vw;
+    margin-top: 1%;
+    background-color: rgb(240, 229, 229);
+    cursor: pointer;
+    user-select: none;
+}
+.displayItemsCars{
+    display: flex;
+    height: 10vh;
+    width: 25vw;
+    margin-top: 1%;
+    background-color: rgb(240, 229, 229);
+    cursor: pointer;
+    user-select: none;
+}
+#fort{
+    width: 1%;
+}
 #displayItemsImage{
     width: 4vw;
     height: 8vh;
     padding-top: 1%;
+}
+#displayItemsImage2{
+    width: 4vw;
+    height: 8vh;
+    padding-top: 3.5%;
 }
 @keyframes selectColor {
     0%{
