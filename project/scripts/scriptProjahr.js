@@ -180,11 +180,11 @@ function buildGraph(country, month) {
     });
     series.name("Verkaufszahlen " + country);
     let colorScale = anychart.scales.linearColor();
-    colorScale.colors(["#deebf7", "#adead5", "#90db7f", "#ccca55", "#bc4631"]);
+    colorScale.colors(["#4A4030"]);
     series.colorScale(colorScale);
-    series.stroke("black");
-    chart.background().fill("#757787");
-    chart.title().fontColor("#FFF");
+    series.stroke("#7D766A");
+    chart.background().fill("#7D766A");
+    chart.title().fontColor("#fff");
     chart.xAxis().title().fontColor("#fff");
     chart.yAxis().title().fontColor("#fff");
     chart.xAxis().labels().fontColor("#fff");

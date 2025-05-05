@@ -183,13 +183,17 @@ td, th {
     width: 50%; 
     padding: 1%;
 }
+td:hover{
+    background-color: var(--color5);
+    color: var(--color3);
+}
 th{
     text-align: center;
 }
 tr {
     width: 100%;
-    background-color:indianred;
-    color: rgb(51, 23, 23);
+    background-color: var(--color1);
+    color: var(--color4);
 }
 table, tr, td, th{
     border: 1px solid black;
@@ -316,22 +320,32 @@ table, tr, td, th{
     height: 10vh;
     width: 25vw;
     margin-top: 1%;
-    background-color: rgb(240, 229, 229);
+    background-color: rgb(202, 144, 85);
     cursor: pointer;
     user-select: none;
 }
-#fort{
+.fort{
     width: 1%;
 }
-#displayItemsImage{
+.displayItemsImage{
     width: 4vw;
     height: 8vh;
     padding-top: 1%;
 }
-#displayItemsImage2{
+.displayItemsImage2{
     width: 4vw;
     height: 8vh;
     padding-top: 3.5%;
+}
+.fin{
+    position: relative;
+    top: 100%;
+}
+.markenBoxAnim1{
+    animation: markenBoxAnimOpen 0.8s ease-out 0s 1;
+}
+.markenBoxAnim2{
+    animation: markenBoxAnimClose 0.8s ease-in 0s 1;
 }
 @keyframes selectColor {
     0%{
@@ -342,5 +356,21 @@ table, tr, td, th{
     }
     100%{
         background-color: var(--color2);
+    }
+}
+@keyframes markenBoxAnimOpen {
+    0% {
+        transform: scale(-0.3);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@keyframes markenBoxAnimClose {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
     }
 }
