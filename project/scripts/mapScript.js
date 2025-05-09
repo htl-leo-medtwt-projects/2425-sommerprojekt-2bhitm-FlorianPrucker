@@ -12,8 +12,8 @@ let counter2 = 0
 let mapData = document.getElementById('mapData')
 let sum = 0
 let counter = [0, 0, 0, 0, 0, 0]
-let counterr = []
 let continentArray = ["Europa", "Asien", "Südamerika", "Nordamerika", "Afrika", "Ozeanien"]
+let counterr = new Array(continentArray.length).fill(0)
 let allCountriesContinent = []
 let allCountriesContinentCopy = []
 loop()
@@ -100,7 +100,16 @@ function setCountry(continent, c) {
     let fin = document.getElementsByClassName('fin')
     fin[0].style.marginTop = rech + 'vh'
     cons.style.marginBottom = 65 * allCountriesContinent.length + 'px'
-    counterr = Array(allCountriesContinent.length).fill(0)
+    for (i = 0; i < continentArray.length; i++) {
+        if(continentArray[i] == continent){
+            counterr[i] = Array(allCountriesContinent.length).fill(0)
+            break
+        }
+        if(continentArray[i] == continent){
+            return
+        }
+    }
+    console.log(counterr)
     allCountriesContinent = []
 }
 document.addEventListener('click', (ev) => {
@@ -195,10 +204,14 @@ document.addEventListener('click', (ev) => {
         if (!countryDiv) return;
         let continent = document.getElementsByClassName('displayItems')
         let countryId = countryDiv.id;
+        let continentId = countryDiv.parentNode.parentNode.id
         for (let i = 0; i < allCountriesContinentCopy.length; i++) {
             let j = allCountriesContinentCopy[i].indexOf(countryId);
-            if (j !== -1) {
-                if (counterr[j] % 2 === 0) {
+            let f = continentArray[i].indexOf(continentId)
+            console.log(f, continentArray[i])
+            console.log(counterr[i], counterr[i][j], i, j, continentId, continentArray[i])
+            if (j !== -1 && i !== -1) {
+                if (counterr[i][j] % 2 === 0) {
                     setSum(countryId);
                 } else {
                     let cond = document.getElementById(countryId);
@@ -206,28 +219,29 @@ document.addEventListener('click', (ev) => {
                     cond.lastChild.remove();
                 }
                 for (let g = 0; g < continent.length; g++) {
-                    if (continent[g].lastChild.className == 'fin') {
+                    if (continent[g].lastChild.className == 'fin' && counter[g] != 0) {
                         let childNodes = continent[g].lastChild.childNodes;
                         for (let h = 0; h < childNodes.length; h++) {
-                            console.log(allCountriesContinentCopy[i][h], continent[g].lastChild.childNodes[h].id, counterr[h])
-                            console.log(allCountriesContinentCopy[i][h] == continent[g].lastChild.childNodes[h].id, counterr[h] % 2 != 0)
-                            if (allCountriesContinentCopy[i][h] == continent[g].lastChild.childNodes[h].id && counterr[h] % 2 != 0) {
+                            console.log(countryId, continent[g].lastChild.childNodes[h].id, counterr[g][h], g, h)
+                            console.log(countryId != continent[g].lastChild.childNodes[h].id, counterr[g][h] % 2 != 0)
+                            if (countryId != continent[g].lastChild.childNodes[h].id && counterr[g][h] % 2 != 0) {
                                 let cond = document.getElementById(continent[g].lastChild.childNodes[h].id);
                                 cond.parentNode.parentNode.style.marginBottom = '0px';
                                 cond.lastChild.remove();
+                                counterr[g][h]++
                             }
                         }
                     }
                 }
-                counterr[j]++;
-                break;
+                counterr[i][j]++;
+                break
             }
         }
     }
 })
 function setSum(country1) {
     let Baustein = ""
-    Baustein = `<div class=""teststyle="position: relative; left: 40%; bottom: 10%;">`
+    Baustein = `<div class="test" style="position: relative; left: 40%; bottom: 10%;">`
     let allSums = []
     let changedData = []
     for (let i = 0; i < window.data.length; i++) {

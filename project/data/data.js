@@ -131,21 +131,39 @@ window.data = [
                 ]
             },
             {
-                "CountryName": "Spanien",
-                "CountryCode": "ES",
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
                 "Verkaufszahlen": [
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000, 
-                    1000
+                    72, 
+                    119, 
+                    130, 
+                    127, 
+                    75, 
+                    100, 
+                    75, 
+                    109, 
+                    120, 
+                    120, 
+                    96, 
+                    59
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    5457, 
+                    1825, 
+                    2345, 
+                    1070, 
+                    797, 
+                    195, 
+                    3835, 
+                    804, 
+                    736, 
+                    296, 
+                    149, 
+                    35
                 ]
             }
         ]
@@ -279,6 +297,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    40, 
+                    61,
+                    57, 
+                    53, 
+                    30, 
+                    42, 
+                    40, 
+                    18, 
+                    29, 
+                    28, 
+                    22, 
+                    16
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    355, 
+                    144, 
+                    258, 
+                    34, 
+                    97, 
+                    5, 
+                    305, 
+                    50, 
+                    60, 
+                    48, 
+                    2, 
+                    0
+                ]
             }
         ]
     },
@@ -410,6 +464,42 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    83, 
+                    96, 
+                    146, 
+                    91, 
+                    87, 
+                    105, 
+                    97, 
+                    69, 
+                    75, 
+                    105, 
+                    80, 
+                    81
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1295, 
+                    438, 
+                    519, 
+                    302, 
+                    298, 
+                    58, 
+                    753, 
+                    262, 
+                    290, 
+                    99, 
+                    15, 
+                    6
                 ]
             }
         ]
@@ -543,6 +633,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    116, 
+                    168, 
+                    170, 
+                    118, 
+                    119, 
+                    195, 
+                    147, 
+                    69, 
+                    72, 
+                    65, 
+                    68, 
+                    52
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    3792, 
+                    1260, 
+                    773, 
+                    863, 
+                    408, 
+                    51, 
+                    2914, 
+                    688, 
+                    508, 
+                    157, 
+                    32, 
+                    6
+                ]
             }
         ]
     },
@@ -656,6 +782,24 @@ window.data = [
                     323, 
                     178, 
                     178
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    2, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -789,6 +933,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    90, 
+                    119, 
+                    107, 
+                    165, 
+                    171, 
+                    156, 
+                    168, 
+                    112, 
+                    106, 
+                    136, 
+                    69, 
+                    131
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    2059, 
+                    1237, 
+                    1170, 
+                    762, 
+                    338, 
+                    59, 
+                    1934, 
+                    1027, 
+                    325, 
+                    183, 
+                    67, 
+                    3
+                ]
             }
         ]
     },
@@ -920,6 +1100,24 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    323, 
+                    177, 
+                    104, 
+                    65, 
+                    51, 
+                    13, 
+                    199, 
+                    64, 
+                    48, 
+                    36, 
+                    22, 
+                    3
                 ]
             }
         ]
@@ -1077,6 +1275,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    11, 
+                    7, 
+                    8, 
+                    2, 
+                    8, 
+                    0, 
+                    5, 
+                    1, 
+                    4, 
+                    0, 
+                    0, 
+                    0
+                ]
             }
         ]
     },
@@ -1190,6 +1406,42 @@ window.data = [
                     145, 
                     124, 
                     90
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    14, 
+                    18, 
+                    18, 
+                    5, 
+                    9, 
+                    11, 
+                    15, 
+                    5, 
+                    4, 
+                    0, 
+                    9, 
+                    6
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    6, 
+                    2, 
+                    1, 
+                    2, 
+                    0, 
+                    0, 
+                    4, 
+                    4, 
+                    2, 
+                    1, 
+                    1, 
+                    1
                 ]
             }
         ]
@@ -1323,6 +1575,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    426, 
+                    604, 
+                    583, 
+                    620, 
+                    511, 
+                    509, 
+                    483, 
+                    309, 
+                    460, 
+                    516, 
+                    477, 
+                    436
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    3004, 
+                    1636, 
+                    1319, 
+                    1557, 
+                    812, 
+                    131, 
+                    3300, 
+                    887, 
+                    586, 
+                    242, 
+                    45, 
+                    8
+                ]
             }
         ]
     },
@@ -1454,6 +1742,42 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    50, 
+                    69, 
+                    68, 
+                    31, 
+                    29, 
+                    34, 
+                    36, 
+                    15, 
+                    16, 
+                    34, 
+                    24, 
+                    27
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1608, 
+                    678, 
+                    1355, 
+                    133, 
+                    227, 
+                    8, 
+                    738, 
+                    114, 
+                    113, 
+                    121, 
+                    29, 
+                    2
                 ]
             }
         ]
@@ -1629,6 +1953,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    431, 
+                    475, 
+                    487, 
+                    529, 
+                    484, 
+                    521, 
+                    452, 
+                    319, 
+                    438, 
+                    490, 
+                    419, 
+                    383
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    930, 
+                    534, 
+                    788, 
+                    414, 
+                    321, 
+                    55, 
+                    929, 
+                    196, 
+                    142, 
+                    204, 
+                    92, 
+                    26
+                ]
             }
         ]
     },
@@ -1742,6 +2102,42 @@ window.data = [
                     72, 
                     63, 
                     72
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    31, 
+                    44, 
+                    33, 
+                    44, 
+                    27, 
+                    49, 
+                    26, 
+                    9, 
+                    14, 
+                    22, 
+                    16, 
+                    10
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    453, 
+                    418, 
+                    282, 
+                    142, 
+                    119, 
+                    17, 
+                    360, 
+                    141, 
+                    73, 
+                    38, 
+                    18, 
+                    2
                 ]
             }
         ]
@@ -1875,6 +2271,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    331, 
+                    343, 
+                    318, 
+                    325, 
+                    281, 
+                    281, 
+                    385, 
+                    366, 
+                    368, 
+                    379, 
+                    299, 
+                    194
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    784, 
+                    457, 
+                    401, 
+                    202, 
+                    191, 
+                    24, 
+                    643, 
+                    162, 
+                    100, 
+                    36, 
+                    22, 
+                    60
+                ]
             }
         ]
     },
@@ -2006,6 +2438,42 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    16, 
+                    28, 
+                    19, 
+                    26, 
+                    18, 
+                    15, 
+                    18, 
+                    23, 
+                    7, 
+                    14, 
+                    6, 
+                    4
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    33, 
+                    11, 
+                    20, 
+                    29, 
+                    14, 
+                    1, 
+                    54, 
+                    52, 
+                    24, 
+                    7, 
+                    1, 
+                    0
                 ]
             }
         ]
@@ -2139,6 +2607,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    4, 
+                    21, 
+                    47, 
+                    27, 
+                    29, 
+                    27, 
+                    16, 
+                    26, 
+                    21, 
+                    5, 
+                    12
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    434, 
+                    145, 
+                    150, 
+                    121, 
+                    61, 
+                    12, 
+                    282, 
+                    97, 
+                    83, 
+                    68, 
+                    25, 
+                    0
+                ]
             }
         ]
     },
@@ -2234,6 +2738,42 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    122, 
+                    127, 
+                    273, 
+                    132, 
+                    89, 
+                    253, 
+                    79, 
+                    103, 
+                    134, 
+                    154, 
+                    92, 
+                    119
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    66, 
+                    347, 
+                    422, 
+                    18, 
+                    237, 
+                    515, 
+                    203, 
+                    366, 
+                    254, 
+                    296, 
+                    236, 
+                    237
                 ]
             }
         ]
@@ -2349,6 +2889,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    270, 
+                    292, 
+                    290, 
+                    286, 
+                    273, 
+                    306, 
+                    340, 
+                    231, 
+                    269, 
+                    303, 
+                    297, 
+                    250
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1305, 
+                    817, 
+                    599, 
+                    478, 
+                    257, 
+                    44, 
+                    1099, 
+                    375, 
+                    312, 
+                    105, 
+                    73, 
+                    0
+                ]
             }
         ]
     },
@@ -2445,6 +3021,42 @@ window.data = [
                     344, 
                     335
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    13, 
+                    11,
+                    11, 
+                    16, 
+                    10, 
+                    9, 
+                    14, 
+                    11, 
+                    5, 
+                    8, 
+                    12, 
+                    7
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    188,
+                    102, 
+                    119, 
+                    108, 
+                    67, 
+                    14, 
+                    200, 
+                    92, 
+                    74, 
+                    34, 
+                    9, 
+                    0
+                ]
             }
         ]
     },
@@ -2522,6 +3134,24 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    1, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -2655,6 +3285,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    139, 
+                    127, 
+                    137, 
+                    149, 
+                    137, 
+                    192, 
+                    201, 
+                    110, 
+                    124, 
+                    119, 
+                    109, 
+                    90
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    300, 
+                    255, 
+                    260, 
+                    197, 
+                    155, 
+                    20, 
+                    404, 
+                    86, 
+                    77, 
+                    31, 
+                    10, 
+                    0
+                ]
             }
         ]
     },
@@ -2769,6 +3435,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    84, 
+                    76, 
+                    48, 
+                    64, 
+                    57, 
+                    51, 
+                    35, 
+                    54, 
+                    32, 
+                    36, 
+                    36, 
+                    46
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    295, 
+                    134, 
+                    113, 
+                    72, 
+                    40, 
+                    9, 
+                    172, 
+                    66, 
+                    32, 
+                    15, 
+                    2, 
+                    0
+                ]
             }
         ]
     },
@@ -2864,6 +3566,42 @@ window.data = [
                     240, 
                     148, 
                     133
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    101, 
+                    100, 
+                    193, 
+                    141, 
+                    116, 
+                    105, 
+                    99, 
+                    50, 
+                    87, 
+                    101, 
+                    80, 
+                    64
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    82, 
+                    40, 
+                    48, 
+                    32, 
+                    18, 
+                    9, 
+                    65, 
+                    38, 
+                    36, 
+                    22, 
+                    18, 
+                    0
                 ]
             }
         ]
@@ -2961,6 +3699,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    250, 
+                    271, 
+                    271, 
+                    299, 
+                    261, 
+                    226, 
+                    224, 
+                    187, 
+                    269, 
+                    277, 
+                    218, 
+                    222
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    2718, 
+                    2543, 
+                    1565, 
+                    761, 
+                    435, 
+                    65, 
+                    2385, 
+                    992, 
+                    473, 
+                    192, 
+                    71, 
+                    4
+                ]
             }
         ]
     },
@@ -3038,6 +3812,42 @@ window.data = [
                     10, 
                     9, 
                     5
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    1, 
+                    0, 
+                    2, 
+                    3, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    1, 
+                    1
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    9, 
+                    5, 
+                    4, 
+                    2, 
+                    9, 
+                    1, 
+                    9, 
+                    2, 
+                    4, 
+                    4, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -3134,6 +3944,42 @@ window.data = [
                     12, 
                     16, 
                     6
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    187, 
+                    201, 
+                    219, 
+                    205, 
+                    209, 
+                    259, 
+                    151, 
+                    79, 
+                    178, 
+                    185, 
+                    160, 
+                    141
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    936, 
+                    720, 
+                    380, 
+                    112, 
+                    148, 
+                    10, 
+                    983, 
+                    166, 
+                    99, 
+                    40, 
+                    7, 
+                    0
                 ]
             }
         ]
@@ -3273,6 +4119,24 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    4, 
+                    1, 
+                    1, 
+                    1, 
+                    0, 
+                    1, 
+                    0
+                ]
             }
         ]
     },
@@ -3368,6 +4232,42 @@ window.data = [
                     72, 
                     45, 
                     54
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    14, 
+                    12, 
+                    11, 
+                    14, 
+                    37, 
+                    16, 
+                    20, 
+                    29, 
+                    31, 
+                    51, 
+                    23, 
+                    16
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    40, 
+                    15, 
+                    13, 
+                    3, 
+                    4, 
+                    2, 
+                    20, 
+                    12, 
+                    8, 
+                    6, 
+                    2, 
+                    0
                 ]
             }
         ]
@@ -3483,6 +4383,42 @@ window.data = [
                     11, 
                     18
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    82, 
+                    85, 
+                    55, 
+                    43, 
+                    28, 
+                    49, 
+                    55, 
+                    60, 
+                    131, 
+                    96, 
+                    58, 
+                    64
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    85, 
+                    64, 
+                    54, 
+                    19, 
+                    28, 
+                    19, 
+                    157, 
+                    26, 
+                    55, 
+                    48, 
+                    11, 
+                    0
+                ]
             }
         ]
     },
@@ -3579,6 +4515,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    11, 
+                    15, 
+                    23, 
+                    24, 
+                    23, 
+                    20, 
+                    50, 
+                    17, 
+                    52, 
+                    36, 
+                    28, 
+                    20
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    31, 
+                    22, 
+                    21, 
+                    4, 
+                    28, 
+                    19, 
+                    0, 
+                    13, 
+                    57, 
+                    53, 
+                    43, 
+                    15
+                ]
             }
         ]
     },
@@ -3655,6 +4627,42 @@ window.data = [
                     0, 
                     0, 
                     0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    37, 
+                    69, 
+                    92, 
+                    66, 
+                    48, 
+                    63, 
+                    76, 
+                    56, 
+                    44, 
+                    78, 
+                    75, 
+                    46
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    336, 
+                    249, 
+                    175, 
+                    80, 
+                    81, 
+                    9, 
+                    252, 
+                    51, 
+                    79, 
+                    47, 
+                    13, 
                     0
                 ]
             }
@@ -3789,6 +4797,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    158, 
+                    145, 
+                    113, 
+                    45, 
+                    98, 
+                    142, 
+                    147, 
+                    119, 
+                    190, 
+                    317, 
+                    255, 
+                    183
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1539, 
+                    568, 
+                    416, 
+                    172, 
+                    142, 
+                    15, 
+                    938, 
+                    247, 
+                    131, 
+                    65, 
+                    22, 
+                    0
+                ]
             }
         ]
     },
@@ -3885,6 +4929,42 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    50, 
+                    68, 
+                    107, 
+                    154, 
+                    157, 
+                    114, 
+                    77, 
+                    41, 
+                    21, 
+                    62, 
+                    18, 
+                    62
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    76, 
+                    129, 
+                    33, 
+                    32, 
+                    116, 
+                    1, 
+                    143, 
+                    15, 
+                    17, 
+                    9, 
+                    3, 
+                    1
+                ]
             }
         ]
     },
@@ -3926,6 +5006,24 @@ window.data = [
                     47, 
                     22, 
                     18
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4022,6 +5120,42 @@ window.data = [
                     6, 
                     4, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    31, 
+                    14, 
+                    4, 
+                    26, 
+                    28, 
+                    34, 
+                    7, 
+                    7, 
+                    4, 
+                    4, 
+                    18, 
+                    17
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    23, 
+                    3, 
+                    9, 
+                    1, 
+                    1, 
+                    0, 
+                    6, 
+                    1, 
+                    0, 
+                    1, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -4137,6 +5271,42 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    18, 
+                    20, 
+                    17, 
+                    10, 
+                    14, 
+                    11, 
+                    13, 
+                    6, 
+                    4, 
+                    5, 
+                    1, 
+                    6
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    17, 
+                    10, 
+                    4, 
+                    10, 
+                    5, 
+                    0, 
+                    5, 
+                    8, 
+                    1, 
+                    0, 
+                    0, 
+                    0
+                ]
             }
         ]
     },
@@ -4214,6 +5384,24 @@ window.data = [
                     6, 
                     1, 
                     4
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    4, 
+                    7, 
+                    4, 
+                    10, 
+                    2, 
+                    2, 
+                    3, 
+                    3, 
+                    3, 
+                    2, 
+                    6, 
+                    2
                 ]
             }
         ]
@@ -4293,6 +5481,24 @@ window.data = [
                     10, 
                     20
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    5, 
+                    0, 
+                    1, 
+                    4, 
+                    3, 
+                    6, 
+                    3, 
+                    0, 
+                    0, 
+                    2, 
+                    1, 
+                    1
+                ]
             }
         ]
     },
@@ -4370,6 +5576,24 @@ window.data = [
                     3, 
                     4, 
                     4
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    7, 
+                    10, 
+                    12, 
+                    9, 
+                    6, 
+                    3, 
+                    16, 
+                    5, 
+                    3, 
+                    7, 
+                    4, 
+                    2
                 ]
             }
         ]
@@ -4449,6 +5673,24 @@ window.data = [
                     9, 
                     15
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    6, 
+                    5, 
+                    7, 
+                    6, 
+                    8, 
+                    10, 
+                    6, 
+                    9,
+                    4, 
+                    1, 
+                    1
+                ]
             }
         ]
     },
@@ -4527,6 +5769,24 @@ window.data = [
                     4, 
                     8
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    4, 
+                    3, 
+                    2, 
+                    3, 
+                    2, 
+                    0, 
+                    4, 
+                    3, 
+                    0, 
+                    5, 
+                    2, 
+                    13
+                ]
             }
         ]
     },
@@ -4604,6 +5864,24 @@ window.data = [
                     0, 
                     0, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    4, 
+                    2, 
+                    3, 
+                    4, 
+                    3, 
+                    7, 
+                    9, 
+                    2, 
+                    1, 
+                    2, 
+                    1, 
+                    2
                 ]
             }
         ]
@@ -4736,6 +6014,42 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    40, 
+                    66, 
+                    111, 
+                    46, 
+                    44, 
+                    119, 
+                    101, 
+                    48, 
+                    31, 
+                    28, 
+                    51, 
+                    57
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    332, 
+                    110, 
+                    174, 
+                    82, 
+                    64, 
+                    26, 
+                    196, 
+                    65, 
+                    52, 
+                    39, 
+                    24, 
+                    6
                 ]
             }
         ]
@@ -4911,6 +6225,24 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0
+                ]
             }
         ]
     },
@@ -4988,6 +6320,24 @@ window.data = [
                     8, 
                     19, 
                     24
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    2, 
+                    0, 
+                    1, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -5205,6 +6555,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1, 
+                    2, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
             }
         ]
     },
@@ -5365,6 +6733,42 @@ window.data = [
                     0, 
                     0, 
                     0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    50, 
+                    46, 
+                    64, 
+                    71, 
+                    60, 
+                    108, 
+                    123, 
+                    60, 
+                    81, 
+                    69, 
+                    95, 
+                    47
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    862, 
+                    326, 
+                    293, 
+                    87, 
+                    200, 
+                    26, 
+                    502, 
+                    65, 
+                    66, 
+                    26, 
+                    2, 
                     0
                 ]
             }
@@ -5612,6 +7016,24 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    2, 
+                    0, 
+                    4, 
+                    4, 
+                    6, 
+                    12, 
+                    7, 
+                    4
                 ]
             }
         ]
@@ -5991,6 +7413,24 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    1, 
+                    3, 
+                    5, 
+                    4, 
+                    5, 
+                    2, 
+                    3, 
+                    7, 
+                    4, 
+                    13, 
+                    10, 
+                    6
+                ]
             }
         ]
     },
@@ -6087,6 +7527,24 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    1, 
+                    0, 
+                    2, 
+                    0, 
+                    0, 
+                    3, 
+                    6, 
+                    5, 
+                    6, 
+                    2, 
+                    2
+                ]
             }
         ]
     },
@@ -6147,6 +7605,42 @@ window.data = [
                     1, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    64, 
+                    121, 
+                    114,
+                    144, 
+                    101, 
+                    55, 
+                    82, 
+                    59, 
+                    57, 
+                    81, 
+                    87, 
+                    96
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    1017, 
+                    520, 
+                    305, 
+                    334, 
+                    388, 
+                    29, 
+                    1024, 
+                    171, 
+                    100, 
+                    54, 
+                    43, 
+                    5
+                ]
             }
         ]
     },
@@ -6188,6 +7682,42 @@ window.data = [
                     17, 
                     12, 
                     13
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    13, 
+                    8, 
+                    16, 
+                    25, 
+                    21, 
+                    50, 
+                    15, 
+                    24, 
+                    14, 
+                    15, 
+                    16, 
+                    25
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    39, 
+                    15, 
+                    25, 
+                    3, 
+                    6, 
+                    0, 
+                    41, 
+                    6, 
+                    0, 
+                    3, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -6278,6 +7808,42 @@ window.data = [
                     1, 
                     1, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    2, 
+                    5, 
+                    4, 
+                    9, 
+                    8, 
+                    5, 
+                    5, 
+                    2, 
+                    5, 
+                    3, 
+                    2
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    0, 
+                    3, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
                 ]
             }
         ]
@@ -6753,6 +8319,42 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    29, 
+                    79, 
+                    103, 
+                    109, 
+                    77, 
+                    68, 
+                    82, 
+                    42, 
+                    52, 
+                    80, 
+                    64, 
+                    53
+                ]
+            },
+            {
+                "CountryName": "Irland",
+                "CountryCode": "IE",
+                "Verkaufszahlen": [
+                    614, 
+                    473, 
+                    395, 
+                    252, 
+                    207, 
+                    29, 
+                    639, 
+                    142, 
+                    104, 
+                    35, 
+                    6, 
+                    2
+                ]
             }
         ]
     },
@@ -6812,6 +8414,24 @@ window.data = [
                     1000, 
                     1000, 
                     1000
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    3, 
+                    5, 
+                    9, 
+                    30, 
+                    14, 
+                    27, 
+                    19, 
+                    12, 
+                    21, 
+                    29, 
+                    10, 
+                    8
                 ]
             }
         ]
@@ -6873,6 +8493,24 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    2, 
+                    3, 
+                    0, 
+                    1, 
+                    2, 
+                    1, 
+                    0, 
+                    1, 
+                    0, 
+                    2, 
+                    1, 
+                    0
+                ]
             }
         ]
     },
@@ -6916,6 +8554,24 @@ window.data = [
                     2, 
                     1, 
                     3, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    1, 
+                    0, 
                     0, 
                     0, 
                     0, 
@@ -8383,6 +10039,24 @@ window.data = [
                     0, 
                     4, 
                     1, 
+                    0
+                ]
+            },
+            {
+                "CountryName": "Luxemburg",
+                "CountryCode": "LU",
+                "Verkaufszahlen": [
+                    2, 
+                    0, 
+                    0, 
+                    2, 
+                    1, 
+                    1, 
+                    1, 
+                    2, 
+                    0, 
+                    1, 
+                    0, 
                     0
                 ]
             }
