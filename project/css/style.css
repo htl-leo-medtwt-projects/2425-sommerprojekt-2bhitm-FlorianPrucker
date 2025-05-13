@@ -1,33 +1,38 @@
-body{
+body {
     margin: 0;
     height: 200vh;
     font-family: Designer;
     cursor: auto;
     background-color: #7D766A;
 }
-#bodyJ{
+
+#bodyJ {
     height: fit-content;
     scroll-behavior: smooth;
 }
-:root{
+
+:root {
     --color1: #b8a68a;
     --color2: #7D766A;
     --color3: #E3BC7D;
     --color4: #4A4030;
     --color5: #332817;
 }
+
 @font-face {
     font-family: Designer;
     src: url('../font/Designer.otf');
 }
-#map{
+
+#map {
     height: 100vh;
     width: 100vw;
 }
-#sidebar{
+
+#sidebar {
     position: fixed;
     float: left;
-    height: 28vh;
+    height: 24vh;
     width: 15vw;
     top: 35%;
     border: 1px solid solid;
@@ -38,41 +43,58 @@ body{
     text-align: center;
     transform: translateX(-138px);
     z-index: 20;
+    padding: 1%;
+    left: -1.5%;
 }
-#sidebar > h3{
-    width: 80%;
+
+#sidebar>h3 {
+    width: 71%;
+    height: 20%;
     cursor: pointer;
     position: relative;
     z-index: 12;
+    margin: 0;
+    padding: 5%;
 }
-.element > img{
+
+#sidebar>h3:hover {
+    animation: sidebarHover 1s ease-in-out 0s infinite alternate;
+}
+
+.element>img {
     width: 8vw;
     position: relative;
     left: 37%;
     bottom: 5%;
 }
-.element > h3{
+
+.element>h3 {
     position: relative;
     text-align: center;
 
 }
-#sIN{
+
+#sIN {
     animation: sidebarGoesIn .5s ease-in-out 1;
 }
-#sOut{
+
+#sOut {
     animation: sidebarGoesin .5s ease-in-out 1;
 }
-#sidebarButton{
+
+#sidebarButton {
     position: relative;
     float: right;
-    bottom: 62%;
+    bottom: 66%;
     width: 3vw;
     height: 8vh;
+    left: 5%;
     transform: rotateY(180deg);
     cursor: pointer;
     z-index: 12;
 }
-#grid{
+
+#grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     width: 100vw;
@@ -82,7 +104,8 @@ body{
     justify-items: center;
     gap: 2vh;
 }
-.element{
+
+.element {
     position: relative;
     font-size: 24px;
     align-self: center;
@@ -95,7 +118,8 @@ body{
     display: flex;
     flex-flow: column;
 }
-#container{
+
+#container {
     position: fixed;
     display: none;
     left: 10%;
@@ -104,67 +128,80 @@ body{
     height: 70vh;
     z-index: 100;
 }
-#setCountry, #setMonth{
+
+#setCountry,
+#setMonth {
     padding: 1%;
     cursor: pointer;
     user-select: none;
     background-color: black;
     color: white;
     text-shadow:
-    0 0 14px var(--color5),
-    0 0 13px var(--color5),
-    0 0 11px var(--color4),
-    0 0 10px var(--color4),
-    0 0 8px var(--color2),
-    0 0 7px var(--color2),
-    0 0 5px var(--color1),
-    0 0 4px var(--color1),
-    0 0 2px var(--color3),
-    0 0 1px var(--color3);
+        0 0 14px var(--color5),
+        0 0 13px var(--color5),
+        0 0 11px var(--color4),
+        0 0 10px var(--color4),
+        0 0 8px var(--color2),
+        0 0 7px var(--color2),
+        0 0 5px var(--color1),
+        0 0 4px var(--color1),
+        0 0 2px var(--color3),
+        0 0 1px var(--color3);
     border: 0.2em rgb(40, 40, 40) solid;
     border-radius: 0.5em;
     width: 12vw;
     height: 7.5vh;
 }
-#setCountry{
+
+#setCountry {
     position: relative;
     right: 3%;
 }
-#sec{
+
+#sec {
     width: 19vw;
 }
-#fir{
+
+#fir {
     width: 13vw;
 }
+
 #setCountry:focus,
 #setCountry:focus-within {
-    cursor: pointer; 
+    cursor: pointer;
 }
-#incredient:checked{
+
+#incredient:checked {
     opacity: 0.8;
 }
-#incredient{
+
+#incredient {
     padding: 1%;
     cursor: pointer;
 }
-#flex{
+
+#flex {
     display: flex;
     justify-content: space-around;
     height: 7vh;
 }
-#content{
+
+#content {
     width: 100vw;
     display: flex;
     justify-content: space-around;
 }
-#fir, #sec{
+
+#fir,
+#sec {
     color: black;
     width: 19vw;
     height: 5vh;
     margin-bottom: 2%;
     margin-top: 1%;
 }
-#result{
+
+#result {
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
@@ -173,51 +210,67 @@ body{
     font-size: 18px;
     font-style: oblique;
 }
+
 table {
     width: 40vw;
     margin-left: auto;
     margin-right: auto;
     border-collapse: collapse;
 }
-td, th {
-    width: 50%; 
+
+td,
+th {
+    width: 50%;
     padding: 1%;
 }
-td:hover{
+
+td:hover {
     background-color: var(--color5);
     color: var(--color3);
 }
-th{
+
+th {
     text-align: center;
 }
+
 tr {
     width: 100%;
     background-color: var(--color1);
     color: var(--color4);
 }
-table, tr, td, th{
+
+table,
+tr,
+td,
+th {
     border: 1px solid black;
     border-collapse: collapse;
     border-spacing: 0px;
 }
-#result > label{
+
+#result>label {
     position: relative;
     left: 3vw;
 }
-.anychart-credits-text, .anychart-credits-logo{
+
+.anychart-credits-text,
+.anychart-credits-logo {
     display: none;
 }
-#container2{
+
+#container2 {
     position: relative;
     left: 10%;
     width: 80vw;
     height: 70vh;
     z-index: 11;
 }
-.animSelected{
+
+.animSelected {
     animation: selectColor 1s ease-in 3;
 }
-#mode{
+
+#mode {
     display: none;
     margin: 1%;
     border: none;
@@ -226,26 +279,33 @@ table, tr, td, th{
     font-size: 18px;
     background-color: var(--color2);
 }
-#mode:focus{
+
+#mode:focus {
     outline: none;
     font-style: italic;
 }
-#sliderSelect{
+
+#sliderSelect {
     margin: 1%;
     padding: 1%;
     display: flex;
 }
-#sliderSelect > label{
+
+#sliderSelect>label {
     padding: 1%;
 }
-#search, #boxes{
+
+#search,
+#boxes {
     padding: 1%;
     cursor: pointer;
 }
-#info{
+
+#info {
     text-align: center;
 }
-.explanationBox{
+
+.explanationBox {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -263,8 +323,15 @@ table, tr, td, th{
     height: 20vh;
     margin-top: 5%;
     margin-bottom: 5%;
+    transition: 0.5s all ease-in-out;
 }
-#insideCont{
+
+.explanationBox:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+
+#insideCont {
     display: none;
     width: 50vw;
     height: fit-content;
@@ -278,15 +345,20 @@ table, tr, td, th{
     top: 25%;
     text-align: center;
     color: var(--color3);
+    transform: scale(0);
+    transition: transform 0.3s ease;
+    display: none;
 }
-#insideCont > h3{
+#insideCont>h3 {
     padding: 1%;
 }
-#txte{
+
+#txte {
     font-size: 14px;
     word-break: break-word;
 }
-#clos{
+
+#clos {
     display: none;
     width: 100%;
     height: 53.5rem;
@@ -295,7 +367,8 @@ table, tr, td, th{
     position: absolute;
     top: 0%;
 }
-.displayItems{
+
+.displayItems {
     display: flex;
     width: 80%;
     height: 10vh;
@@ -306,16 +379,19 @@ table, tr, td, th{
     cursor: pointer;
     user-select: none;
 }
-.displayItemsCountry{
+
+.displayItemsCountry {
     display: flex;
     height: 10vh;
     width: 25vw;
     margin-top: 1%;
+    position: relative;
     background-color: rgb(240, 229, 229);
     cursor: pointer;
     user-select: none;
 }
-.displayItemsCars{
+
+.displayItemsCars {
     display: flex;
     height: 10vh;
     width: 25vw;
@@ -324,53 +400,124 @@ table, tr, td, th{
     cursor: pointer;
     user-select: none;
 }
-.fort{
+
+.fort {
     width: 1%;
 }
-.displayItemsImage{
+
+.displayItemsImage {
     width: 4vw;
     height: 8vh;
     padding-top: 1%;
 }
-.displayItemsImage2{
+
+.displayItemsImage2 {
     width: 4vw;
     height: 8vh;
     padding-top: 3.5%;
 }
-.fin{
+
+.fin {
     position: relative;
     top: 100%;
 }
-.markenBoxAnim1{
+
+.markenBoxAnim1 {
     animation: markenBoxAnimOpen 0.8s ease-out 0s 1;
 }
-.markenBoxAnim2{
+
+.markenBoxAnim2 {
     animation: markenBoxAnimClose 0.8s ease-in 0s 1;
 }
+
+.expandBoxAnim1 {
+    animation: expandBox 0.5s ease-out 0.1s 1 forwards;
+}
+
+@keyframes expandBox {
+    from {
+        transform: rotate(0deg)
+    }
+
+    to {
+        transform: rotate(-90deg)
+    }
+}
+
+.shrinkBoxAnim1 {
+    animation: shrinkBox 0.5s ease-in forwards;
+}
+
+@keyframes shrinkBox {
+    from {
+        transform: rotate(-90deg)
+    }
+
+    to {
+        transform: rotate(0deg)
+    }
+}
+
+.fadeOutAndShrink {
+    animation: shrinkAndFade 0.5s ease forwards;
+}
+
+@keyframes shrinkAndFade {
+    from {
+        opacity: 1;
+        transform: scaleY(1);
+    }
+
+    to {
+        opacity: 0;
+        transform: scaleY(0);
+    }
+}
+
 @keyframes selectColor {
-    0%{
+    0% {
         background-color: var(--color2);
     }
-    50%{
+
+    50% {
         background-color: var(--color3);
     }
-    100%{
+
+    100% {
         background-color: var(--color2);
     }
 }
+
 @keyframes markenBoxAnimOpen {
     0% {
         transform: scale(-0.3);
     }
+
     100% {
         transform: scale(1);
     }
 }
+
 @keyframes markenBoxAnimClose {
     0% {
         transform: scale(1);
     }
+
     100% {
         transform: scale(0);
+    }
+}
+
+@keyframes sidebarHover {
+    0% {
+        background: rgba(255, 255, 255, 0.5);
+    }
+
+    50% {
+        background: rgba(255, 255, 255, 0.2);
+    }
+
+    100% {
+        background: rgba(255, 255, 255, 0.5);
     }
 }

@@ -96,20 +96,29 @@ function setCountry(continent, c) {
     Baustein += `</div>`
     cont = document.getElementById(continent)
     let cons = cont.nextElementSibling
-    cont.innerHTML += Baustein
-    let fin = document.getElementsByClassName('fin')
-    fin[0].style.marginTop = rech + 'vh'
-    cons.style.marginBottom = 65 * allCountriesContinent.length + 'px'
+    let currentMargin = 65 * allCountriesContinent.length + 'px'
+    cons.animate([
+        { marginBottom: '0px' },
+        { marginBottom: currentMargin }
+    ], {
+        duration: 500,
+        easing: 'ease-in-out',
+        fill: 'forwards'
+    }).onfinish = () => {
+        cont.innerHTML += Baustein
+        let fin = document.getElementsByClassName('fin')
+        fin[0].style.marginTop = rech + 'vh'
+        cons.style.marginBottom = currentMargin;
+    };
     for (i = 0; i < continentArray.length; i++) {
-        if(continentArray[i] == continent){
+        if (continentArray[i] == continent) {
             counterr[i] = Array(allCountriesContinent.length).fill(0)
             break
         }
-        if(continentArray[i] == continent){
+        if (continentArray[i] == continent) {
             return
         }
     }
-    console.log(counterr)
     allCountriesContinent = []
 }
 document.addEventListener('click', (ev) => {
@@ -117,11 +126,23 @@ document.addEventListener('click', (ev) => {
         counter2 = 0
     }
     let target = ev.target
-    let targ = ev.target.className
     let targId = ev.target.id
     let closFin = ev.target.closest(".displayItemsImage")
     let fort = ev.target.closest(".fort")
     let index = 0
+    if (closFin == null) {
+        if (ev.target.className == 'displayItems') {
+            closFin = ev.target.firstChild
+        } else if (ev.target.className == 'fort') {
+            closFin = ev.target.previousSibling
+        } else {
+            closFin = ev.target
+        }
+    }
+    if (closFin.classList[1] != undefined) {
+        closFin.classList.remove(closFin.classList[1])
+    }
+    let targ = ev.target.className
     if (targ == 'displayItems') {
         targ = document.getElementsByClassName('displayItems')
     }
@@ -155,8 +176,11 @@ document.addEventListener('click', (ev) => {
             targ = document.getElementsByClassName('displayItemsImage2')
         }
     }
-    if (closFin != null && closFin.classList.contains("displayItemsImage") || fort != null && fort.classList.contains("fort") || targ == 'fort' || targ[0] != undefined && targ[0].className == 'displayItems') {
+    console.log(closFin, targ)
+    console.log(closFin.className == 'displayItemsImage')
+    if (closFin.className == 'displayItemsImage' || fort != null && fort.classList.contains("fort") || targ == 'fort' || targ[0] != undefined && targ[0].className == 'displayItems') {
         let i = 0
+        console.log(targ[i])
         for (i = 0; i < continentArray.length; i++) {
             if (targ != 'fort') {
                 if (targ[i].className == 'displayItems') {
@@ -181,7 +205,14 @@ document.addEventListener('click', (ev) => {
             }
         }
         if (counter[i] % 2 == 0) {
-            setCountry(fort.innerHTML, i)
+            closFin.classList.add('expandBoxAnim1');
+            setTimeout(() => {
+                closFin.classList.remove('expandBoxAnim1');
+                closFin.style.transform = 'rotate(-90deg)'
+            }, 500);
+            setTimeout(() => {
+                setCountry(fort.innerHTML, i);
+            }, 500);
         } else {
             let p = 0
             if (fort.className == 'fin') {
@@ -194,9 +225,27 @@ document.addEventListener('click', (ev) => {
                     break
                 }
             }
+            closFin.classList.add('shrinkBoxAnim1');
+            setTimeout(() => {
+                closFin.classList.remove('shrinkBoxAnim1');
+                closFin.style.transform = 'rotate(0deg)'
+            }, 1000);
             let cond = document.getElementsByClassName('displayItems')
-            cond[p].nextElementSibling.style.marginBottom = '0px'
-            cond[p].lastChild.remove()
+            cond[p].nextElementSibling.animate([
+                { marginBottom: getComputedStyle(cond[p].nextElementSibling).marginBottom },
+                { marginBottom: '0px' }
+            ], {
+                duration: 1000,
+                easing: 'ease-in-out',
+                fill: 'forwards'
+            }).onfinish = () => {
+                cond[p].nextElementSibling.style.marginBottom = '0px';
+            };
+            cond[p].lastChild.classList.add('fadeOutAndShrink')
+            setTimeout(() => {
+                cond[p].lastChild.classList.remove('fadeOutAndShrink')
+                cond[p].lastChild.remove()
+            }, 1000);
         }
         counter[i]++
     } else if (targ[0].className == 'displayItemsCountry' || targ[0].className == 'displayItemsImage2' || targ[0].className == 'fort2') {
@@ -207,11 +256,9 @@ document.addEventListener('click', (ev) => {
         let continentId = countryDiv.parentNode.parentNode.id
         for (let i = 0; i < allCountriesContinentCopy.length; i++) {
             let j = allCountriesContinentCopy[i].indexOf(countryId);
-            let f = continentArray[i].indexOf(continentId)
-            console.log(f, continentArray[i])
-            console.log(counterr[i], counterr[i][j], i, j, continentId, continentArray[i])
+            let f = continentArray.indexOf(continentId)
             if (j !== -1 && i !== -1) {
-                if (counterr[i][j] % 2 === 0) {
+                if (counterr[f][j] % 2 === 0) {
                     setSum(countryId);
                 } else {
                     let cond = document.getElementById(countryId);
@@ -222,8 +269,6 @@ document.addEventListener('click', (ev) => {
                     if (continent[g].lastChild.className == 'fin' && counter[g] != 0) {
                         let childNodes = continent[g].lastChild.childNodes;
                         for (let h = 0; h < childNodes.length; h++) {
-                            console.log(countryId, continent[g].lastChild.childNodes[h].id, counterr[g][h], g, h)
-                            console.log(countryId != continent[g].lastChild.childNodes[h].id, counterr[g][h] % 2 != 0)
                             if (countryId != continent[g].lastChild.childNodes[h].id && counterr[g][h] % 2 != 0) {
                                 let cond = document.getElementById(continent[g].lastChild.childNodes[h].id);
                                 cond.parentNode.parentNode.style.marginBottom = '0px';
@@ -233,7 +278,7 @@ document.addEventListener('click', (ev) => {
                         }
                     }
                 }
-                counterr[i][j]++;
+                counterr[f][j]++;
                 break
             }
         }
@@ -241,7 +286,7 @@ document.addEventListener('click', (ev) => {
 })
 function setSum(country1) {
     let Baustein = ""
-    Baustein = `<div class="test" style="position: relative; left: 40%; bottom: 10%;">`
+    Baustein = `<div class="test" style="position: absolute; top: 0; left: 110%;">`
     let allSums = []
     let changedData = []
     for (let i = 0; i < window.data.length; i++) {

@@ -26,9 +26,13 @@ function popUp(elem){
         ope = true
         checkedElem = elem
         elem.nextElementSibling.style.display = 'block'
+        elem.nextElementSibling.style.transform = 'scale(1)'
+        elem.nextElementSibling.style.transition = '0.3s transform ease'
         clos.style.display = 'block'
     }else{
         ope = false
+        checkedElem.nextElementSibling.style.transform = 'scale(0)'
+        checkedElem.nextElementSibling.style.transition = '0.3s transform ease'
         checkedElem.nextElementSibling.style.display = 'none'
         clos.style.display = 'none'
     }
