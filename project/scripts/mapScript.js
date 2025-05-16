@@ -16,48 +16,16 @@ let continentArray = ["Europa", "Asien", "Südamerika", "Nordamerika", "Afrika",
 let counterr = new Array(continentArray.length).fill(0)
 let allCountriesContinent = []
 let allCountriesContinentCopy = []
-loop()
-function loop() {
+/*
     if (map.getSelectedRegions() != "") {
         country = map.getSelectedRegions()
-        let continent = null
-        let x = 0
-        for (x = 0; x < data2.length; x++) {
-            if (data2[x].cID == country) {
-                break
-            }
-        }
-        continent = document.getElementById(data2[x].continent)
         continent.scrollTo({
             top: 100,
             left: 100,
             behavior: "smooth",
         });
-        let i = 0
-        for (i = 0; i < continentArray.length; i++) {
-            if (continentArray[i] == data2[x].continent) {
-                break
-            }
-        }
-        if (counter[i] % 2 == 0) {
-            setCountry(data2[x].continent)
-        } else {
-            let cons = continent.nextElementSibling
-            cons.style.marginBottom = '0px'
-            let cond = document.getElementsByClassName('fin')
-            for (let j = 0; j < cond.length; j++) {
-                if (cond[j] == continent.lastChild)
-                    cond[j].innerHTML = ''
-            }
-        }
-        console.log(continent.lastChild)
-        counter[i]++
-    }
-    country = null
-    continent = null
     map.clearSelectedRegions();
-    timer = setTimeout(loop, 500);
-}
+    */
 function getNewCountry(continent) {
     let save = []
     for (let f = 0; f < window.data.length; f++) {
@@ -81,7 +49,7 @@ function getNewCountry(continent) {
     }
     allCountriesContinentCopy.push(save)
 }
-function setCountry(continent, c) {
+function setCountry(continent) {
     let Baustein = ""
     Baustein = `<div class="fin" style="display: flex; flex-direction: column;">`
     getNewCountry(continent)
@@ -126,19 +94,29 @@ document.addEventListener('click', (ev) => {
         counter2 = 0
     }
     let target = ev.target
+    let isMap = false
+    if (target.parentNode.parentNode.parentNode.id == 'map') {
+        isMap = true
+        for (let i = 0; i < window.data2.length; i++) {
+            if (window.data[i].cID == target.dataset.code) {
+
+            }
+        }
+    }
     let targId = ev.target.id
     let closFin = ev.target.closest(".displayItemsImage")
     let fort = ev.target.closest(".fort")
     let index = 0
     if (closFin == null) {
-        if (ev.target.className == 'displayItems') {
+        if (ev.target.className == 'displayItemsCountry' || ev.target.className == 'displayItems') {
             closFin = ev.target.firstChild
-        } else if (ev.target.className == 'fort') {
+        } else if (ev.target.className == 'fort2' || ev.target.className == 'fort') {
             closFin = ev.target.previousSibling
         } else {
             closFin = ev.target
         }
     }
+    console.log(closFin.className)
     if (closFin.classList[1] != undefined) {
         closFin.classList.remove(closFin.classList[1])
     }
@@ -176,32 +154,31 @@ document.addEventListener('click', (ev) => {
             targ = document.getElementsByClassName('displayItemsImage2')
         }
     }
-    console.log(closFin, targ)
-    console.log(closFin.className == 'displayItemsImage')
-    if (closFin.className == 'displayItemsImage' || fort != null && fort.classList.contains("fort") || targ == 'fort' || targ[0] != undefined && targ[0].className == 'displayItems') {
+    if (closFin.className == 'displayItemsImage' || fort != null && fort.classList.contains("fort") || targ == 'fort' || targ[0] != undefined && targ[0].className == 'displayItems' || isMap) {
         let i = 0
-        console.log(targ[i])
         for (i = 0; i < continentArray.length; i++) {
-            if (targ != 'fort') {
-                if (targ[i].className == 'displayItems') {
-                    if (targId == targ[i].id) {
-                        if (targ[i].lastChild.className == 'fort') {
-                            fort = targ[i].lastChild
-                        } else {
-                            fort = targ[i].children[1]
+            if (!isMap) {
+                if (targ != 'fort') {
+                    if (targ[i].className == 'displayItems') {
+                        if (targId == targ[i].id) {
+                            if (targ[i].lastChild.className == 'fort') {
+                                fort = targ[i].lastChild
+                            } else {
+                                fort = targ[i].children[1]
+                            }
+                        }
+                    } else if (targ[i].className == 'displayItemsImage') {
+                        if (closFin == targ[i]) {
+                            fort = targ[i].nextElementSibling
                         }
                     }
-                } else if (targ[i].className == 'displayItemsImage') {
-                    if (closFin == targ[i]) {
-                        fort = targ[i].nextElementSibling
-                    }
                 }
-            }
-            if (fort == null) {
-                continue
-            }
-            if (continentArray[i] == fort.innerHTML) {
-                break
+                if (fort == null) {
+                    continue
+                }
+                if (continentArray[i] == fort.innerHTML) {
+                    break
+                }
             }
         }
         if (counter[i] % 2 == 0) {
@@ -211,17 +188,28 @@ document.addEventListener('click', (ev) => {
                 closFin.style.transform = 'rotate(-90deg)'
             }, 500);
             setTimeout(() => {
-                setCountry(fort.innerHTML, i);
+                setCountry(isMap ? country : fort.innerHTML, i);
             }, 500);
         } else {
             let p = 0
-            if (fort.className == 'fin') {
-                fort = fort.previousSibling
-            } else if (fort.className == 'displayItemsImage') {
-                fort = fort.parentNode
+            if (!isMap) {
+                if (fort.className == 'fin') {
+                    fort = fort.previousSibling
+                } else if (fort.className == 'displayItemsImage') {
+                    fort = fort.parentNode
+                }
             }
             for (p = 0; p < continentArray.length; p++) {
-                if (fort.innerHTML == continentArray[p]) {
+                if (isMap ? country : fort.innerHTML == continentArray[p]) {
+                    break
+                }
+            }
+            let countryDiv = document.getElementsByClassName('displayItemsCountry')
+            if (!countryDiv) return;
+            let countryId = null
+            for (let i = 0; i < countryDiv.length; i++) {
+                if (countryDiv[i].parentNode.parentNode.nextSibling.id == 'inside') {
+                    countryId = countryDiv[i].id;
                     break
                 }
             }
@@ -229,17 +217,30 @@ document.addEventListener('click', (ev) => {
             setTimeout(() => {
                 closFin.classList.remove('shrinkBoxAnim1');
                 closFin.style.transform = 'rotate(0deg)'
-            }, 1000);
+            }, 500);
             let cond = document.getElementsByClassName('displayItems')
             cond[p].nextElementSibling.animate([
                 { marginBottom: getComputedStyle(cond[p].nextElementSibling).marginBottom },
                 { marginBottom: '0px' }
             ], {
-                duration: 1000,
+                duration: 500,
                 easing: 'ease-in-out',
                 fill: 'forwards'
             }).onfinish = () => {
+                if(cond[p].nextElementSibling.style.marginBottom != null){
                 cond[p].nextElementSibling.style.marginBottom = '0px';
+                }
+            };
+            let cond2 = document.getElementById(countryId)
+            cond2.parentNode.parentNode.animate([
+                { marginBottom: getComputedStyle(cond2.parentNode.parentNode).marginBottom },
+                { marginBottom: '0px' }
+            ], {
+                duration: 500,
+                easing: 'ease-in-out',
+                fill: 'forwards'
+            }).onfinish = () => {
+                cond2.parentNode.parentNode.style.marginBottom = '0px';
             };
             cond[p].lastChild.classList.add('fadeOutAndShrink')
             setTimeout(() => {
@@ -251,28 +252,72 @@ document.addEventListener('click', (ev) => {
     } else if (targ[0].className == 'displayItemsCountry' || targ[0].className == 'displayItemsImage2' || targ[0].className == 'fort2') {
         let countryDiv = target.closest('.displayItemsCountry');
         if (!countryDiv) return;
-        let continent = document.getElementsByClassName('displayItems')
         let countryId = countryDiv.id;
+        let continent = document.getElementsByClassName('displayItems')
         let continentId = countryDiv.parentNode.parentNode.id
         for (let i = 0; i < allCountriesContinentCopy.length; i++) {
             let j = allCountriesContinentCopy[i].indexOf(countryId);
             let f = continentArray.indexOf(continentId)
             if (j !== -1 && i !== -1) {
                 if (counterr[f][j] % 2 === 0) {
-                    setSum(countryId);
+                    closFin.classList.add('expandBoxAnim1');
+                    setTimeout(() => {
+                        closFin.classList.remove('expandBoxAnim1');
+                        closFin.style.transform = 'rotate(-90deg)'
+                    }, 500);
+                    setTimeout(() => {
+                        setSum(countryId);
+                    }, 500);
                 } else {
+                    closFin.classList.add('shrinkBoxAnim1');
+                    setTimeout(() => {
+                        closFin.classList.remove('shrinkBoxAnim1');
+                        closFin.style.transform = 'rotate(0deg)'
+                    }, 500);
                     let cond = document.getElementById(countryId);
-                    cond.parentNode.parentNode.style.marginBottom = '0px';
-                    cond.lastChild.remove();
+                    cond.parentNode.parentNode.animate([
+                        { marginBottom: getComputedStyle(cond.parentNode.parentNode).marginBottom },
+                        { marginBottom: '0px' }
+                    ], {
+                        duration: 500,
+                        easing: 'ease-in-out',
+                        fill: 'forwards'
+                    }).onfinish = () => {
+                        cond.parentNode.parentNode.style.marginBottom = '0px';
+                    };
+                    cond.lastChild.classList.add('fadeOutAndShrink')
+                    setTimeout(() => {
+                        cond.lastChild.classList.remove('fadeOutAndShrink')
+                        cond.lastChild.remove();
+                    }, 1000);
                 }
                 for (let g = 0; g < continent.length; g++) {
                     if (continent[g].lastChild.className == 'fin' && counter[g] != 0) {
                         let childNodes = continent[g].lastChild.childNodes;
+                        console.log(childNodes)
                         for (let h = 0; h < childNodes.length; h++) {
                             if (countryId != continent[g].lastChild.childNodes[h].id && counterr[g][h] % 2 != 0) {
                                 let cond = document.getElementById(continent[g].lastChild.childNodes[h].id);
-                                cond.parentNode.parentNode.style.marginBottom = '0px';
-                                cond.lastChild.remove();
+                                cond.firstChild.classList.add('shrinkBoxAnim1');
+                                setTimeout(() => {
+                                    cond.firstChild.classList.remove('shrinkBoxAnim1');
+                                    cond.firstChild.style.transform = 'rotate(0deg)'
+                                }, 500);
+                                cond.parentNode.parentNode.animate([
+                                    { marginBottom: getComputedStyle(cond.parentNode.parentNode).marginBottom },
+                                    { marginBottom: '0px' }
+                                ], {
+                                    duration: 500,
+                                    easing: 'ease-in-out',
+                                    fill: 'forwards'
+                                }).onfinish = () => {
+                                    cond.parentNode.parentNode.style.marginBottom = '0px';
+                                };
+                                cond.lastChild.classList.add('fadeOutAndShrink')
+                                setTimeout(() => {
+                                    cond.lastChild.classList.remove('fadeOutAndShrink')
+                                    cond.lastChild.remove();
+                                }, 1000);
                                 counterr[g][h]++
                             }
                         }
@@ -330,9 +375,26 @@ function setSum(country1) {
     }
     Baustein += `</div>`
     let countryElem = document.getElementById(country1)
-    countryElem.innerHTML += Baustein
     let cons = countryElem.parentNode.parentNode
-    cons.style.marginBottom = 61 * counter2 + 'px'
+    let punkt = document.getElementsByClassName('displayItemsCountry')
+    let i = 0
+    for (i = 0; i < punkt.length; i++) {
+        if (country1 == punkt[i].id) {
+            break
+        }
+    }
+    let currentMargin = (61 * counter2) + (61 * i) + 'px'
+    cons.animate([
+        { marginBottom: '0px' },
+        { marginBottom: currentMargin }
+    ], {
+        duration: 500,
+        easing: 'ease-in-out',
+        fill: 'forwards'
+    }).onfinish = () => {
+        countryElem.innerHTML += Baustein
+        cons.style.marginBottom = currentMargin;
+    };
     allCountriesContinent = []
     counter2 = 0
 }

@@ -165,6 +165,24 @@ window.data = [
                     149, 
                     35
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    7615, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -332,6 +350,24 @@ window.data = [
                     48, 
                     2, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    999, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -501,6 +537,24 @@ window.data = [
                     15, 
                     6
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1717, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -669,6 +723,24 @@ window.data = [
                     32, 
                     6
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    4121, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -800,6 +872,24 @@ window.data = [
                     0, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    580, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -969,6 +1059,24 @@ window.data = [
                     67, 
                     3
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    4594, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1118,6 +1226,24 @@ window.data = [
                     36, 
                     22, 
                     3
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    2057, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1443,6 +1569,24 @@ window.data = [
                     1, 
                     1
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    89, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1611,6 +1755,24 @@ window.data = [
                     45, 
                     8
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    3405, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -1778,6 +1940,24 @@ window.data = [
                     121, 
                     29, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1903, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -1989,6 +2169,24 @@ window.data = [
                     92, 
                     26
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    3593, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2138,6 +2336,24 @@ window.data = [
                     38, 
                     18, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    398, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2307,6 +2523,24 @@ window.data = [
                     22, 
                     60
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    3308, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2474,6 +2708,24 @@ window.data = [
                     7, 
                     1, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    288, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2643,6 +2895,24 @@ window.data = [
                     25, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    143, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -2774,6 +3044,24 @@ window.data = [
                     296, 
                     236, 
                     237
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1094, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -2925,6 +3213,24 @@ window.data = [
                     73, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    2482, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3056,6 +3362,24 @@ window.data = [
                     34, 
                     9, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    573, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3321,6 +3645,24 @@ window.data = [
                     10, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1060, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3471,6 +3813,24 @@ window.data = [
                     2, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    325, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3602,6 +3962,24 @@ window.data = [
                     22, 
                     18, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    427, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3735,6 +4113,24 @@ window.data = [
                     71, 
                     4
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    2350, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -3848,6 +4244,24 @@ window.data = [
                     4, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    293, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -3980,6 +4394,24 @@ window.data = [
                     40, 
                     7, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    2937, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -4269,6 +4701,24 @@ window.data = [
                     2, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    822, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4419,6 +4869,24 @@ window.data = [
                     11, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    506, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4551,6 +5019,24 @@ window.data = [
                     43, 
                     15
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    9, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4664,6 +5150,24 @@ window.data = [
                     47, 
                     13, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1177, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -4833,6 +5337,24 @@ window.data = [
                     22, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    3811, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -4964,6 +5486,24 @@ window.data = [
                     9, 
                     3, 
                     1
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1587, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -5157,6 +5697,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    201, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -5307,6 +5865,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    42, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -5402,6 +5978,24 @@ window.data = [
                     2, 
                     6, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    28, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -5499,6 +6093,24 @@ window.data = [
                     1, 
                     1
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    7, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -5594,6 +6206,24 @@ window.data = [
                     7, 
                     4, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    12, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -5691,6 +6321,24 @@ window.data = [
                     1, 
                     1
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    5, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -5787,6 +6435,24 @@ window.data = [
                     2, 
                     13
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -5882,6 +6548,24 @@ window.data = [
                     2, 
                     1, 
                     2
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    6, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -6050,6 +6734,24 @@ window.data = [
                     39, 
                     24, 
                     6
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    2705, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -6339,6 +7041,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -6573,6 +7293,24 @@ window.data = [
                     0, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    11, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -6771,6 +7509,24 @@ window.data = [
                     2, 
                     0
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1873, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -6885,6 +7641,24 @@ window.data = [
                 "CountryCode": "CN",
                 "Verkaufszahlen": [
                     1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    25, 
                     1000, 
                     1000, 
                     1000, 
@@ -7431,6 +8205,24 @@ window.data = [
                     10, 
                     6
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    14, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -7641,6 +8433,24 @@ window.data = [
                     43, 
                     5
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    3780, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -7718,6 +8528,24 @@ window.data = [
                     3, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    322, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -7844,6 +8672,24 @@ window.data = [
                     0, 
                     0, 
                     0
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    13, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -8355,6 +9201,24 @@ window.data = [
                     6, 
                     2
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    5073, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -8432,6 +9296,24 @@ window.data = [
                     29, 
                     10, 
                     8
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    145, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
                 ]
             }
         ]
@@ -8787,6 +9669,24 @@ window.data = [
                 "CountryCode": "CN",
                 "Verkaufszahlen": [
                     1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    4, 
                     1000, 
                     1000, 
                     1000, 
@@ -9339,6 +10239,24 @@ window.data = [
                     1000, 
                     1000
                 ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    1, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
             }
         ]
     },
@@ -9525,6 +10443,24 @@ window.data = [
                 "CountryCode": "CN",
                 "Verkaufszahlen": [
                     28032, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000, 
+                    1000
+                ]
+            },
+            {
+                "CountryName": "Spanien",
+                "CountryCode": "ES",
+                "Verkaufszahlen": [
+                    86, 
                     1000, 
                     1000, 
                     1000, 

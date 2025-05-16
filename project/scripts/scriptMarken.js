@@ -66,7 +66,13 @@ document.addEventListener('click', (ev) => {
 		drawGrid(look)
 	}
 })
-
+function backUp() {
+	window.scrollTo({
+		top: 0,
+		left: 100,
+		behavior: "smooth",
+	})
+}
 function changeMode() {
 	grid.innerHTML = ""
 	look = mode.value
