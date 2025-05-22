@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allgemein</title>
+    <script src="./data/data.js" defer></script>
+    <script src="./data/data2.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/jsvectormap"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jsvectormap/dist/jsvectormap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jsvectormap/dist/maps/world.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jsvectormap/dist/maps/world-merc.js"></script>
+    <script src="./scripts/continentScript.js" defer></script>
+    <script src="./scripts/scriptMain.js" defer></script>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div id="sidebar">
+      <h3 onclick="window.location.href='./index.html'">Allgemein</h3>
+        <h3 onclick="window.location.href='./info.html'">Info</h3>
+        <h3 onclick="window.location.href='./marken.html'">Marken</h3>
+        <h3 onclick="window.location.href='./proJahr.html'">pro Jahr</h3>
+        <img src="./images/button.png" id="sidebarButton" onclick="changeBar()">
+    </div>
+    <div id="mapData">
+        <div class="displayItems" id="Europa" data-continent="Europa"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Europa</h3></div><div id="inside"></div>
+        <div class="displayItems" id="Asien" data-continent="Asien"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Asien</h3></div><div id="inside"></div>
+        <div class="displayItems" id="Südamerika" data-continent="Südamerika"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Südamerika</h3></div><div id="inside"></div>
+        <div class="displayItems" id="Nordamerika" data-continent="Nordamerika"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Nordamerika</h3></div><div id="inside"></div>
+        <div class="displayItems" id="Afrika" data-continent="Afrika"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Afrika</h3></div><div id="inside"></div>
+        <div class="displayItems" id="Ozeanien" data-continent="Ozeanien"><img class="displayItemsImage" src="./images/arrow.png"><h3 class="fort">Ozeanien</h3></div><div id="inside"></div>
+    </div>
+</body>
+</html>

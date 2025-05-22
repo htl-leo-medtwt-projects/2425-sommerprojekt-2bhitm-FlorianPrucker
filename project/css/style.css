@@ -23,7 +23,15 @@ body {
     font-family: Designer;
     src: url('../font/Designer.otf');
 }
-
+#printInfo {
+    display: none;
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    background-color: #7D766A;
+}
 #map {
     height: 100vh;
     width: 100vw;
@@ -32,7 +40,7 @@ body {
 #sidebar {
     position: fixed;
     float: left;
-    height: 24vh;
+    height: 29.1vh;
     width: 15vw;
     top: 35%;
     border: 1px solid solid;
@@ -48,13 +56,14 @@ body {
 }
 
 #sidebar>h3 {
-    width: 71%;
-    height: 20%;
+    width: 73%;
+    height: 5vh;
     cursor: pointer;
     position: relative;
     z-index: 12;
     margin: 0;
     padding: 5%;
+    top: -5.9%;
 }
 
 #sidebar>h3:hover {
@@ -90,7 +99,7 @@ body {
 #sidebarButton {
     position: relative;
     float: right;
-    bottom: 66%;
+    bottom: 76%;
     width: 3vw;
     height: 8vh;
     left: 5%;
